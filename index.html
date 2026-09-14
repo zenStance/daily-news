@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ee6508">
+  <meta name="description" content="每日繁體中文新聞摘要，涵蓋國際、台灣、美國、股市、財經、大陸、科技與設計。">
+  <title>晨間新聞｜每日重點摘要</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --orange: #c94f00;
+      --text: #202020;
+      --muted: #646464;
+      --line: #e8e8e8;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      color: var(--text);
+      background: #fff;
+      font-family: -apple-system, BlinkMacSystemFont,
+        "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+    }
+    a { color: inherit; }
+    button { font: inherit; }
+    a:focus-visible, button:focus-visible {
+      outline: 3px solid var(--orange);
+      outline-offset: 4px;
+    }
+    .wrap {
+      width: min(1120px, 100%);
+      margin: auto;
+      padding: 0 20px;
+    }
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: #fff;
+      border-bottom: 1px solid var(--line);
+    }
+    .masthead {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 17px 0 10px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 25px;
+      font-weight: 800;
+      letter-spacing: .04em;
+    }
+    .brand-mark { color: var(--orange); }
+    .schedule {
+      color: var(--muted);
+      text-align: right;
+      font-size: 13px;
+    }
+    nav {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      scrollbar-width: thin;
+      padding-bottom: 3px;
+    }
+    nav a {
+      flex-shrink: 0;
+      padding: 10px 8px;
+      text-decoration: none;
+      white-space: nowrap;
+      font-size: 16px;
+      border-bottom: 3px solid transparent;
+    }
+    nav a:hover, nav a:focus-visible {
+      color: var(--orange);
+      border-bottom-color: var(--orange);
+    }
+    .issue-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 14px;
+      padding: 20px 0;
+    }
+    #edition { margin: 0; font-weight: 700; }
+    #status {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    #refresh {
+      flex-shrink: 0;
+      padding: 7px 11px;
+      border: 1px solid #d5d5d5;
+      border-radius: 5px;
+      background: #fff;
+      color: var(--text);
+      cursor: pointer;
+      font-size: 14px;
+    }
+    #refresh:disabled { opacity: .55; cursor: wait; }
+    #news {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 25px 40px;
+    }
+    .category {
+      min-width: 0;
+      scroll-margin-top: 145px;
+    }
+    .category h2 {
+      margin: 0;
+      padding: 0 0 10px;
+      border-bottom: 2px solid var(--line);
+      font-size: 19px;
+    }
+    .category h2::before {
+      content: "";
+      display: inline-block;
+      width: 4px;
+      height: 18px;
+      margin-right: 9px;
+      background: var(--orange);
+      vertical-align: -2px;
+    }
+    .design-note {
+      margin: 8px 0 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .news-card {
+      display: grid;
+      grid-template-columns: 112px minmax(0, 1fr);
+      align-items: start;
+      gap: 14px;
+      padding: 18px 0;
+      border-bottom: 1px solid var(--line);
+      text-decoration: none;
+    }
+    .news-card.text-only { grid-template-columns: 1fr; }
+    .news-card:hover h3 { color: var(--orange); }
+    .news-card img {
+      width: 112px;
+      height: 100px;
+      margin-top: 3px;
+      border-radius: 3px;
+      object-fit: cover;
+      background: #f2f2f2;
+    }
+    .news-card h3 {
+      margin: 0 0 7px;
+      font-size: 18px;
+      line-height: 1.45;
+      font-weight: 700;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 2;
+      overflow: hidden;
+      overflow-wrap: anywhere;
+    }
+    .summary {
+      margin: 0 0 9px;
+      color: #505050;
+      font-size: 16px;
+      line-height: 1.55;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 3;
+      overflow: hidden;
+      overflow-wrap: anywhere;
+    }
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 3px 10px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .source { color: var(--orange); }
+    .empty {
+      margin: 0;
+      padding: 24px 0;
+      color: var(--muted);
+      font-size: 15px;
+      border-bottom: 1px solid var(--line);
+    }
+    footer {
+      margin-top: 34px;
+      padding: 22px 0 70px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 14px;
+    }
+    footer p { margin: 0 0 10px; }
+    .sources { display: flex; flex-wrap: wrap; gap: 8px 18px; }
+    .to-top {
+      position: fixed;
+      right: 18px;
+      bottom: 20px;
+      display: grid;
+      place-items: center;
+      width: 44px;
+      height: 44px;
+      border: 1px solid #ddd;
+      border-radius: 50%;
+      background: #fff;
+      text-decoration: none;
+      color: var(--orange);
+      font-size: 24px;
+      box-shadow: 0 2px 8px #00000012;
+    }
+    @media (min-width: 900px) {
+      #news { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+    @media (max-width: 360px) {
+      .wrap { padding: 0 14px; }
+      .news-card { grid-template-columns: 90px minmax(0, 1fr); gap: 11px; }
+      .news-card img { width: 90px; height: 90px; }
+      h1 { font-size: 23px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+    }
+  </style>
+</head>
+<body id="top">
+  <header class="site-header">
+    <div class="wrap">
+      <div class="masthead">
+        <h1><span class="brand-mark">晨間</span>新聞</h1>
+        <div class="schedule">每日 05:00 換版<br>台灣時間</div>
+      </div>
+      <nav id="navigation" aria-label="新聞分類"></nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="issue-bar">
+      <div>
+        <p id="edition"></p>
+        <p id="status" role="status">正在讀取新聞資料……</p>
+      </div>
+      <button id="refresh" type="button">重新讀取</button>
+    </div>
+    <noscript>請開啟瀏覽器的 JavaScript，以顯示新聞摘要。</noscript>
+    <div id="news"></div>
+  </main>
+
+  <footer class="wrap">
+    <p>新聞來源</p>
+    <div class="sources">
+      <a href="https://tw.news.yahoo.com/" target="_blank" rel="noopener noreferrer">Yahoo 奇摩新聞</a>
+      <a href="https://udn.com/" target="_blank" rel="noopener noreferrer">聯合新聞網</a>
+      <a href="https://www.ettoday.net/news/news-list.htm" target="_blank" rel="noopener noreferrer">ETtoday 新聞雲</a>
+      <a href="https://www.chinatimes.com/?chdtv" target="_blank" rel="noopener noreferrer">中時新聞網</a>
+      <a href="https://edition.cnn.com/" target="_blank" rel="noopener noreferrer">CNN</a>
+      <a href="https://www.cnbc.com/world/?region=world" target="_blank" rel="noopener noreferrer">CNBC</a>
+    </div>
+  </footer>
+
+  <a class="to-top" href="#top" aria-label="回到頂端">↑</a>
+
+  <script>
+    const categories = [
+      ["international", "國際新聞", "國際"],
+      ["taiwan", "台灣新聞", "台灣"],
+      ["us", "美國新聞", "美國"],
+      ["stocks", "台灣與美國股市新聞", "股市"],
+      ["finance", "台灣、美國及中國財經新聞", "財經"],
+      ["china", "大陸新聞", "大陸"],
+      ["technology", "科技新聞", "科技"],
+      ["design", "設計新聞", "設計"]
+    ];
+
+    const news = document.querySelector("#news");
+    const status = document.querySelector("#status");
+    const refresh = document.querySelector("#refresh");
+    let digest = null;
+    let busy = false;
+
+    // 以台灣時間早上 5 點作為每日換版界線。
+    function editionKey() {
+      return new Date(Date.now() + 3 * 60 * 60 * 1000)
+        .toISOString().slice(0, 10);
+    }
+
+    function make(tag, className, text) {
+      const element = document.createElement(tag);
+      if (className) element.className = className;
+      if (text !== undefined) element.textContent = text;
+      return element;
+    }
+
+    function safeUrl(value) {
+      try {
+        const url = new URL(value);
+        return url.protocol === "https:" && !url.username && !url.password
+          ? url.href : "";
+      } catch {
+        return "";
+      }
+    }
+
+    function formatTime(value) {
+      if (!value) return "";
+      const date = new Date(value);
+      if (Number.isNaN(date.getTime())) return "";
+      return new Intl.DateTimeFormat("zh-TW", {
+        timeZone: "Asia/Taipei",
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit",
+        hourCycle: "h23"
+      }).format(date);
+    }
+
+    for (const [id, , shortName] of categories) {
+      const link = make("a", "", shortName);
+      link.href = "#" + id;
+      document.querySelector("#navigation").append(link);
+    }
+
+    function render() {
+      const currentEdition = editionKey();
+      if (digest && digest.edition !== currentEdition) digest = null;
+
+      document.querySelector("#edition").textContent =
+        currentEdition.replaceAll("-", " / ") + " 早報";
+
+      news.replaceChildren();
+      let count = 0;
+      const seen = new Set();
+
+      const articles = (digest?.articles || []).filter(article =>
+        article &&
+        typeof article.title === "string" &&
+        article.title.trim() &&
+        typeof article.summary === "string" &&
+        safeUrl(article.url)
+      );
+
+      for (const [id, name] of categories) {
+        const section = make("section", "category");
+        section.id = id;
+        section.append(make("h2", "", name));
+
+        if (id === "design") {
+          section.append(make("p", "design-note",
+            "介面設計・工業設計・產品設計・室內設計"));
+        }
+
+        const selected = articles.filter(article => {
+          const url = safeUrl(article.url);
+          return article.category === id && !seen.has(url);
+        });
+
+        let added = 0;
+        for (const article of selected) {
+          const url = safeUrl(article.url);
+          if (seen.has(url)) continue;
+          seen.add(url);
+
+          const card = make("a", "news-card");
+          card.href = url;
+          card.target = "_blank";
+          card.rel = "noopener noreferrer";
+
+          const imageUrl = safeUrl(article.image_url);
+          if (imageUrl) {
+            const image = make("img");
+            image.src = imageUrl;
+            image.alt = "";
+            image.loading = "lazy";
+            image.decoding = "async";
+            image.referrerPolicy = "no-referrer";
+            image.addEventListener("error", () => {
+              image.remove();
+              card.classList.add("text-only");
+            }, { once: true });
+            card.append(image);
+          } else {
+            card.classList.add("text-only");
+          }
+
+          const content = make("div");
+          content.append(make("h3", "", article.title));
+          content.append(make("p", "summary", article.summary));
+
+          const meta = make("div", "meta");
+          meta.append(make("span", "source",
+            (article.source || "新聞來源") + "・閱讀原文"));
+          meta.append(make("span", "", formatTime(article.published_at)));
+          content.append(meta);
+          card.append(content);
+          section.append(card);
+
+          count++;
+          if (++added === 2) break;
+        }
+
+        if (!added) {
+          section.append(make("p", "empty",
+            digest ? "本期尚無符合條件的新聞。" : "尚未收到本期新聞資料。"));
+        }
+
+        news.append(section);
+      }
+
+      const updated = formatTime(digest?.updated_at);
+      status.textContent = digest
+        ? `${updated ? "更新於 " + updated + "・" : ""}共 ${count} 則新聞`
+        : "尚未收到本期新聞資料。";
+    }
+
+    async function loadNews() {
+      if (busy) return;
+      busy = true;
+      refresh.disabled = true;
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 12000);
+
+      try {
+        const response = await fetch("./news.json?t=" + Date.now(), {
+          cache: "no-store",
+          signal: controller.signal
+        });
+
+        if (response.status === 404) {
+          render();
+          return;
+        }
+        if (!response.ok) throw new Error("讀取失敗");
+
+        const incoming = await response.json();
+        if (!Array.isArray(incoming.articles)) {
+          throw new Error("資料格式不符");
+        }
+
+        digest = incoming.edition === editionKey() ? incoming : null;
+        render();
+      } catch {
+        render();
+        status.textContent = digest
+          ? "暫時無法檢查更新，目前顯示已讀取的本期新聞。"
+          : "目前無法讀取本期新聞，請稍後重新讀取。";
+      } finally {
+        clearTimeout(timeout);
+        busy = false;
+        refresh.disabled = false;
+      }
+    }
+
+    // 頁面開著時，到了換版時間也會移除上一期內容。
+    function watchCutoff() {
+      const nextCutoff =
+        Date.parse(editionKey() + "T05:00:00+08:00") + 86400000;
+      setTimeout(() => {
+        render();
+        loadNews();
+        watchCutoff();
+      }, Math.max(100, nextCutoff - Date.now() + 50));
+    }
+
+    refresh.addEventListener("click", () => {
+      render();
+      loadNews();
+    });
+
+    document.addEventListener("visibilitychange", () => {
+      if (!document.hidden) {
+        render();
+        loadNews();
+      }
+    });
+
+    setInterval(() => {
+      if (!document.hidden) {
+        render();
+        loadNews();
+      }
+    }, 60000);
+
+    render();
+    loadNews();
+    watchCutoff();
+
+    /*
+      下一步的蒐集程式將產生同一資料夾內的 news.json：
+      {
+        "edition": "YYYY-MM-DD",
+        "updated_at": "含時區的日期時間",
+        "articles": [{
+          "category": "上述分類代碼",
+          "title": "繁體中文標題",
+          "summary": "繁體中文摘要",
+          "source": "來源名稱",
+          "url": "原文網址",
+          "image_url": "圖片網址或空字串",
+          "published_at": "含時區的發布時間"
+        }]
+      }
+    */
+  </script>
+</body>
+</html>
