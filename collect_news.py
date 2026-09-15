@@ -12,6 +12,7 @@ import hashlib
 import html
 import json
 import os
+import random
 import re
 import sys
 import threading
@@ -464,6 +465,17 @@ title 約 18–32 個中文字，最多 48 字。summary 約 40–90 字，最�
 rank 為該類重要順序 1 或 2。只回傳 JSON 物件：{"articles":[...]}。"""
 
 
+GEMINI_MAX_ATTEMPTS = 6
+
+
+def wait_before_gemini_retry(attempt, reason):
+    # 逐步延長等待，並稍微錯開時間，避免服務繁忙時連續立即重送。
+    delay = min(15 * 2 ** attempt, 180) + random.randint(0, 5)
+    print(f"Gemini 第 {attempt + 1}/{GEMINI_MAX_ATTEMPTS} 次請求未完成（{reason}）；"
+          f"等待 {delay} 秒後自動重試。", flush=True)
+    time.sleep(delay)
+
+
 def select_with_gemini(candidates, now):
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not key:
@@ -495,24 +507,25 @@ def select_with_gemini(candidates, now):
                              "responseMimeType": "application/json", "responseSchema": schema}
     }
     endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
-    for attempt in range(3):
+    for attempt in range(GEMINI_MAX_ATTEMPTS):
         try:
             response = requests.post(endpoint, json=payload,
                 headers={"x-goog-api-key": key, "Content-Type": "application/json"}, timeout=(15, 100))
         except requests.RequestException:
-            if attempt == 2:
-                raise RuntimeError("Gemini 連線失敗，請稍後重新執行。") from None
-            time.sleep(10 * (attempt + 1))
+            if attempt == GEMINI_MAX_ATTEMPTS - 1:
+                raise RuntimeError(f"Gemini 連線失敗，已嘗試 {GEMINI_MAX_ATTEMPTS} 次；本次尚未發布，請稍後重新執行。") from None
+            wait_before_gemini_retry(attempt, "連線逾時或中斷")
             continue
-        if response.status_code in {429, 500, 502, 503, 504} and attempt < 2:
-            time.sleep(15 * (attempt + 1))
+        if response.status_code in {408, 429, 500, 502, 503, 504} and attempt < GEMINI_MAX_ATTEMPTS - 1:
+            wait_before_gemini_retry(attempt, f"HTTP {response.status_code}")
             continue
         if response.status_code != 200:
             messages = {
                 400: "Gemini 不接受此請求；請確認使用新建立的有效金鑰及可用模型。",
                 401: "Gemini 金鑰驗證失敗。", 403: "Gemini 金鑰或專案未取得此模型的使用權限。",
                 404: "Gemini 模型目前不可用；請檢查 GEMINI_MODEL 設定。",
-                429: "Gemini 免費額度或速率限制已用盡，請稍後重新執行。",
+                429: "Gemini 額度或速率受到限制（HTTP 429）；請到 AI Studio 檢查配額，再稍後重新執行。",
+                503: f"Gemini 暫時無法提供服務（HTTP 503），已嘗試 {GEMINI_MAX_ATTEMPTS} 次；本次尚未發布，請稍後重新執行。",
             }
             raise RuntimeError(messages.get(response.status_code, f"Gemini 服務錯誤：HTTP {response.status_code}"))
         try:
