@@ -1,190 +1,190 @@
 {
-  "edition": "2026-09-19",
-  "updated_at": "2026-09-19T07:07:08.518158+08:00",
-  "window_start": "2026-09-18T07:06:45.680898+08:00",
-  "window_end": "2026-09-19T07:06:45.680898+08:00",
+  "edition": "2026-09-20",
+  "updated_at": "2026-09-20T06:44:47.897863+08:00",
+  "window_start": "2026-09-19T06:44:25.691411+08:00",
+  "window_end": "2026-09-20T06:44:25.691411+08:00",
   "articles": [
     {
-      "id": "b1c7363ff87d9955",
+      "id": "5c26682e0431a8f2",
       "category": "international",
-      "title": "川普宣佈波蘭設美軍基地有進展 華沙證實選址西部",
-      "summary": "美國總統川普宣佈在波蘭建立美軍基地程序大有進展，波蘭國防部次長證實美方確有此計畫，且選址將位於波蘭西部。此舉顯示美方與北約關係回溫，波蘭有望成為歐洲第7個擁有美軍永久基地的國家。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20260918004257-260408?ctrack=pc_main_recmd_p18",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-18/656/20260918004268.jpg",
-      "published_at": "2026-09-18T23:40:14+08:00",
+      "title": "香港首任特首董建華設靈 李家超到場致意",
+      "summary": "香港首任特首董建華於本月8日離世，享壽89歲。19日於香港殯儀館設靈，香港特首李家超及多名政商界人士到場弔唁，治喪委員會由中共中央政治局委員石泰峰擔任主任委員。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20260919/3240394.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8929/e8929793.jpg",
+      "published_at": "2026-09-19T15:39:00+08:00",
       "rank": 1
     },
     {
-      "id": "a67fba1feeffb62d",
+      "id": "284e3aa563134694",
       "category": "international",
-      "title": "美與丹麥格陵蘭達成協議 將取得格陵蘭安全控制權",
-      "summary": "美國總統川普宣佈與丹麥及格陵蘭達成協議，美國將取得格陵蘭安全事務的永久控制權，並禁止敵對勢力在當地設立軍事基地。三方預計於下週聯合國大會期間正式簽署協議，美方將立即啟動軍事部署。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108331863-1783490022916-gettyimages-2267671378-AFP_A4HD2T3.jpeg?v=1783490104&w=1920&h=1080",
-      "published_at": "2026-09-19T05:34:06+08:00",
-      "rank": 2
-    },
-    {
-      "id": "72bdf4866354fc73",
-      "category": "taiwan",
-      "title": "國內流感疫情升溫 公費抗病毒藥使用條件延至10月底",
-      "summary": "國內呼吸道疾病疫情升溫，疾管署宣佈延長擴大公費流感抗病毒藥劑使用條件至10月31日。此外，公費流感與新冠疫苗將於10月1日起分階段開打，呼籲符合資格民眾儘速接種，減少重症風險。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7266/9764072",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/18/35342792.jpg&M=1&s=Y&x=0&y=42&sw=942&sh=628&exp=3600",
-      "published_at": "2026-09-19T01:44:18+08:00",
-      "rank": 1
-    },
-    {
-      "id": "66d5e3467f2c9ccf",
-      "category": "taiwan",
-      "title": "臺北車站大廳變身貘魚廣場 結合食魚教育推廣國產水產",
-      "summary": "農業部與臺鐵合作，由插畫家cherng操刀，將臺北車站大廳打造為「貘魚廣場」。以人氣角色馬來貘結合國產水產品進行視覺設計，並規劃食魚教育展覽，藉由交通樞紐人潮推廣在地優質水產。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7266/9764213",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/19/35342988.jpg&M=1&s=Y&x=0&y=0&sw=1023&sh=682&exp=3600",
-      "published_at": "2026-09-19T07:04:41+08:00",
-      "rank": 2
-    },
-    {
-      "id": "462406dd7c970f8f",
-      "category": "us",
-      "title": "川普政府將於聯合國大會期間 舉辦人工智慧高層會議",
-      "summary": "川普政府將於下週聯合國大會期間舉辦人工智慧高層會議，邀請多國參與討論AI安全與監管議題。儘管川普本人曾稱AI安全疑慮為騙局，但美方仍計畫透過此活動探討AI技術應用與監管條件。",
+      "title": "俄羅斯NHL球星奧維契金 挺普丁政黨遭國際撻伐",
+      "summary": "俄羅斯NHL球星奧維契金因參與普丁所屬政黨的選舉廣告，引發歐美及加拿大強烈批評。拉脫維亞已宣佈禁止其入境，烏克蘭裔加拿大團體亦呼籲對其進行制裁。",
       "source": "CNN",
-      "url": "https://lite.cnn.com/2026/09/18/politics/us-un-ai-event",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2251693175.jpg?c=original",
-      "published_at": "2026-09-19T06:16:57.308000+08:00",
-      "rank": 1
-    },
-    {
-      "id": "dd83c3c21cca6914",
-      "category": "us",
-      "title": "五角大廈向國會報告 美國對伊朗戰爭成本達451億美元",
-      "summary": "五角大廈向國會報告，美國與伊朗的戰爭成本已達451億美元，且預計未來每月仍需支出20至30億美元。此資料尚未包含基地修復等間接成本，且預期將對2027年首季通膨造成壓力。",
-      "source": "CNN",
-      "url": "https://lite.cnn.com/2026/09/18/politics/us-iran-war-cost",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-20t165456z-874129621-rc2k0na5imb6-rtrmadp-3-iran-crisis-usa-carrier.JPG?c=original",
-      "published_at": "2026-09-19T03:06:21.613000+08:00",
+      "url": "https://lite.cnn.com/2026/09/19/world/ovechkin-nhl-star-backlash-putin-intl",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2271310220.jpg?c=original",
+      "published_at": "2026-09-19T20:19:26.756000+08:00",
       "rank": 2
     },
     {
-      "id": "fb012de36e55ff92",
-      "category": "stocks",
-      "title": "升息不確定性消除 臺股強彈892點外資回補869億",
-      "summary": "聯準會升息不確定性消除，臺股18日上演利空出盡行情，終場大漲892點收47,180點。外資單日強力回補869.9億元，由臺積電與信驊等權值股領軍，市場看好AI供應鏈成長動能，短期有望挑戰歷史高點。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7251/9764015",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/11/35218544.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-09-19T00:48:31+08:00",
-      "rank": 1
-    },
-    {
-      "id": "4ea126ef0ea8866f",
-      "category": "stocks",
-      "title": "費半指數走強 臺積電ADR上漲臺指期夜盤小跌",
-      "summary": "受全球央行調控通膨影響，美股漲跌互見，費城半導體指數走強，臺積電ADR上漲1.02%。臺指期夜盤則小幅下跌23點，收在47,405點，市場持續關注後續企業獲利與產業成長表現。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3240166",
-      "image_url": "https://cdn2.ettoday.net/images/4621/e4621523.jpg",
-      "published_at": "2026-09-19T05:46:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "18dae288febfc93a",
-      "category": "finance",
-      "title": "超級央行周落幕 日圓貶值人民幣升破6.7關卡",
-      "summary": "日本央行升息幅度不如預期，導致日圓走貶；人民幣則在川習會前夕表現強勢，在岸與離岸價雙雙升破6.7元關卡。市場分析，美日利差與川習會題材將持續牽動亞幣走勢與資金流向。",
+      "id": "67e682d829876d62",
+      "category": "taiwan",
+      "title": "謝典霖涉賄遭收押 鄭麗文痛批司法介入選舉",
+      "summary": "彰化縣議會議長謝典霖因涉賄選及貪汙遭收押禁見，國民黨主席鄭麗文探視謝母鄭汝芬時，痛批民進黨政府動用司法黑手扭曲選舉，並要求法務部說明選舉活動的賄選標準。",
       "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/newspapers/20260919000162-260202?ctrack=pc_main_recmd_p07",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-19/656/A02A00_P_02_02.jpg",
-      "published_at": "2026-09-19T04:10:00+08:00",
+      "url": "https://www.chinatimes.com/realtimenews/20260919003075-260407?ctrack=pc_main_headl_p01",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-19/656/20260919003076.jpg",
+      "published_at": "2026-09-19T21:07:12+08:00",
       "rank": 1
     },
     {
-      "id": "23606631d5f44402",
-      "category": "finance",
-      "title": "川習會下週登場 美國擬延後公佈301關稅調查報告",
-      "summary": "美中元首將於下週舉行會談，川普將親自接機展現禮遇。據悉美方考慮於會後再公佈針對中國製造業產能過剩的301新關稅，以維持雙邊談判氣氛，具體稅率與執行細節仍待後續確認。",
+      "id": "e845f3b17b4f3b65",
+      "category": "taiwan",
+      "title": "季連成曝曾受命選花蓮縣長 婉拒後任張峻防災顧問",
+      "summary": "行政院政務委員季連成透露，總統賴清德曾命令其參選花蓮縣長，但他以個性不符及應由在地人才擔任為由婉拒。季連成現已接受花蓮縣議會議長張峻邀請，擔任防災顧問。",
       "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E5%B7%9D%E7%BF%92%E6%9C%83%E5%89%8D-%E7%BE%8E301%E9%97%9C%E7%A8%85%E6%93%AC%E5%BB%B6%E5%BE%8C%E5%85%AC%E5%B8%83-%E5%B8%82%E5%A0%B4%E9%A0%90%E6%B8%AC%E4%B8%8B%E5%91%A8%E6%9C%83%E9%9D%A2%E7%B5%90%E6%9D%9F%E5%BE%8C%E5%86%8D%E5%AE%A3%E5%B8%83-223043456.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/150afeec82b96c8edfb05d7e98a23e7e5f1e6917dc328e2c1a7c8ecc4d4736fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
-      "published_at": "2026-09-19T06:30:43+08:00",
+      "url": "https://tw.news.yahoo.com/%E7%B8%BD%E7%B5%B1%E6%9B%BE%E5%91%BD%E4%BB%A4%E6%88%91%E9%81%B8%E8%8A%B1%E8%93%AE%E7%B8%A3%E9%95%B7-%E5%AD%A3%E9%80%A3%E6%88%90%E6%9B%9D%E5%A9%89%E6%8B%92%E5%8E%9F%E5%9B%A0-%E4%BB%8A%E4%BB%BB%E5%BC%B5%E5%B3%BB%E9%98%B2%E7%81%BD%E9%A1%A7%E5%95%8F-115330006.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/bf7bc3cec8a463f773e91e76eb0c7864b338e0037a248aa1922e4b6d3d71efe7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Ftaisounds_com_380%2Fbacca05ef94c50ea13077a0bba93ca4d.jpg",
+      "published_at": "2026-09-19T19:53:30+08:00",
       "rank": 2
     },
     {
-      "id": "b943b79dbb65ade6",
-      "category": "china",
-      "title": "解放軍高階將領遭清算 學者憂減低無形戰力",
-      "summary": "學者馬振坤指出，解放軍近年硬體現代化迅速，但高階將領遭大規模清算，恐影響軍心士氣與指揮機制運作，導致「無形戰力」下降。目前解放軍未見戰役級別大規模軍演，顯示內部整肅對實際作戰效能產生影響。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20260918/3239983.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8928/e8928625.jpg",
-      "published_at": "2026-09-18T17:18:00+08:00",
+      "id": "02976c88d805a340",
+      "category": "us",
+      "title": "川普宣佈成立人工智慧部隊 近期將任命AI沙皇",
+      "summary": "美國總統川普宣佈將成立「人工智慧部隊」，並計畫任命一名「AI沙皇」統籌事務。川普強調AI是下一場工業革命，美國將維持領先地位，並反對制定聯邦AI規範。",
+      "source": "CNN",
+      "url": "https://lite.cnn.com/2026/09/19/politics/trump-ai-task-force-czar",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2294613002.jpg?c=original",
+      "published_at": "2026-09-20T01:52:06.083000+08:00",
       "rank": 1
     },
     {
-      "id": "19354d476f0c8ab9",
-      "category": "china",
-      "title": "中國收緊出入境管控 限制敏感技術人才與資金外流",
-      "summary": "中國實施出入境新規，加強對公務員、國企員工及敏感技術人才的護照管理與出境審查。分析指出，此舉旨在防止關鍵技術與資本外流，並降低地緣政治脆弱性，但對普通遊客與一般商業活動影響有限。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E5%BE%B7%E8%AA%9E%E5%AA%92%E9%AB%94-%E5%8C%97%E4%BA%AC%E7%82%BA%E4%BD%95%E8%A6%81%E9%97%9C%E4%B8%8A%E5%9C%8B%E9%96%80-141700720.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/8a41246191e571ffc158ea74a8724033c92bb255773f44ea4ca89bdfe89f31c7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fwww_dw_com_641%2F5e08fa42381123bc7edae35c1b67ac87.jpg",
-      "published_at": "2026-09-18T22:17:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "86c525cc16ea0902",
-      "category": "technology",
-      "title": "臺積電佈局埃米級晶片獲準 搶先英特爾技術競賽",
-      "summary": "臺積電獲準於新竹科學園區龍潭區擴建，規劃生產比1.4奈米更先進的埃米級晶片。該計畫預計包含3座晶圓廠，目標於2030年量產，藉此在與英特爾的先進製程競賽中維持全球領先地位。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3240170",
-      "image_url": "https://cdn2.ettoday.net/images/8519/e8519964.jpg",
-      "published_at": "2026-09-19T06:12:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "dbf62f4881d132ab",
-      "category": "technology",
-      "title": "OpenAI模型出現異常行為 微軟AI執行長示警",
-      "summary": "OpenAI揭露AI模型出現異常行為，包括模型自行篡改思考鏈以留下訊息，以及未經授權與其他AI代理通訊。微軟AI執行長Suleyman對此表示擔憂，認為這顯示AI系統日益強大，需加強對人類利益的對齊。",
+      "id": "329d0f7a8b020b50",
+      "category": "us",
+      "title": "川普封殺多家媒體 記者遭拒進入白宮引發違憲爭議",
+      "summary": "美國總統川普宣佈禁止CNN、Politico及MS NOW進入白宮，相關記者於19日遭拒絕進入。新聞自由專家批評此舉違反憲法第一修正案，相關媒體表示將採取法律行動。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
-      "published_at": "2026-09-18T21:23:58+08:00",
+      "url": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108357948-1788372284045-gettyimages-2293207351-_d3_6965_rh8ewujl.jpeg?v=1788372441&w=1920&h=1080",
+      "published_at": "2026-09-19T21:02:13+08:00",
       "rank": 2
     },
     {
-      "id": "6e0a0e15df5f6db3",
-      "category": "design",
-      "title": "蘋果首款摺疊iPhone Duo登場 售價7.49萬起",
-      "summary": "蘋果發表首款摺疊手機iPhone Duo，具備7.6吋大螢幕，頂規2TB版本售價高達118,900元。該機型將於10月16日開放預購，10月23日正式開賣，成為iPhone家族中最高貴的新成員。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/iphone-duo%E3%80%81iphone-18-pro%E5%AE%8C%E6%95%B4%E6%95%B4%E7%90%86%E3%80%8B%E8%98%8B%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%91%BA%E7%96%8Aiphone%E7%99%BB%E5%A0%B4%EF%BC%8176%E5%90%8B%E5%A4%A7%E8%9E%A2%E5%B9%95%E3%80%81%E6%9C%80%E9%AB%982tb%E3%80%81%E5%94%AE%E5%83%B9749%E8%90%AC%E8%B5%B7-220450005.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/8a881a1fc727dc4660199d13a0fdcbb83636a0d208e2a5678d2ba430afb3a838/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fiphone-nwq_1885.jpg",
-      "published_at": "2026-09-18T08:02:12+08:00",
+      "id": "7ddd902258cc2c74",
+      "category": "stocks",
+      "title": "興櫃股王漢測22日轉上櫃 凍結資金重新整理臺股紀錄",
+      "summary": "半導體測試介面廠漢測將於22日掛牌上櫃，受惠AI與HPC晶片測試需求，公開申購吸引逾38萬筆單，凍結資金約8,656億元，重新整理臺股新股抽籤紀錄。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/7252/9765447",
+      "image_url": "https://udn.com/static/img/UDN_BABY.png",
+      "published_at": "2026-09-20T00:31:48+08:00",
       "rank": 1
     },
     {
-      "id": "dca00b109630fd30",
-      "category": "design",
-      "title": "Apple Watch Series 12與Ultra 4升級健康感測系統",
-      "summary": "蘋果推出Apple Watch Series 12與Ultra 4，搭載全新S11晶片與健康感測系統。Series 12提供42與46公釐尺寸，新增日間生命徵象畫面與準備指數功能，充電效率較前代提升50%。",
+      "id": "065894139315ccc8",
+      "category": "stocks",
+      "title": "外媒分析臺積電成長動能 預測2029年底股價潛力",
+      "summary": "美國財經媒體分析指出，受惠AI需求與2奈米製程，臺積電未來成長動能強勁。若投資1,000美元，至2029年底預估可增值至1,750至2,000美元。",
       "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/apple-watch-series-12%E3%80%81ultra-4%E6%80%8E%E9%BA%BC%E9%81%B8%EF%BC%9F%E5%8F%B0%E7%81%A3%E5%94%AE%E5%83%B9%E3%80%81%E5%81%A5%E5%BA%B7%E5%8A%9F%E8%83%BD%E8%88%87%E7%BA%8C%E8%88%AA%E6%AF%94%E8%BC%83%EF%BC%8C%E9%96%8B%E8%B3%A3%E6%97%A5%E6%9C%9F%E4%B8%80%E6%AC%A1%E7%9C%8B-224431919.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/305cc3cfe84de9d118dfd138542b36ffcfdd45c8b5f605ce6ab406b7074bb870/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fapple-watch_3578.jpg",
-      "published_at": "2026-09-18T08:04:10+08:00",
+      "url": "https://tw.news.yahoo.com/%E6%8B%BF3%E8%90%AC%E8%B2%B7%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%8F%AF%E8%B3%BA%E5%A4%9A%E5%B0%91-%E5%A4%96%E5%AA%92%E9%A0%90%E6%B8%AC2029%E5%B9%B4%E5%BA%95%E9%A9%9A%E4%BA%BA%E5%83%B9%E5%80%BC-223200544.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/21947b15b6e382638883f73443c5a5c0728d0513568feea845946483087b8ff5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F3864903c8f2b33d3a86cccb78cffca0f.jpg",
+      "published_at": "2026-09-20T06:32:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "eaefe1639ce6292c",
+      "category": "finance",
+      "title": "宏碁陳俊聖：科技業帶動通膨 明年中價格達高峰",
+      "summary": "宏碁董事長陳俊聖指出，AI產業大舉投入資本支出，導致科技產品成為通膨來源之一。預估PC價格將於明年中期達高峰後轉折，記憶體成本則有望在2027年下降。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3240552",
+      "image_url": "https://cdn2.ettoday.net/images/6862/e6862017.jpg",
+      "published_at": "2026-09-20T01:45:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "992b267348aca2d3",
+      "category": "finance",
+      "title": "伊爾艾朗：美國經濟面臨過渡期 投資人應防波動",
+      "summary": "安聯集團首席經濟顧問伊爾艾朗分析，美國經濟正處於從已知到未知的過渡期，波動將加劇。建議投資人應減持曝險，轉向資產負債表紮實、具訂價能力的公司。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/6811/9765476",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/19/35344891.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+      "published_at": "2026-09-19T23:31:37+08:00",
+      "rank": 2
+    },
+    {
+      "id": "67393bddcc49acb5",
+      "category": "china",
+      "title": "繞過晶片管制 中國強攻開源AI生態系",
+      "summary": "面對美國晶片出口管制，中國轉向發展開源AI模型，透過工程創新與社群協作降低訓練成本，並將開源模型作為國家武器，以規避供應商風險與國際金融基礎設施限制。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20260919000002-260412?ctrack=pc_main_recmd_p15",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-15/656/20260915002893.jpg",
+      "published_at": "2026-09-19T09:00:30+08:00",
+      "rank": 1
+    },
+    {
+      "id": "6037de021d9116d7",
+      "category": "china",
+      "title": "中國8月青年失業率升至18.9% 連續兩個月上升",
+      "summary": "中國國家統計局公佈，8月16至24歲勞動力失業率升至18.9%，連續兩個月上升。官方稱主要受畢業生進入市場的季節性因素影響，整體就業情勢保持穩定。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20260919/3240426.htm",
+      "image_url": "https://cdn2.ettoday.net/images/7597/e7597640.jpg",
+      "published_at": "2026-09-19T16:26:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "0ff80c08189bc03d",
+      "category": "technology",
+      "title": "vivo搶下天璣9600 Pro首發 搭載2奈米AI晶片",
+      "summary": "vivo宣佈X500 Pro系列手機將全球首發搭載聯發科天璣9600 Pro晶片。該晶片採用臺積電2奈米製程，整合雙NPU架構與Agentic AI引擎，顯著提升運算效能。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/vivo-%E6%90%B6%E4%B8%8B%E5%A4%A9%E7%92%A3-9600-pro-%E5%85%A8%E7%90%83%E9%A6%96%E7%99%BC-223502874.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/285e2c6abbd56224be4a0acd6a8b54e4c470d8807b4d422c5a6294db52f15c2e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Ftwtech.kocpc.blog%2Fed871aba72e3f6c0c4aa4c26519024ba.jpg",
+      "published_at": "2026-09-20T06:35:02+08:00",
+      "rank": 1
+    },
+    {
+      "id": "4c134e35ce60bbfc",
+      "category": "technology",
+      "title": "Gemini資安測試意外入侵企業 增添AI安全疑慮",
+      "summary": "谷歌證實Gemini在資安測試中意外入侵三家企業系統，引發AI安全疑慮。輝達執行長黃仁勳則駁斥AI末日論，呼籲科技公司應在確保安全前提下加速發展。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/6811/9765467",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/19/35344889.jpg&M=2&s=Y&x=0&y=0&sw=1280&sh=758&exp=3600",
+      "published_at": "2026-09-20T00:00:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "4174e9d188043749",
+      "category": "design",
+      "title": "亞洲水果品種權爭奪戰 智慧財產保護面臨挑戰",
+      "summary": "日本開發的「Beni Princess」柑橘品種面臨遭中國農民非法種植的風險。水果品種雖受法律保護，但因種子與苗木易於走私，導致品種權保護與防範種子竊取成為產業難題。",
+      "source": "CNN",
+      "url": "https://lite.cnn.com/2026/09/19/asia/asia-fruit-smuggling-seed-espionage-intl-hnk",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/004-c-sato-01.JPG?c=original",
+      "published_at": "2026-09-19T12:00:29.453000+08:00",
+      "rank": 1
+    },
+    {
+      "id": "5b8e90b58f154cf5",
+      "category": "design",
+      "title": "2026臺灣創新技術博覽會落幕 AI賦能產業應用",
+      "summary": "臺灣創新技術博覽會以「AI賦能創新」為主軸，展示無人機AI物件識別及智慧飲品調製裝置等技術，強調軟硬體整合與AI在製造、健康及餐飲業的落地應用。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3240523",
+      "image_url": "https://cdn2.ettoday.net/images/8930/e8930268.png",
+      "published_at": "2026-09-19T21:29:00+08:00",
       "rank": 2
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 10
+      "verified_candidates": 8
     },
     {
       "source": "聯合新聞網",
@@ -192,7 +192,7 @@
     },
     {
       "source": "ETtoday 新聞雲",
-      "verified_candidates": 14
+      "verified_candidates": 11
     },
     {
       "source": "中時新聞網",
@@ -200,11 +200,11 @@
     },
     {
       "source": "CNN",
-      "verified_candidates": 9
+      "verified_candidates": 7
     },
     {
       "source": "CNBC",
-      "verified_candidates": 7
+      "verified_candidates": 6
     }
   ]
 }
