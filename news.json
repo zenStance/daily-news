@@ -1,210 +1,210 @@
 {
-  "edition": "2026-09-22",
-  "updated_at": "2026-09-22T08:00:34.740643+08:00",
-  "window_start": "2026-09-21T07:54:49.713372+08:00",
-  "window_end": "2026-09-22T07:54:49.713372+08:00",
+  "edition": "2026-09-23",
+  "updated_at": "2026-09-23T07:32:20.847943+08:00",
+  "window_start": "2026-09-22T07:31:56.649282+08:00",
+  "window_end": "2026-09-23T07:31:56.649282+08:00",
   "articles": [
     {
-      "id": "897832866401b245",
+      "id": "b8abb0c1da5dd12c",
       "category": "international",
-      "title": "美日韓外長紐約會晤 聯合宣告重申維護臺海和平穩定",
-      "summary": "美國國務卿盧比歐與日韓外長於紐約會晤，發表聯合宣告重申對日韓的防衛承諾，並強調維護臺海和平穩定的重要性，同時支援臺灣有意義參與國際組織，並反對經濟脅迫與擾亂供應鏈的行為。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6809/9769514",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/22/35350876.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-09-22T07:40:11+08:00",
+      "title": "習近平訪美將會晤川普 傳擬重提八一七公報施壓對臺軍售",
+      "summary": "中國國家主席習近平於23日至25日訪美，預計24日與美國總統川普會談。據悉，中方可能在參觀國家檔案館時重提1982年《八一七公報》，要求美方停止對臺軍售及交付已訂購武器，並將臺灣問題視為美中關係的壓力測試。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/newspapers/20260923000511-260120?ctrack=pc_main_alert_p03",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-23/656/B01A00_P_01_02.jpg",
+      "published_at": "2026-09-23T04:10:00+08:00",
       "rank": 1
     },
     {
-      "id": "dd85501b70817db9",
+      "id": "0acfbb7a008aaa2a",
       "category": "international",
-      "title": "習近平擬促成川金四會 藉此換取美中談判籌碼",
-      "summary": "分析指出，中國國家主席習近平可能將促成「川金四會」視為給予美國總統川普的人情，藉此在美中貿易等議題上獲取談判籌碼，同時鞏固自身在亞太外交活動中的掌控權。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/newspapers/20260922000503-260121?ctrack=pc_main_headl_p02&ctrack=pc_main_alert_p04",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-22/656/B03A00_P_05_02.jpg",
-      "published_at": "2026-09-22T04:10:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "6b20030a8a1c27bb",
-      "category": "taiwan",
-      "title": "紐時爆華府要求臺灣官員少訪美 蔣萬安力挺鬍鬚張",
-      "summary": "外媒報導川普政府要求臺灣官員減少訪美，以避免妨礙對中政策。此外，臺北市長蔣萬安因力挺遭青鳥抵制的鬍鬚張，批評此舉撕裂社會，引發政壇關注。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20260922000944-260407?ctrack=pc_main_recmd_p09",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-22/656/20260922000945.jpg",
-      "published_at": "2026-09-22T07:24:45+08:00",
-      "rank": 1
-    },
-    {
-      "id": "b5cee9cb05f94389",
-      "category": "taiwan",
-      "title": "美光桃園廠勞資談判破局 工會宣佈推動罷工投票",
-      "summary": "臺灣美光桃園廠第二次勞資調解宣告破局，工會不滿資方未就分潤制度提出具體方案，且在調解期間突襲公佈獎金方案，宣佈將依法推動罷工投票，資方則表示將持續尋求解決方案。",
-      "source": "CNN",
-      "url": "https://lite.cnn.com/2026/09/20/media/cnn-trump-white-house-pool-ban",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295454665.jpg?c=original",
-      "published_at": "2026-09-21T11:11:02.301000+08:00",
-      "rank": 2
-    },
-    {
-      "id": "8f6fe5305ea79cc7",
-      "category": "us",
-      "title": "川普政府施壓臺灣官員減少訪美 憂軍售成美中絆腳石",
-      "summary": "紐約時報報導，川普政府要求臺灣官員減少造訪華府智庫，顯示川普欲確保臺灣不成為其對中政策的障礙。北京正施壓川普凍結140億美元對臺軍售，此舉恐拖慢臺灣建軍進度。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6809/9767938",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/21/35348891.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-09-21T13:35:52+08:00",
-      "rank": 1
-    },
-    {
-      "id": "5eceafbb407c35bb",
-      "category": "us",
-      "title": "美上訴法院裁定密蘇裡州使用川普支援的選區地圖",
-      "summary": "聯邦上訴法院裁定密蘇裡州必須使用有利於共和黨的選區重劃方案，但暫緩執行一週以供最高法院審理。此案引發法律爭議，因該地圖恐影響超過140萬選民的投票權益。",
-      "source": "CNN",
-      "url": "https://lite.cnn.com/2026/09/21/politics/missouri-redistricting-map-supreme-court",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap26216731940233.jpg?c=original",
-      "published_at": "2026-09-22T07:18:11.662000+08:00",
-      "rank": 2
-    },
-    {
-      "id": "6a2c2ba7f1476882",
-      "category": "stocks",
-      "title": "美股科技股強勢領軍 超微市值首度突破1兆美元",
-      "summary": "受AI與晶片股上漲帶動，美股四大指數收紅，那斯達克指數創歷史新高。超微（AMD）股價大漲近10%，市值首度突破1兆美元，臺積電ADR同步走高，臺指期夜盤隨之上揚。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20260922000916-260410?ctrack=pc_main_alert_p03",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-18/656/20260918002429.jpg",
-      "published_at": "2026-09-22T06:16:02+08:00",
-      "rank": 1
-    },
-    {
-      "id": "576e58890a907323",
-      "category": "stocks",
-      "title": "精星科技終止上櫃 10月1日正式走入歷史",
-      "summary": "精星科技因與精成科技進行股份轉換合併，股票於22日迎來最後交易日，並將於10月1日正式終止櫃檯買賣。股東持股將依換股比例轉換為精成科股份，權益不受影響。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E4%BB%8A%E6%9C%80%E5%BE%8C%E4%BA%A4%E6%98%93%E6%97%A5-%E7%A7%91%E6%8A%80%E5%A4%A7%E5%BB%A0%E9%87%8D%E8%A8%8A%E8%AD%89%E5%AF%A6-10%E6%9C%881%E6%97%A5%E7%B5%82%E6%AD%A2%E4%B8%8A%E6%AB%83-3-7%E8%90%AC%E8%82%A1%E6%9D%B1%E6%B3%A8%E6%84%8F%E4%BA%86-213200051.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/3a786b8c278bd2d81c941042bffb0439173a76c596b3107d7cc38f7b83ab75ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fsetn.com.tw%2F57d665fd87f0b4a7c97dd6b787cfd876.jpg",
-      "published_at": "2026-09-22T05:32:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "5fe95122f399d582",
-      "category": "finance",
-      "title": "央行盯中小企業融資難 擬找行庫喝咖啡確保資金流向",
-      "summary": "針對AI與電子產業熱絡導致中小企業融資困難，央行表態將找行庫瞭解放款情況，確保資金合理流向實體經濟。中華郵政亦表示可透過轉存款機制，協助銀行排程資金。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7239/9769233",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/18/35241949.jpg&M=1&s=Y&x=0&y=0&sw=944&sh=629&exp=3600",
-      "published_at": "2026-09-22T01:27:23+08:00",
-      "rank": 1
-    },
-    {
-      "id": "bd33888971e2d580",
-      "category": "finance",
-      "title": "歐洲船東重磅投資碼頭 專家建議我商加強佈局",
-      "summary": "全球港口塞港問題嚴重，歐洲航商積極收購碼頭股權以確保優先彎靠權。專家謝志堅建議臺灣航商應利用龐大現金加強投資或購買碼頭股權，以提升競爭力並減少候港損失。",
+      "title": "美伊聯合國場邊會談 川普稱極具成效並支援限制柴油出口",
+      "summary": "美國總統川普表示，美伊官員在聯合國大會場邊進行了3小時的會談，過程極具成效且已敲定下次會談。此外，針對中東戰事推升能源價格，川普表態支援限制美國柴油出口，財政部正評估其可行性。",
       "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3241654",
-      "image_url": "https://cdn2.ettoday.net/images/7033/e7033323.jpg",
-      "published_at": "2026-09-22T07:00:00+08:00",
+      "url": "https://www.ettoday.net/news/20260923/3242379.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8929/e8929209.jpg",
+      "published_at": "2026-09-23T07:27:00+08:00",
       "rank": 2
     },
     {
-      "id": "fd42761f78829b1f",
-      "category": "china",
-      "title": "陸女主播遊泰失聯遭轉運緬甸 家屬接獲索贖金威脅",
-      "summary": "一名24歲大陸女主播王然疑似受騙前往泰國後被轉運至緬甸，家屬收到60萬元人民幣贖金要求，並遭威脅若不付款將被賣至園區。目前警方已接獲報案並介入調查。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20260921/3241577.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8932/e8932781.jpg",
-      "published_at": "2026-09-21T21:26:00+08:00",
+      "id": "3656f4679f66a149",
+      "category": "taiwan",
+      "title": "花蓮鄉代參選人邱鳳英晚會昏厥送醫 各界集氣祈福",
+      "summary": "民進黨籍花蓮縣新城鄉鄉民代表參選人邱鳳英，22日晚間出席中秋聯歡晚會時突然昏厥倒地，現場人員發現其無呼吸心跳（OHCA）後立即送醫搶救。目前各界紛紛透過社群平臺為其集氣，盼能平安度過難關。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20260922004623-260407?ctrack=pc_main_alert_p02",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-22/656/20260922004624.jpg",
+      "published_at": "2026-09-22T22:45:22+08:00",
       "rank": 1
     },
     {
-      "id": "998ceae45d0b15f0",
-      "category": "china",
-      "title": "習近平夫婦23日抵美 白宮公佈國是訪問行程細節",
-      "summary": "中國國家主席習近平將於23日抵達美國進行國是訪問。白宮公佈接待安排，包括閱兵儀式、國宴及茶敘，雙方領袖將就美中關係及世界和平發展等重大問題進行深入交換意見。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E7%BF%92%E8%BF%91%E5%B9%B3%E5%A4%AB%E5%A9%A69-23%E6%8A%B5%E7%BE%8E-%E7%99%BD%E5%AE%AE%E5%85%AC%E5%B8%83%E8%A1%8C%E7%A8%8B%E7%B4%B0%E7%AF%80-225900757.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/c70c20c041e9c253613540810138cc7e68c0743480ef989122c0f731358e43ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Febc.net.tw%2F0a10eb492263041048f5b4ce562c2612.jpg",
-      "published_at": "2026-09-22T06:59:00+08:00",
+      "id": "877bea76b5c930d1",
+      "category": "taiwan",
+      "title": "馬太鞍溪洪災屆滿週年 堰塞湖風險仍存居民提心吊膽",
+      "summary": "花蓮光復鄉馬太鞍溪洪災屆滿週年，造成19人死亡、5人失聯，且堰塞湖仍不斷成形，居民生活在恐懼中。災區淤土問題嚴重，良田覆滅且產業難以復甦，家屬仍盼政府協助開挖尋親，重建之路依然漫長。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/125025/9771731",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/22/35354279.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600",
+      "published_at": "2026-09-23T00:00:00+08:00",
       "rank": 2
     },
     {
-      "id": "adde687c57577cb8",
-      "category": "technology",
-      "title": "OpenAI提議建立全球AI標準 關注遞迴自我改進技術",
-      "summary": "OpenAI發布AI安全提案，強調需建立國際合作標準，特別是針對「遞迴自我改進」（RSI）技術的風險管理。公司警告若缺乏適當防護，RSI可能導致人類失去對AI發展的控制。",
+      "id": "61f28b51d8cebe27",
+      "category": "us",
+      "title": "美國柴油價格飆升 川普政府研議是否實施出口禁令",
+      "summary": "受中東與東歐戰事影響，美國柴油價格創下每加侖6.53美元的歷史新高。川普總統表示已倡議禁止柴油出口以緩解國內壓力，財政部長貝森特則證實政府正評估全面或部分禁令的可行性，以應對煉油產能受限問題。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108357924-1788371101960-gettyimages-2292626724-g20_6273.jpeg?v=1790021169&w=1920&h=1080",
-      "published_at": "2026-09-22T04:21:41+08:00",
+      "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108366362-1790100248428-gettyimages-2296607109-_sr31614_7tnyvnsk.jpeg?v=1790100268&w=1920&h=1080",
+      "published_at": "2026-09-23T02:16:19+08:00",
       "rank": 1
     },
     {
-      "id": "2139d53fcb0755b7",
-      "category": "technology",
-      "title": "美財長提議建立美中AI安全通知機制 強化透明度",
-      "summary": "美國財長貝森特與中國官員會談，提議建立美中AI對話機制及安全通知系統，針對涉及國家安全層級的AI事件進行溝通，以減少不透明性並降低意外風險。",
-      "source": "CNN",
-      "url": "https://lite.cnn.com/2026/09/20/business/us-china-trade-talks-ai-intl-hnk",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295680803.jpg?c=original",
-      "published_at": "2026-09-21T10:15:38.423000+08:00",
+      "id": "45602dd6eb5a3263",
+      "category": "us",
+      "title": "川普政府指控詐欺 取消約76萬人歐巴馬健保註冊",
+      "summary": "美國聯邦醫療保險與醫療補助服務中心（CMS）上月取消約31.5萬份歐巴馬健保註冊，影響約76萬人，副總統範斯指控該系統存在猖獗詐欺。此舉預計可節省約22億美元補貼，並將針對41.9萬人進行身分與資格核實。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108309240-1779213125284-gettyimages-2246416127-jr_11021_b52yzqhp.jpeg?v=1779221531&w=1920&h=1080",
+      "published_at": "2026-09-23T03:17:22+08:00",
       "rank": 2
     },
     {
-      "id": "657770285e60f63a",
-      "category": "design",
-      "title": "北捷多向抓握扶手設計獲日人讚賞 臺北人嘆已拆除",
-      "summary": "臺灣捷運車廂的多向抓握扶手設計在網路上引發熱議，日本網友稱讚其能減少擁擠時的誤會。然而，臺北民眾感嘆北捷為增加空間已拆除該設計，導致部分乘客站立不穩。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20260922000030-260405?ctrack=pc_main_recmd_p14",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-21/656/20260921004417.jpg",
-      "published_at": "2026-09-22T07:00:30+08:00",
+      "id": "4a3c6824dc935a26",
+      "category": "stocks",
+      "title": "AI熱潮推升美股那指創新高 臺指期夜盤隨之拉昇",
+      "summary": "受AI晶片股強勢帶動，美股那斯達克指數創新高，費城半導體指數漲逾2%。臺積電ADR上漲1.54%，激勵臺指期夜盤一度大漲272點，市場持續關注AI應用帶動的半導體需求與後續市場表現。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3242362",
+      "image_url": "https://cdn2.ettoday.net/images/4092/e4092462.jpg",
+      "published_at": "2026-09-23T05:25:00+08:00",
       "rank": 1
     },
     {
-      "id": "993638916a0e8442",
+      "id": "43e03cfdf257de30",
+      "category": "stocks",
+      "title": "證交所推臺股儀錶板 整合六大資訊助投資人判讀風險",
+      "summary": "證交所推出「臺股儀錶板」於23日上線，整合證券商授信、違約概況、上市櫃營收等六大資料，透過視覺化圖表呈現。此舉旨在協助投資人掌握市場長期結構變遷，降低因資訊不對稱導致的不理性揣測。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3242202",
+      "image_url": "https://cdn2.ettoday.net/images/8308/e8308221.jpg",
+      "published_at": "2026-09-22T17:13:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "0e4fd61d10e98d94",
+      "category": "finance",
+      "title": "中國歐盟商會報告：歐中貿易失衡已達臨界點",
+      "summary": "中國歐盟商會指出，中國製造業產能擴張與國內消費不足，導致歐中貿易失衡嚴重，今年前8個月歐盟對華逆差達2420億歐元。歐委會主席馮德萊恩表示此趨勢不可持續，將動用一切手段減少貿易逆差。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E6%AD%90%E7%9B%9F%E5%95%86%E6%9C%83-%E6%AD%90%E4%B8%AD%E8%B2%BF%E6%98%93%E5%A4%B1%E8%A1%A1%E4%B8%8D%E5%8F%AF%E6%8C%81%E7%BA%8C-142900989.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/0168e50bf4607c9d43502eae135d1babb8f82d4acaaeeb189e7bad3e405bd7ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fwww_dw_com_641%2F6f206abd2cf9d65bc248f9ad1660a755.jpg",
+      "published_at": "2026-09-22T22:29:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "5ae200e68b27d45c",
+      "category": "finance",
+      "title": "央行微調房市管制 預售屋市場觀望氣氛淡化",
+      "summary": "央行維持利率不變並微調信用管制，信義代銷分析，此舉降低政策疑慮，預售屋市場將回歸自住需求競爭。建商推案策略趨於分化，預期第4季至2027年市場將由過度觀望轉向溫和回補。",
+      "source": "聯合新聞網",
+      "url": "https://house.udn.com/house/story/123589/9770721",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/22/35352961.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&sl=W&fw=800&exp=3600",
+      "published_at": "2026-09-22T15:09:36+08:00",
+      "rank": 2
+    },
+    {
+      "id": "3adeaba11e1689ad",
+      "category": "china",
+      "title": "中國礦產勘查有進展 安徽發現超大型銅金礦",
+      "summary": "中國自然資源部公佈最新找礦成果，安徽茶亭銅金礦及貴州豬拱塘鉛鋅礦新增資源量均達超大型規模。其中茶亭礦金潛在資源量超過10個大型金礦，將有助於提升華東地區戰略性礦產的供應保障能力。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20260923/3242368.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8900/e8900928.jpg",
+      "published_at": "2026-09-23T05:54:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "5d7a6484e9bae8b2",
+      "category": "china",
+      "title": "國臺辦傳人事異動 知臺派陳斌華擬轉任經濟局長",
+      "summary": "傳出國臺辦局級人事調整，現任新聞局長兼發言人陳斌華擬平調經濟局擔任局長，新聞局長職缺則由原涉港澳臺局局長張晗接任。陳斌華具備長期駐臺記者經驗，被視為國臺辦體系內的資深知臺派。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20260922/3242313.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8935/e8935499.jpg",
+      "published_at": "2026-09-22T22:05:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "98ab8b8e1c45453f",
+      "category": "technology",
+      "title": "阿里巴巴推真武V900晶片 拚算力效能與輝達競爭",
+      "summary": "阿里巴巴旗下平頭哥開發新一代AI晶片「真武V900」，效能為上一代三倍，目標與輝達競爭。集團執行長吳泳銘宣佈，未來三年將投入逾3800億人民幣，擴大AI基礎建設，目標2032年全球資料中心規模達20吉瓦以上。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/newspapers/20260923000800-260303?ctrack=pc_main_recmd_p17",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-23/656/B12A00_P_02_02.jpg",
+      "published_at": "2026-09-23T04:10:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "62fba0339c6aef6b",
+      "category": "technology",
+      "title": "中國腦機介面NEO獲準商用 領先馬斯克Neuralink",
+      "summary": "中國國家藥品監督管理局批准植入式腦機介面裝置「NEO」上市，為全球首款獲商業許可產品。該裝置由清華大學與Neuracle開發，已成功協助癱瘓患者操控機械手套，在商業化程序上領先馬斯克的Neuralink。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E8%85%A6%E6%A9%9F%E4%BB%8B%E9%9D%A2%E7%8E%87%E5%85%88%E5%95%86%E7%94%A8%E7%8D%B2%E5%87%86-%E9%A0%98%E5%85%88%E9%A6%AC%E6%96%AF%E5%85%8B-neuralink-230459757.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/8105175ad377a0e498a42d535f41fa5807b73756a727d9114b3d582cb15792f8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fsunmedia_664%2F30ff12f420dd5dfeed7d41aa469e3eb0.jpg",
+      "published_at": "2026-09-23T07:04:59+08:00",
+      "rank": 2
+    },
+    {
+      "id": "ee6a9c83ad944c9b",
       "category": "design",
-      "title": "倫敦時裝週設計師強調手工藝 展現服裝製作細節",
-      "summary": "倫敦時裝週多位設計師透過展覽與表演，強調服裝背後的「人類手工製作」過程。設計師詳細拆解縫紉、珠飾與編織技術，旨在讓大眾瞭解服裝製作的時間成本與工藝價值。",
-      "source": "CNN",
-      "url": "https://lite.cnn.com/2026/09/21/style/london-fashion-week-ss27-trends-craft",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2296135159.jpg?c=original",
-      "published_at": "2026-09-21T22:14:47.686000+08:00",
+      "title": "COMPUTEX 2027擴大展區 聚焦AI機器人與實體落地應用",
+      "summary": "COMPUTEX 2027將於6月登場，開放世貿一館全館參展，並延續「實體AI」主軸，展出工業機器人、智慧車載及智慧移動應用。展會將持續深化AI落地商業模式，協助廠商鏈結全球創投資源與科技大廠。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3242355",
+      "image_url": "https://cdn2.ettoday.net/images/8773/e8773998.jpg",
+      "published_at": "2026-09-23T01:21:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "d2c922c0e3efd83e",
+      "category": "design",
+      "title": "回顧iPhone歷代經典設計 6系列大螢幕引爆全球換機潮",
+      "summary": "自2007年首代iPhone發表以來，蘋果透過電容式觸控螢幕重新定義人機互動。其中2014年推出的iPhone 6與6 Plus系列，因順應大螢幕趨勢，創下逾2.2億支驚人銷量，成為蘋果史上最賣座的經典機型。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/iphone-%E7%B3%BB%E5%88%97%E6%89%8B%E6%A9%9F%E4%B9%8B%E6%9C%80%EF%BC%9A%E6%9C%80%E7%86%B1%E9%8A%B7%E3%80%81%E6%9C%80%E8%80%90%E7%94%A8%E3%80%81%E6%9C%80%E5%85%B7%E6%AD%B7%E5%8F%B2%E6%84%8F%E7%BE%A9%E4%B8%80%E6%AC%A1%E7%9C%8B-%E6%AD%B7%E4%BB%A3%E7%B6%93%E5%85%B8%E7%9B%A4%E9%BB%9E-020123167.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/9404151bdb23acfe94f59726adac31cadc43c3fe8e27adb286304f022b4743d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fb193fedb-886c-435c-b589-ec9bc8defb12",
+      "published_at": "2026-09-22T10:01:23+08:00",
       "rank": 2
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 7
+      "verified_candidates": 10
     },
     {
       "source": "聯合新聞網",
-      "verified_candidates": 10
+      "verified_candidates": 14
     },
     {
       "source": "ETtoday 新聞雲",
-      "verified_candidates": 10
+      "verified_candidates": 12
     },
     {
       "source": "中時新聞網",
-      "verified_candidates": 9
+      "verified_candidates": 7
     },
     {
       "source": "CNN",
-      "verified_candidates": 8
+      "verified_candidates": 6
     },
     {
       "source": "CNBC",
-      "verified_candidates": 7
+      "verified_candidates": 9
     }
   ]
 }
