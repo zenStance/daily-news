@@ -1,202 +1,191 @@
 {
-  "edition": "2026-09-25",
-  "updated_at": "2026-09-25T07:48:02.019262+08:00",
-  "window_start": "2026-09-24T07:47:40.913388+08:00",
-  "window_end": "2026-09-25T07:47:40.913388+08:00",
+  "edition": "2026-09-26",
+  "updated_at": "2026-09-26T07:53:32.178395+08:00",
+  "window_start": "2026-09-25T07:53:10.489165+08:00",
+  "window_end": "2026-09-26T07:53:10.489165+08:00",
   "articles": [
     {
-      "id": "712b679fd4bf051c",
+      "id": "bae48ac75ad9e2a7",
       "category": "international",
-      "title": "川習白宮會談聚焦經貿與AI，習近平強調慎重處理臺灣問題",
-      "summary": "中國國家主席習近平與美國總統川普在白宮舉行會談，雙方確立建設性戰略穩定關係。習近平強調臺灣問題需慎重處理並反對臺獨，雙方並就經貿新安排、人工智慧合作及國際局勢交換意見，同意共同辦好APEC與G20峰會。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20260925000876-260409?ctrack=pc_main_alert_p01",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-25/656/20260925000877.png",
-      "published_at": "2026-09-25T06:16:08+08:00",
-      "rank": 1
-    },
-    {
-      "id": "f3fd4bfd7bcc3e11",
-      "category": "international",
-      "title": "美國參議院以些微差距否決終止對伊朗戰爭之決議案",
-      "summary": "美國參議院以49比50票否決了要求終止對伊朗戰爭的決議案。儘管部分共和黨人擔憂戰爭對經濟的負面影響，但多數議員仍投下反對票。支持者認為戰爭導致油價與物價上漲，並呼籲川普政府撤軍。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108309939-1779296959533-260513-N-NO146-1136.jpeg?v=1779297014&w=1920&h=1080",
-      "published_at": "2026-09-25T01:42:15+08:00",
-      "rank": 2
-    },
-    {
-      "id": "793d7fe2eb02f2c5",
-      "category": "taiwan",
-      "title": "臺北市長選戰街訪民調：蔣萬安於士林區領先沈伯洋",
-      "summary": "針對2026年臺北市長選戰，YouTube頻道「桃園孫先生」在士林區進行街頭民調，現任市長蔣萬安獲得58票，領先民進黨參選人沈伯洋的46票。受訪者對蔣萬安的評價多為做事實在，對沈伯洋則肯定其規劃能力。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20260924005235-260407?ctrack=pc_main_alert_p03",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-24/656/20260924005250.jpg",
-      "published_at": "2026-09-24T23:37:02+08:00",
-      "rank": 1
-    },
-    {
-      "id": "2161fddb57418e6a",
-      "category": "taiwan",
-      "title": "金管會清查壽險保單，逾15家業者涉變相拉長癌症等待期",
-      "summary": "金管會清查發現超過15家壽險公司在綜合型保單中，將癌症等待期變相拉長至一年，引發爭議。國泰人壽等多家業者已陸續下架相關保單。專家指出，此舉將疾病風險轉嫁給保戶，且壽險業投資績效普遍不佳，引發市場關注。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3243490",
-      "image_url": "https://cdn2.ettoday.net/images/4398/e4398991.jpg",
-      "published_at": "2026-09-25T06:00:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "219202d923eb562d",
-      "category": "us",
-      "title": "美債殖利率持續攀升，聯準會面臨通膨與經濟平衡挑戰",
-      "summary": "美國公債殖利率持續走高，反映市場對通膨高於預期及能源價格上漲的擔憂。聯準會官員正重新評估AI投資熱潮對通膨的影響，市場預期聯準會可能在年底前採取更強硬的升息立場，以維持價格穩定。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108364334-1789647735022-Fed_Chair_Kevin_Warsh_Holds_Press_Conference_On_In-2295625605-Getty.jpg?v=1790285262&w=1920&h=1080",
-      "published_at": "2026-09-25T02:30:35+08:00",
-      "rank": 1
-    },
-    {
-      "id": "cb064b1e82924156",
-      "category": "us",
-      "title": "美債殖利率飆升衝擊股市，小型股賣壓沉重表現落後",
-      "summary": "受利率上升與債券價格下跌影響，美國小型股表現疲軟，羅素2000指數今年漲幅縮減。分析指出，小型股對利率變動較敏感，且選擇權市場顯示投資人正大量買進賣權，預期市場波動將持續。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/24/bond-liquidation-wrecks-small-caps-heres-how-bad-some-traders-see-it-getting.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108273729-1772650267978-gettyimages-2264789355-6e6a3804_copy_m6lrpwf2.jpeg?v=1772650329&w=1920&h=1080",
-      "published_at": "2026-09-25T02:22:51+08:00",
-      "rank": 2
-    },
-    {
-      "id": "c7bda190d070efcd",
-      "category": "stocks",
-      "title": "Fed升息利空鈍化，臺股官股護盤與外資對作支撐大盤",
-      "summary": "聯準會升息一碼符合預期，臺股利空出盡。儘管外資一度大賣，但官股逢低佈局臺積電等權值股，支撐指數守住季線。市場關注中秋節後川習會對AI與關稅的談判結果，以及美債殖利率是否突破5%警戒區。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20260925000007-260410?ctrack=pc_main_recmd_p16",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-24/656/20260924003360.jpg",
-      "published_at": "2026-09-25T05:00:30+08:00",
-      "rank": 1
-    },
-    {
-      "id": "265f7f05596a1fac",
-      "category": "stocks",
-      "title": "九檔股票ETF逆勢創新高，AI供應鏈長線潛力受矚目",
-      "summary": "儘管市場擔憂通膨與升息，仍有九檔海內外股票ETF逆勢創高。法人指出，AI應用從晶片設計延伸至邊緣運算與PCB領域，帶動相關供應鏈成長。建議投資人觀察企業獲利與月營收驗證，持穩在季線之上者可持續關注。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/123006/9776425",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/24/35362070.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-      "published_at": "2026-09-25T00:57:07+08:00",
-      "rank": 2
-    },
-    {
-      "id": "6c54229e5047a163",
-      "category": "finance",
-      "title": "日產汽車擴大中國出口戰略，追加百億人民幣投資新能源",
-      "summary": "日產汽車加快從中國出口汽車至中東、拉美及東南亞市場，強化中國作為全球出口基地的定位。日產計劃在2026年底前追加100億人民幣投資，並於2027年前推出10款新能源車型，以利用中國供應鏈優勢補足技術短板。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20260925000885-260409?ctrack=pc_main_recmd_p08",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-25/656/20260925000886.jpg",
-      "published_at": "2026-09-25T07:09:05+08:00",
-      "rank": 1
-    },
-    {
-      "id": "6ea1b74c8c1164fd",
-      "category": "finance",
-      "title": "德國上調經濟增長預測，AI熱潮帶動製造業復甦",
-      "summary": "德國五大經濟研究機構將今年GDP增長預測上調至1.3%。報告指出，全球AI熱潮與穩健的全球經濟推動了德國出口與製造業產出。然而，能源價格高企與結構性問題仍限制了經濟復甦的基礎，改革勢在必行。",
+      "title": "俄羅斯恐發動混合戰 丹麥情報局示警北約國家",
+      "summary": "丹麥國防情報局警告，俄羅斯未來幾個月可能加劇對北約國家的混合戰，包括網路攻擊、破壞、假訊息及縱火。波蘭近期發生星鏈地面站火災，官員懷疑遭蓄意破壞。情報局評估，俄羅斯對北約發動有限軍事攻擊的風險雖低，但正在升高。",
       "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E5%A2%9E%E9%95%B7%E9%A0%90%E6%9C%9F%E7%BF%BB%E5%80%8D-%E5%BE%B7%E5%9C%8B%E7%B6%93%E6%BF%9F%E8%B5%B0%E5%87%BA%E5%9B%B0%E5%A2%83%E4%BA%86%E5%97%8E-130300380.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/05f383d3f32d3b81d3c29c1adf3de5bb5235e79daafd4cfc8d7e0ea34c1b164a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fwww_dw_com_641%2F8ab7fa9efbc1e5a5898fa171a8c20398.jpg",
-      "published_at": "2026-09-24T21:03:00+08:00",
+      "url": "https://tw.news.yahoo.com/%E6%AD%90%E6%B4%B2%E5%A4%9A%E5%9C%8B%E7%A4%BA%E8%AD%A6-%E4%BF%84%E7%BE%85%E6%96%AF%E6%81%90%E5%B0%87%E7%99%BC%E5%8B%95-%E6%B7%B7%E5%92%8C%E6%88%B0-141000280.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/b5e267177c7d2a99aa2dca4f6e746830e171fb8b450ceff9a007a86505b6fbd9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Febc.net.tw%2F5a3959f313b5750100d992e05b372eff.jpg",
+      "published_at": "2026-09-25T22:10:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "d3c6ec51c48ee8ef",
+      "category": "international",
+      "title": "歐盟對英國開條件 若想避免貿易壁壘需對中車加稅",
+      "summary": "歐盟向英國首相柏南表示，若英國希望出口產品不被「歐洲製造」政策排除，需調整對中國汽車的關稅政策。歐盟擔心中國車經由英國轉運避稅，建議英國加入關稅同盟，但英國政府已排除此選項，恐面臨貿易自主空間縮小與購車成本上升的壓力。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20260926/3244184.htm",
+      "image_url": "https://cdn2.ettoday.net/images/7207/e7207570.jpg",
+      "published_at": "2026-09-26T01:39:00+08:00",
       "rank": 2
     },
     {
-      "id": "08a685731d26b8e9",
-      "category": "china",
-      "title": "川習會達成貿易休兵，延長協議期限至明年一月",
-      "summary": "中國國家主席習近平訪美期間，與川普舉行會談。雙方同意將貿易休兵協議延長兩個月至明年1月10日，以爭取更多時間研議經濟議題。儘管雙方強調關係重要性，但在關稅、稀土供應及技術限制等核心問題上仍未達成最終協議。",
+      "id": "7a032ebcbfc255a1",
+      "category": "taiwan",
+      "title": "陳佩琪盼開國際記者會為柯文哲伸冤 自信英文能力",
+      "summary": "民眾黨前主席柯文哲官司將進入二審，其妻陳佩琪受訪表示，對司法不公感到不滿，並後悔未及時召開國際記者會。她強調自己清白，並稱若開記者會，其英文能力將優於賴清德總統與外交部長林佳龍，希望能向國際發聲。",
       "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/125026/9776674",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/25/35362302.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-09-25T00:09:22+08:00",
+      "url": "https://udn.com/news/story/6656/9778063",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/25/35364726.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-09-26T06:51:46+08:00",
       "rank": 1
     },
     {
-      "id": "d81702779bb90b2b",
-      "category": "china",
-      "title": "陸駐日大使吳江浩：臺灣問題是核心利益，不容外部干涉",
-      "summary": "中國駐日大使吳江浩在中共建政77年招待會上重申，臺灣問題是中國核心利益中的核心，不容外部干涉。他批評當前中日關係政治基礎遭破壞，並呼籲雙方應堅守四個政治檔案，推動關係重回正軌。",
+      "id": "b9175f2ca45eb6e0",
+      "category": "taiwan",
+      "title": "最低工資連11年調漲 累計漲幅遠超平均薪資",
+      "summary": "最低工資審議會決議2027年起月薪調至30,900元，調幅4.745%。統計顯示，2016年至2025年間最低工資累計漲幅達42.9%，約為平均經常性薪資漲幅22.1%的1.9倍，薪資底線上升速度明顯快於整體薪資水準。",
       "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/125026/9776884",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/25/35362642.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-09-25T07:21:28+08:00",
+      "url": "https://udn.com/news/story/7238/9778119",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/25/35364450.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-09-26T01:28:59+08:00",
       "rank": 2
     },
     {
-      "id": "2fde66df0a510700",
-      "category": "technology",
-      "title": "高通擴張PC戰線，Snapdragon X2系列年底支援Linux",
-      "summary": "高通宣佈Snapdragon X2系列將於2026年底支援Linux，並計劃於2027年上半年取得Ubuntu認證。此舉標誌高通PC策略進入新階段，目標將Snapdragon打造為橫跨Windows、Google及Linux的共通運算平臺。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3243768",
-      "image_url": "https://cdn2.ettoday.net/images/8939/e8939676.jpg",
-      "published_at": "2026-09-25T04:14:00+08:00",
+      "id": "39ebbab35b5906d3",
+      "category": "us",
+      "title": "川習二會華府登場 雙方同意構建建設性戰略穩定關係",
+      "summary": "中國國家主席習近平赴美進行國是訪問，與美國總統川普在白宮舉行會談與茶敘。雙方同意構建「基於尊重、公平、對等的建設性戰略穩定關係」，並預告今年底前將於深圳APEC及邁阿密G20峰會再會面，但目前未公開具體協議細節。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20260925003315-260408?ctrack=pc_main_alert_p02",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-25/656/20260925003345.jpg",
+      "published_at": "2026-09-25T22:33:23+08:00",
       "rank": 1
     },
     {
-      "id": "690fdc2b3ce004d8",
-      "category": "technology",
-      "title": "高通推Sound Elite Gen 2晶片，賦能耳機AI智慧體驗",
-      "summary": "高通推出Snapdragon Sound Elite Gen 2音訊平臺，大幅提升穿戴裝置的裝置上AI能力。該晶片支援即時翻譯、情境感知及多模態互動，並透過微功耗Wi-Fi 6E實現雲端連網，協助OEM廠商開發新一代個人AI裝置。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3243767",
-      "image_url": "https://cdn2.ettoday.net/images/8939/e8939674.jpg",
-      "published_at": "2026-09-25T03:54:00+08:00",
+      "id": "4bfa8e77beb05984",
+      "category": "us",
+      "title": "美上訴法院裁定維持禁令 Anthropic被列供應鏈風險",
+      "summary": "美國聯邦上訴法院裁定，維持國防部將AI公司Anthropic列為供應鏈風險的決定。法院駁回Anthropic關於禁令違憲的指控，認定其Claude模型對美國國家安全構成風險，禁止美軍及國防承包商使用該公司模型。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108285631-1774986195722-gettyimages-2268688342-raa-anthropi260331_npMR4.jpeg?v=1774986237&w=1920&h=1080",
+      "published_at": "2026-09-25T23:25:01+08:00",
       "rank": 2
     },
     {
-      "id": "f1776a87ce1eea45",
-      "category": "design",
-      "title": "長榮航空退役貨櫃變身創意候車亭，落實城市永續設計",
-      "summary": "長榮航空將兩只服役15年的退役航空貨櫃，改裝為中壢的創意公共候車亭。此計畫結合航空工業與城市美學，將原本用於運輸的裝置轉化為公共服務空間，展現企業ESG永續活力，並呼應桃園老城區再生的發展方向。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3243766",
-      "image_url": "https://cdn2.ettoday.net/images/8939/e8939673.jpg",
-      "published_at": "2026-09-25T03:33:00+08:00",
+      "id": "20c43c3e3fbdc294",
+      "category": "stocks",
+      "title": "川習會落幕與美伊談判進展 美股主要指數全收紅",
+      "summary": "受川習會落幕及美伊談判傳出進展，市場預期荷姆茲海峽有望重開，帶動油價下跌，美股週五全數收紅。道瓊指數勁揚478點，標普500與那斯達克指數同步上漲，費城半導體指數亦收高，市場情緒顯著提振。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/%E5%B7%9D%E7%BF%92%E6%9C%83%E8%90%BD%E5%B9%95-%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%82%B3%E9%80%B2%E5%B1%95-%E7%BE%8E%E8%82%A1%E5%85%A8%E6%94%B6%E7%B4%85-221032601.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/45c78e0a6b1967d0f922127d9804b6ca372e139de8243ee503155803b6199e77/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnownews.com%2F01d700aea8c061fba2694ac5054c32c8",
+      "published_at": "2026-09-26T06:10:32+08:00",
       "rank": 1
     },
     {
-      "id": "719741aa18f2f2db",
-      "category": "design",
-      "title": "2026桃園國際青年城市設計論壇，探討城市轉型與創新",
-      "summary": "2026臺灣設計展於桃園登場，市府舉辦國際青年城市設計論壇，邀集美英日韓專家分享城市轉型與社會創新經驗。展區透過青年創意串聯在地文化與多媒體互動，展現青年對城市發展的想像與實踐。",
+      "id": "951b876508abfaf3",
+      "category": "stocks",
+      "title": "臺股下週3檔抽籤股申購起跑 汎銓價差拚賺4萬",
+      "summary": "臺股下週有增你強、汎銓及精華生醫3檔股票開放申購。其中汎銓承銷價500元，以24日收盤價計算，抽中一張潛在獲利達4萬元，為價差最大者。另有晟田與旭暉應材將於下週結束申購。",
       "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20260924/3243708.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8939/e8939525.jpg",
-      "published_at": "2026-09-24T23:31:00+08:00",
+      "url": "https://finance.ettoday.net/news/3243923",
+      "image_url": "https://cdn2.ettoday.net/images/8708/e8708062.jpg",
+      "published_at": "2026-09-25T11:45:00+08:00",
       "rank": 2
+    },
+    {
+      "id": "8a34dcc913d0cae7",
+      "category": "finance",
+      "title": "臺積電赴美投資累計核准440億美元 經濟部預告後續仍有案",
+      "summary": "經濟部投審司已7度核准臺積電赴美投資，累計股本金額達440億美元。臺積電先前宣佈在美總投資規模將達2650億美元，投審司表示，目前核準金額僅為投入子公司的股本，預期未來仍會有新的投資案申請。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3244112",
+      "image_url": "https://cdn2.ettoday.net/images/5031/e5031722.jpg",
+      "published_at": "2026-09-25T20:54:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "d4ff5dfe28431ee5",
+      "category": "finance",
+      "title": "長庚醫療法人財報揭露 股利收入超越醫療本業",
+      "summary": "長庚醫療財團法人財報顯示，去年醫療本業獲利32.13億元，低於現金股利收入53.48億元。長庚持續調整投資部位，114年度再買進12.6萬股臺積電，總持股達1463萬股，顯示大型醫療法人透過資產配置獲取收益的現象。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/%E6%8F%AD%E9%96%8B%E9%86%AB%E9%99%A2%E7%AC%AC%E4%BA%8C%E6%9C%AC%E5%B8%B31-%E9%A0%98%E8%82%A1%E5%88%A9%E6%AF%94%E7%9C%8B%E7%97%85%E8%B3%BA%E6%9B%B4%E5%A4%A7-%E9%95%B7%E5%BA%9A%E5%A4%A7%E8%88%89%E8%B2%B7%E9%80%B212-6%E8%90%AC%E8%82%A1%E5%8F%B0%E7%A9%8D%E9%9B%BB-220100531.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/01d571b336fd0d4b2452192f8ade31627aac2902a11775d5ef4910c595096b0a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fpeoplenews.tw%2F6a6e2f9036e1baff4e0e15994cb2ca5c.jpg",
+      "published_at": "2026-09-26T06:01:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "9c9ffb1a17280649",
+      "category": "china",
+      "title": "CNN分析川習二會：形式鋪張但實質內容欠奉",
+      "summary": "CNN分析指出，華府川習會排場盛大但缺乏實質協議。習近平此次訪美未帶企業高層隨行，顯示雙方在貿易領域尚未突破。儘管雙方強調關係穩定，但核心分歧如臺灣問題仍存，習近平敦促川普反對臺獨，美中競爭本質未變。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20260926000063-260408?ctrack=pc_main_alert_p03",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-26/656/20260926000066.jpg",
+      "published_at": "2026-09-26T00:32:07+08:00",
+      "rank": 1
+    },
+    {
+      "id": "8331ae1023fb4bc7",
+      "category": "china",
+      "title": "馬斯克專訪讚習近平偉大 預言20年內人形機器人達千億臺",
+      "summary": "大陸官媒專訪馬斯克，他高度評價中國科技成就，稱讚習近平為偉大領導人，並肯定中國在AI大模型與晶片算力補齊上的效率。馬斯克更樂觀預測，20年內全球人形機器人規模有望達到1000億臺。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20260926/3244202.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8940/e8940546.jpg",
+      "published_at": "2026-09-26T02:14:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "4eefa23aefb9e59f",
+      "category": "technology",
+      "title": "關鍵金屬鎢價格暴漲 大陸掌握完整產業護城河",
+      "summary": "被譽為工業牙齒的關鍵金屬「鎢」，過去兩年價格暴漲逾9倍。大陸從上游開採到下游精煉鋪設完整產業鏈，歐美各國雖急於扶植第三方礦山，但面臨開發瓶頸與產業斷層，使關鍵金屬博弈版圖持續向東方傾斜。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20260926000015-260410?ctrack=pc_main_alert_p05",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-25/656/20260925002188.jpg",
+      "published_at": "2026-09-26T06:00:31+08:00",
+      "rank": 1
+    },
+    {
+      "id": "b499a18c5280a5a4",
+      "category": "technology",
+      "title": "AI改變求職市場 應屆畢業生面臨就業挑戰",
+      "summary": "AI技術正重塑企業招聘流程，導致大學畢業生求職難度增加。資料顯示，22至27歲畢業生失業率達5.7%，且有42%處於低就業狀態。企業廣泛使用AI篩選履歷，學生則需學習如何將AI工具融入求職過程以提升競爭力。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/25/ai-jobs-recent-graduates-college-degrees.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108312446-1779885430032-gettyimages-1409300913-cmu_0958gi.jpeg?v=1790279134&w=1920&h=1080",
+      "published_at": "2026-09-26T03:10:24+08:00",
+      "rank": 2
+    },
+    {
+      "id": "d53a92e7995011a5",
+      "category": "design",
+      "title": "2026臺灣設計展桃園登場 光流方舟展現農業美學",
+      "summary": "2026臺灣設計展於桃園舉辦，市府農業局打造「光流方舟」展區，結合科技溫室與設計美學，呈現桃園從平原稻米到山地水果的多元農業面貌。展區透過微型蘭花與機械恐龍意象，並於夜間轉換為科技感溫室，提供民眾創新展覽體驗。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20260926/3244180.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8940/e8940492.jpg",
+      "published_at": "2026-09-26T01:15:00+08:00",
+      "rank": 1
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 7
+      "verified_candidates": 8
     },
     {
       "source": "聯合新聞網",
-      "verified_candidates": 11
-    },
-    {
-      "source": "ETtoday 新聞雲",
       "verified_candidates": 12
     },
     {
+      "source": "ETtoday 新聞雲",
+      "verified_candidates": 11
+    },
+    {
       "source": "中時新聞網",
-      "verified_candidates": 8
+      "verified_candidates": 10
     },
     {
       "source": "CNN",
@@ -204,7 +193,7 @@
     },
     {
       "source": "CNBC",
-      "verified_candidates": 9
+      "verified_candidates": 11
     }
   ]
 }
