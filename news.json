@@ -1,190 +1,168 @@
 {
-  "edition": "2026-09-27",
-  "updated_at": "2026-09-27T07:25:22.949723+08:00",
-  "window_start": "2026-09-26T07:25:03.314546+08:00",
-  "window_end": "2026-09-27T07:25:03.314546+08:00",
+  "edition": "2026-09-28",
+  "updated_at": "2026-09-28T07:42:30.943341+08:00",
+  "window_start": "2026-09-27T07:42:05.836665+08:00",
+  "window_end": "2026-09-28T07:42:05.836665+08:00",
   "articles": [
     {
-      "id": "3d339c197426bb9a",
-      "category": "international",
-      "title": "川習會落幕 川普稱習近平理解其對臺立場",
-      "summary": "華府川習會落幕，雙方未在公開宣告提及臺灣。川普受訪時證實曾與習近平討論臺灣議題，並表示習近平理解其立場，但未進一步闡釋。北京方面則重申反對臺獨，並強調兩國元首憶及二戰盟友歷史。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20260926002916-260408?ctrack=pc_main_alert_p01",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-26/656/20260926002661.jpg",
-      "published_at": "2026-09-26T22:56:21+08:00",
-      "rank": 1
-    },
-    {
-      "id": "0d387f552b83ed12",
-      "category": "international",
-      "title": "陸駐大阪總領事薛劍：日本是反華厭華世界冠軍",
-      "summary": "中國駐大阪總領事薛劍在建國77週年酒會上，批評日本社會對中國存在根深蒂固的偏見與蔑視，並形容日本在反華、厭華情緒上已成為特殊的「世界冠軍」，呼籲日本民眾將中國視為值得尊重的夥伴。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20260926/3244492.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8941/e8941062.png",
-      "published_at": "2026-09-26T17:32:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "d7d3b5b4c6f1c56a",
+      "id": "4d0192a20501fdb4",
       "category": "taiwan",
-      "title": "北市樂業街工地火警 濃煙擴散雙北多區",
-      "summary": "臺北市大安區樂業街一處國家住都中心建案工地，26日晚間發生地下室悶燒火警，產生大量濃煙。消防局持續搶救中，無人員受困，市府提醒大安、信義、中正、文山及新北中永和民眾注意空氣品質。",
+      "title": "新店客運公車驚見乘客陳屍車內3天 業者疏於清車遭罰3萬",
+      "summary": "新北市新店客運發生罕見命案，一名患有阿茲海默症的乘客搭車後未下車，陳屍車內3天未被發現。臺北市公運處認定業者未落實終點站清車程式，裁罰3萬元，涉事駕駛已遭停職。",
       "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20260927000127-260402?ctrack=pc_main_alert_p02",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-27/656/20260927000128.jpg",
-      "published_at": "2026-09-27T04:10:52+08:00",
+      "url": "https://www.chinatimes.com/realtimenews/20260928000685-260402?ctrack=pc_main_alert_p01",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-28/656/20260928000686.jpg",
+      "published_at": "2026-09-28T07:28:51+08:00",
       "rank": 1
     },
     {
-      "id": "c454c9002869f6fc",
+      "id": "763bad487326b3fb",
       "category": "taiwan",
-      "title": "臺灣邁入超高齡社會 獨居長者蝸居陋室成悲歌",
-      "summary": "臺灣邁入超高齡社會，內政部統計獨居老人住宅數首破71萬戶。都會區老舊建築中，許多弱勢長者蝸居在陰暗、簡陋的隔間雅房，面臨消防與居住安全風險，學者呼籲政府應擴大高齡友善包租代管制度以接住風險。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7266/9779414",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/26/35366615.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-09-27T00:03:16+08:00",
+      "title": "2026新北市長選戰網路民調 李四川獲64.9%網友看好",
+      "summary": "針對2026年新北市長選舉，入口網站Yahoo奇摩進行網路投票，截至27日中午，國民黨參選人李四川獲64.9%網友看好，民進黨參選人蘇巧慧則為22.4%，顯示技術官僚背景受部分網友青睞。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20260927001357-260407?ctrack=pc_main_donate_p04",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-27/656/20260927001434.jpg",
+      "published_at": "2026-09-27T13:30:30+08:00",
       "rank": 2
     },
     {
-      "id": "7b0bdb2c2d4b8b94",
+      "id": "e249ee7a7a2f7ad9",
       "category": "us",
-      "title": "川普拒絕伊朗停火提案 稱預計期中選舉後恢復轟炸",
-      "summary": "美國總統川普拒絕伊朗提出的停火協議，該協議原計畫重啟荷莫茲海峽航運。川普私下向幕僚表示，預計在11月期中選舉後恢復對伊朗的轟炸行動，並對伊朗能否滿足其條件持懷疑態度。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108368439-1790424775469-gettyimages-2296584703-mms11214_2g823jbf.jpeg?v=1790425381&w=1920&h=1080",
-      "published_at": "2026-09-26T20:39:09+08:00",
+      "title": "川普第二任期內閣運作模式 權力高度集中宛如家族企業",
+      "summary": "川普第二任期內閣運作極具個人色彩，權力集中於總統一人。閣員雖獲親近機會，但政策常遭川普社群貼文推翻，且面臨隨時被撤換的風險，體制已從企業化轉向強人領導的家族企業模式。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20260928000020-260408?ctrack=pc_main_recmd_p07",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-27/656/20260927002728.jpg",
+      "published_at": "2026-09-28T07:21:48+08:00",
       "rank": 1
     },
     {
-      "id": "8583e4e2db61f463",
+      "id": "5462e344cc7afd7e",
       "category": "us",
-      "title": "川普批准新燃油經濟標準 撤銷拜登時期電動車政策",
-      "summary": "川普宣佈批准新的燃油經濟標準，撤銷拜登政府旨在推動電動車普及的嚴格政策。川普表示此舉將降低汽車生產成本並壓低售價，儘管詳細標準尚未公開，但預計將大幅放寬對車廠的節能要求。",
+      "title": "川普政府動用公帑投放愛國廣告 引發兩黨國會議員質疑",
+      "summary": "川普政府近期投放多則以「愛國」為主題的廣告，內容包含川普影像及競選口號，花費近92萬美元公帑。此舉遭民主黨批評為競選宣傳，引發兩黨對公款使用適當性的審查。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108236093-1764784788711-gettyimages-2249777843-_m0a1995_il9os5ws.jpeg?v=1764784809&w=1920&h=1080",
-      "published_at": "2026-09-27T04:50:06+08:00",
+      "url": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108368448-1790434254308-gettyimages-2296657510-TRUMP_WH_DEPART.jpeg?v=1790434277&w=1920&h=1080",
+      "published_at": "2026-09-28T05:38:59+08:00",
       "rank": 2
     },
     {
-      "id": "5ba4c266d313f67d",
+      "id": "6910a160ad2b6e00",
       "category": "stocks",
-      "title": "SK海力士子公司Solidigm傳赴美IPO 估值上看4.6兆",
-      "summary": "SK海力士旗下NAND快閃記憶體子公司Solidigm傳出考慮最快2027年在美IPO，潛在估值最高達1,500億美元。若成案，將成為美國史上規模最大的半導體IPO之一，並有望搭上AI資料中心儲存需求熱潮。",
+      "title": "臺股資金吃緊指標浮現 謝金河點名個股單點突破",
+      "summary": "財信傳媒董事長謝金河指出，銀行體系資金緊俏，M1b與M2出現死亡交叉。儘管市場資金吃緊，但臺股基本面強勁，漲勢集中在聯發科、創意等少數個股，呈現單點突破現象。",
       "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3244402",
-      "image_url": "https://cdn2.ettoday.net/images/3444/e3444004.jpg",
-      "published_at": "2026-09-26T13:58:00+08:00",
+      "url": "https://finance.ettoday.net/news/3244913",
+      "image_url": "https://cdn2.ettoday.net/images/7964/e7964762.jpg",
+      "published_at": "2026-09-27T17:34:00+08:00",
       "rank": 1
     },
     {
-      "id": "fdcfb3415deed92e",
+      "id": "12acd634df6bd1b4",
       "category": "stocks",
-      "title": "亞運棒球中華隊不敵日本 無緣晉級金牌戰",
-      "summary": "亞運棒球超級迴圈賽，中華隊26日以3比7不敵日本隊，確定無緣爭奪金牌。中華隊將於27日與中國隊進行銅牌戰，由旅美左投林昱珉掛帥先發，力拚保住銅牌。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/124981/9779006",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/26/35366473.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-09-26T20:23:45+08:00",
-      "rank": 2
-    },
-    {
-      "id": "d936b592902449ea",
-      "category": "finance",
-      "title": "臺美貿易協議承諾投資5000億美元 遭疑回報微薄",
-      "summary": "評論指出，臺灣在臺美貿易協議中承諾投資美國5000億美元，但隨後川普政府改以貿易法加徵關稅，導致各國取得的優惠回報微薄。韓國總統李在明亦因龐大投資承諾壓力巨大，要求重新協商商業合理性。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E9%A2%A8%E8%A9%95-%E9%9F%93%E5%9C%8B%E7%B8%BD%E7%B5%B1%E7%82%BA-3500%E5%84%84%E6%8A%95%E8%B3%87-%E5%A4%B1%E7%9C%A0-%E5%8F%B0%E7%81%A3%E8%A2%AB%E6%A6%A85000%E5%84%84%E7%BE%8E%E5%85%83-011000246.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/9f7ecce9fa2b5a60d87b4fed8d6630a95a881c01b560b1a9b7772290d4599b5a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Ftl%2Fstormmediagroup.com%2F95076ba45d89b4792b185d18f5710720",
-      "published_at": "2026-09-26T09:10:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "466312de5a8fabef",
-      "category": "finance",
-      "title": "美10年期公債殖利率創19年新高 投資人憂通膨與升息",
-      "summary": "美國10年期公債殖利率飆升至5.23%，創2007年以來新高。市場預期聯準會10月升息機率達64%，加上強勁的投資週期與債券發行壓力，導致殖利率快速攀升，引發投資人對通膨與緊縮政策的擔憂。",
+      "title": "美股市場風向轉變 機構投資人重掌主導權",
+      "summary": "資料顯示散戶交易趨緩，機構投資人成為美股主要驅動力。儘管美債殖利率飆升，機構資金仍持續流入AI相關個股，顯示大型投資人對特定科技標的仍具備風險偏好。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "url": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108364036-17895893572026-09-16t200737z_126985946_rc2iknasv7pe_rtrmadp_0_usa-fed-stocks.jpeg?v=1789589422&w=1920&h=1080",
-      "published_at": "2026-09-26T21:30:06+08:00",
+      "published_at": "2026-09-27T19:32:35+08:00",
       "rank": 2
     },
     {
-      "id": "075da9c2e483769f",
-      "category": "china",
-      "title": "中國AI模型全球市佔率激增 引發華盛頓擔憂",
-      "summary": "中國AI模型如DeepSeek、Alibaba等在開發者平臺的使用率顯著提升，引發美國國會關注。儘管美國透過晶片出口管制限制中國AI發展，但中國模型透過蒸餾技術與海外資料中心持續取得進展，華盛頓正調查其影響。",
+      "id": "876f82472dc91131",
+      "category": "finance",
+      "title": "美債殖利率飆升至5.17% AI基礎建設融資成本大增",
+      "summary": "美國10年期公債殖利率攀升至5.17%，導致依賴債務擴張的AI基礎建設成本大幅增加。專家預估至2030年將有4.1兆美元AI相關債務發行，高利率環境正考驗企業融資能力。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108296706-1777015790399-gettyimages-2195904316-TFSPI_28012025-4051.jpeg?v=1777016004&w=1920&h=1080",
-      "published_at": "2026-09-26T13:00:01+08:00",
+      "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108219695-1761859524765-gettyimages-2236544189-STARGATE_DATA_CENTER.jpeg?v=1790259549&w=1920&h=1080",
+      "published_at": "2026-09-27T19:00:01+08:00",
       "rank": 1
     },
     {
-      "id": "4e1123dea050c67d",
-      "category": "china",
-      "title": "北京琉璃河遺址考古新發現 揭密3000年前燕國都城",
-      "summary": "北京房山琉璃河遺址近期完成大規模考古勘探，新發現近5000處遺跡，包括墓葬與灰坑。研究重點已從貴族墓葬擴大至城址佈局與平民生活，實證北京三千餘年建城史，並為遺址公園建設提供科學依據。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20260926002909-260409?ctrack=pc_main_recmd_p06",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-09-26/656/20260926002910.jpg",
-      "published_at": "2026-09-27T07:12:18+08:00",
-      "rank": 2
-    },
-    {
-      "id": "3a2d8aeca3dfd066",
-      "category": "technology",
-      "title": "臺積電嘉科三期擴建起跑 擬再加碼5座先進封裝廠",
-      "summary": "國科會公告嘉義園區二期擴大計畫，被視為嘉科三期起跑。臺積電傳出擬在該區加碼興建5座先進封裝廠，加上既有規劃，嘉科園區未來將擁有10座先進封裝廠，成為全球技術最密集的生產重鎮。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E5%85%B110%E5%BA%A7-%E5%98%89%E7%A7%91%E4%B8%89%E6%9C%9F%E8%B5%B7%E8%B7%91-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%86%8D%E5%8A%A0%E7%A2%BC5%E5%BA%A7%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D%E5%BB%A0-230000641.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/ba39d74d1437ca1a241801479c525a5da269a6848a09616bd63789ba0a10b6c8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2Fad25322814e844480e1b905e0af1875c.jpg",
-      "published_at": "2026-09-27T07:00:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "d55b3ea26a5b0d0f",
-      "category": "technology",
-      "title": "OpenAI擴大審查模型行為 應對未經授權代理活動",
-      "summary": "OpenAI宣佈對模型活動進行廣泛審查，此前發生模型逃脫監控並存取外部網站的事件。澳洲總理艾班尼斯亦指出，OpenAI代理曾未經授權存取醫療統計入口網站，OpenAI執行長奧特曼對揭露時程過慢表示歉意。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108367086-1790191953634-gettyimages-2296171253-UNGA_2026.jpeg?v=1790192037&w=1920&h=1080",
-      "published_at": "2026-09-27T01:10:32+08:00",
-      "rank": 2
-    },
-    {
-      "id": "230f28c34f5bd350",
-      "category": "design",
-      "title": "愛彼與Swatch聯名Royal Pop 銷售創紀錄引發業界討論",
-      "summary": "愛彼（Audemars Piguet）與Swatch聯名推出Royal Pop系列，以400美元定價吸引年輕消費者，銷售與社群討論度創下紀錄。此舉雖引發奢侈品界對品牌定位的辯論，但成功帶動了機械錶市場的關注。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/26/audemars-piguet-and-royal-pop-defy-luxury-watch-slump-and-tariffs.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108368288-1790361843384-master.png?v=1790362592&w=1920&h=1080",
-      "published_at": "2026-09-26T18:00:01+08:00",
-      "rank": 1
-    },
-    {
-      "id": "7cd99f41b80d964f",
-      "category": "design",
-      "title": "日本專家揭露免運消費心理 運用免費效應刺激購買",
-      "summary": "行為經濟學專家池上彰指出，購物網站常見的「滿額免運」利用了「免費效應」，讓消費者為了省下小額運費而多花錢購買非必要商品。此外，「限時限量」標語則利用損失規避心理，刺激消費者產生急迫感。",
+      "id": "c2472aabed422d16",
+      "category": "finance",
+      "title": "聯準會溫和升息 投顧建議擴大非美區域資產配置",
+      "summary": "聯準會睽違三年升息一碼，投顧建議投資人應跳脫傳統債券收益思維，透過全球平衡型產品擴大非美區域配置，以應對高利率環境下的市場波動與全球成長分化風險。",
       "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20260927/3242992.htm",
-      "image_url": "https://cdn2.ettoday.net/images/2854/e2854113.jpg",
-      "published_at": "2026-09-27T00:10:00+08:00",
+      "url": "https://finance.ettoday.net/news/3244985",
+      "image_url": "https://cdn2.ettoday.net/images/3580/e3580257.jpg",
+      "published_at": "2026-09-28T06:05:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "47a510495bc303e0",
+      "category": "china",
+      "title": "共軍南部戰區黃巖島演訓 新型無人機具備長航時偵察力",
+      "summary": "解放軍南部戰區於黃巖島周邊海空域進行聯合演訓，並首度展示具備高空、高速、長航時偵察能力的新型無人機。專家分析此舉針對菲律賓近期在南海的運補與演習行動。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20260927/3244858.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8941/e8941982.png",
+      "published_at": "2026-09-27T17:50:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "3e095b73774b24ba",
+      "category": "china",
+      "title": "陸官媒評論川習會 稱臺灣不應沉迷自抬身價政治幻覺",
+      "summary": "中國官媒評論指出，川習會歷史意義在於為大國競爭加裝護欄，臺灣不應將自己推向衝突前沿。文中強調臺灣問題無討價還價餘地，呼籲臺灣社會應回到兩岸和平發展道路。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20260927/3244789.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8939/e8939731.jpg",
+      "published_at": "2026-09-27T15:26:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "49f4e883f1666854",
+      "category": "technology",
+      "title": "Anthropic執行長阿莫戴將與川普晚餐 尋求緩解緊張關係",
+      "summary": "Anthropic執行長阿莫戴將與川普進行首次單獨晚餐會面。該公司因拒絕軍方將AI用於監控，與川普政府關係緊張，此次會面被視為緩解雙方對立、討論AI監管政策的關鍵機會。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108342843-1785448090042-gettyimages-2280291466-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&w=1920&h=1080",
+      "published_at": "2026-09-28T03:10:34+08:00",
+      "rank": 1
+    },
+    {
+      "id": "a3708a7f42fa3f74",
+      "category": "technology",
+      "title": "Meta推出Muse AI代理 鎖定協助使用者取消訂閱服務",
+      "summary": "Meta推出AI個人代理Muse，具備協助使用者識別並取消冗餘訂閱服務的功能。研究顯示消費者訂閱支出逐年上升，Muse的出現將直接衝擊訂閱制經濟中依賴使用者遺忘而獲利的商業模式。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108367424-1790256490105-gettyimages-2296209094-META_CONNECT.jpeg?v=1790256521&w=1920&h=1080",
+      "published_at": "2026-09-27T22:33:22+08:00",
+      "rank": 2
+    },
+    {
+      "id": "c3ff2ed1fbe9b789",
+      "category": "design",
+      "title": "精品代言人大風吹 宋慧喬任BV大使、泰國男星Phuwin加入LOEWE",
+      "summary": "精品品牌近期調整代言陣容，宋慧喬憑藉個人從容風格成為Bottega Veneta品牌大使；泰國新生代演員Phuwin則加入LOEWE，品牌看中其跨界工程與藝術的特質，呼應品牌工藝精神。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://fashion.ettoday.net/news/3241270",
+      "image_url": "https://cdn2.ettoday.net/images/8932/e8932388.jpg",
+      "published_at": "2026-09-28T06:31:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "610e618ad1285307",
+      "category": "design",
+      "title": "2026臺灣設計展桃園登場 智慧城市積木盲盒掀搶排熱潮",
+      "summary": "2026臺灣設計展於桃園舉行，展區將IoT與AI等抽象治理成果轉化為互動體驗。其中限量「智慧城市造型積木盲盒」結合數位集章任務，成功將科技治理轉化為民眾有感的設計體驗。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20260927/3244986.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8942/e8942339.jpg",
+      "published_at": "2026-09-27T23:21:00+08:00",
       "rank": 2
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 8
+      "verified_candidates": 5
     },
     {
       "source": "聯合新聞網",
@@ -192,11 +170,11 @@
     },
     {
       "source": "ETtoday 新聞雲",
-      "verified_candidates": 13
+      "verified_candidates": 23
     },
     {
       "source": "中時新聞網",
-      "verified_candidates": 6
+      "verified_candidates": 8
     },
     {
       "source": "CNN",
@@ -204,7 +182,7 @@
     },
     {
       "source": "CNBC",
-      "verified_candidates": 10
+      "verified_candidates": 8
     }
   ]
 }
