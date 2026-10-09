@@ -1,202 +1,202 @@
 {
-  "edition": "2026-10-08",
-  "updated_at": "2026-10-08T08:49:16.909899+08:00",
-  "window_start": "2026-10-07T08:48:14.849438+08:00",
-  "window_end": "2026-10-08T08:48:14.849438+08:00",
+  "edition": "2026-10-09",
+  "updated_at": "2026-10-09T09:02:46.869156+08:00",
+  "window_start": "2026-10-08T09:02:20.154251+08:00",
+  "window_end": "2026-10-09T09:02:20.154251+08:00",
   "articles": [
     {
-      "id": "146cc0c830732d3a",
+      "id": "27d038c003899519",
       "category": "international",
-      "title": "美籍華裔女房仲涉嫌監控賴清德家人，遭FBI逮捕並面臨高度潛逃風險",
-      "summary": "美籍華裔女房仲張婉瑩涉嫌受中國政府指示，在美國監視賴清德總統長子賴廷與一家，於洛杉磯機場遭FBI逮捕。FBI指出張婉瑩具高度潛逃風險，且其持有的中國護照下落不明，若罪名成立最高面臨10年徒刑。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6813/9801835",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/08/35400731.jpg&M=1&s=Y&x=0&y=613&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-10-08T07:28:16+08:00",
+      "title": "川普政治品牌效應減弱 美國共和黨恐面臨期中選舉「紅色退潮」",
+      "summary": "美國期中選舉倒數，受戰爭、油價與生活成本高漲影響，部分共和黨選民對川普熱情消退，甚至出現不願投票的「紅色退潮」現象。民調顯示民主黨在可能投票選民中具優勢，恐影響選情。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261009000982-260408?ctrack=pc_main_recmd_p11",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-09/656/20261009001001.jpg",
+      "published_at": "2026-10-09T08:10:48+08:00",
       "rank": 1
     },
     {
-      "id": "006368b31713bf19",
+      "id": "e2992cf618a3a7fc",
       "category": "international",
-      "title": "中東戰火擴大，沙烏地阿拉伯兩機場遭無人機與飛彈攻擊釀死傷",
-      "summary": "沙烏地阿拉伯首都利雅德及南部艾卜哈機場接連遭青年運動攻擊，造成至少3死36傷。沙國聯軍誓言報復，並對葉門境內超過80處軍事據點發動空襲，區域航空安全與能源運輸面臨嚴重威脅。",
+      "title": "中老合作班根軍用機場投入運作 衛星影像顯示部署教練機",
+      "summary": "位於寮國班根的航空軍事設施已投入運作，該設施由中國與寮國合作建設。最新衛星影像顯示，機場內出現約八架K-8教練兼輕型攻擊機及支援車輛，引發國際觀察人士關注其軍事用途。",
       "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E6%8C%81%E7%BA%8C%E6%93%B4%E5%A4%A7-%E6%B2%99%E5%9C%8B2%E6%A9%9F%E5%A0%B4%E9%81%87%E8%A5%B2-%E9%87%80%E8%87%B3%E5%B0%913%E6%AD%BB36%E5%82%B7-002641894.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/65625494d205a3930360890c0c3afbae336cfbcd830dbd5a477cc4b4c09baf8a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fctwant_com_582%2Fa2107b1046feca92760d8dbb123b37f0.jpg",
-      "published_at": "2026-10-08T08:26:41+08:00",
+      "url": "https://tw.news.yahoo.com/%E8%80%81%E6%92%BE%E7%9A%84%E7%8F%AD%E6%A0%B9%E8%BB%8D%E7%94%A8%E6%A9%9F%E5%A0%B4-%E4%B8%AD%E5%9C%8B%E8%83%BD%E7%94%A8%E4%BE%86%E5%81%9A%E7%94%9A%E9%BA%BC-001829168.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/8b440ac92fa6d590f1ca2348574ec726aef9054008563a88e341b8ccc72b12db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fvi%2Fbbc_trad_chinese_tw_489%2F6373d4a44a7cb4a63e15e56eb0d7da1c.jpg",
+      "published_at": "2026-10-09T08:18:29+08:00",
       "rank": 2
     },
     {
-      "id": "45ed87fa351ff37a",
+      "id": "6cd9161c31460ed8",
       "category": "taiwan",
-      "title": "新北捷運三鶯線裝置異常，全線降級運轉引發通勤族不便",
-      "summary": "新北捷運三鶯線因龍埔站裝置異常導致斷電，列車無法行駛，經一夜搶修後仍未完全恢復，全線降級運轉並採單線雙向通行，班距延長至18分鐘，通勤族需預留交通時間或改搭公車。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261008001226-260405?ctrack=pc_main_alert_p03",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-08/656/20261008001235.jpg",
-      "published_at": "2026-10-08T08:05:46+08:00",
+      "title": "臺北市長民調差距縮小至8個百分點 黃揚明示警萬安警報響起",
+      "summary": "最新民調顯示，臺北市長蔣萬安與對手沈伯洋支援度差距縮小至8個百分點。媒體人黃揚明分析，蔣萬安在上次投給自己的選民中流失支援，且在民眾黨與陳時中支持者群體中表現不佳，選情出現警訊。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E6%88%B0-%E8%90%AC%E5%AE%89%E8%AD%A6%E5%A0%B1%E9%9F%BF%E4%BA%86-%E9%BB%83%E6%8F%9A%E6%98%8E%E9%A9%9A%E7%88%86-%E5%8F%B0%E6%B0%91%E8%AA%BF%E6%9B%9D3%E5%A4%A7%E8%AD%A6%E8%A8%8A-002237974.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/f49daeaef8d566a0ea2f759c9409a845a565dece53b94c471b21cfeb1d4b8670/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fgotv_ctitv_com_tw_678%2F7d56b3a335f846164a9a7c0c9cbf148b.jpg",
+      "published_at": "2026-10-09T08:28:08+08:00",
       "rank": 1
     },
     {
-      "id": "6ff3b8feac038f9c",
+      "id": "563fdae75d2754a6",
       "category": "taiwan",
-      "title": "臺中某國中生墜樓身亡，校方證實生前曾因疑似惡作劇遭通知說明",
-      "summary": "臺中一名國二男學生墜樓身亡，校方表示因班上發生水壺與坐墊遭潑灑尿液等惡作劇，調閱監視器發現該生曾折返教室，遂通知其至學務處說明，未料隨後發生憾事。家屬要求保全證據並進行外部調查。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261007004564-260405?ctrack=pc_main_life_p04",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-07/656/20261007004570.jpg",
-      "published_at": "2026-10-07T19:48:53+08:00",
+      "title": "蔣萬安提松山機場遷移計畫 擬打造AI園區引發地產與配套爭議",
+      "summary": "臺北市長蔣萬安宣佈規劃遷移松山機場，擬將300公頃腹地打造為AI園區。地產界看好都更彈性，但綠營與學者質疑缺乏配套，並擔憂機場量能轉移至桃機將導致崩潰，建議應優先考慮南部興建國際機場。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/124652/9804068",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/08/35404308.jpg&M=1&s=Y&x=0&y=47&sw=1280&sh=854&exp=3600",
+      "published_at": "2026-10-09T00:00:00+08:00",
       "rank": 2
     },
     {
-      "id": "9924358d9e3947a3",
+      "id": "2672a3da28f68dee",
       "category": "us",
-      "title": "川普政府擬大幅提高國際學生實習費用，首次申請需繳223萬元",
-      "summary": "美國國土安全部提議大幅調漲國際學生OPT實習計畫費用，首次申請需支付7萬美元（約223萬臺幣），後續申請需3萬美元。政府稱此舉旨在打擊簽證詐欺，但教育界擔憂將嚴重傷害美國創新與經濟競爭力。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261008/3251066.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8929/e8929210.jpg",
-      "published_at": "2026-10-08T08:47:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "17d6095f2bcbb331",
-      "category": "us",
-      "title": "傳川普考慮重啟美伊大規模作戰，可能於美國期中選舉前發動",
-      "summary": "美媒引述官員指出，五角大廈已下令準備恢復對伊朗大規模作戰，可能聯手以色列轟炸其能源與核設施。時間點可能落在11月3日美國期中選舉前，川普目前仍在權衡戰事對選情的影響。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/124061/9801849",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/08/35400742.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-      "published_at": "2026-10-08T07:50:18+08:00",
-      "rank": 2
-    },
-    {
-      "id": "f6b6804d20c676bf",
-      "category": "stocks",
-      "title": "臺指期夜盤重挫逾300點，專家提醒臺積電與馬斯克合作劇本降溫",
-      "summary": "受美債殖利率走高及市場對通膨擔憂影響，臺指期夜盤重挫，臺積電期貨同步下跌。專家指出，馬斯克澄清Terafab計畫將由特斯拉與SpaceX自行營運，市場對臺積電參與的熱烈預期已明顯降溫。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261008001357-260410?ctrack=pc_main_recmd_p06",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-08/656/20261008001415.jpg",
-      "published_at": "2026-10-08T08:34:54+08:00",
-      "rank": 1
-    },
-    {
-      "id": "dc346fdb9591655e",
-      "category": "stocks",
-      "title": "33歲護理師股票資產破千萬，思考離職與股債配置轉向守成",
-      "summary": "一名33歲護理師分享股票資產突破千萬，受惠臺股近年漲勢提前達標。面對資產規模擴大，她開始思考是否應增加債券與現金配置以守住成果，網友建議若未正式退休，無需急於改變長期投資策略。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/12806/9800681",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/07/35399129.jpg&M=1&x=&y=&sw=&sh=&exp=3600",
-      "published_at": "2026-10-08T08:42:46+08:00",
-      "rank": 2
-    },
-    {
-      "id": "576c2c38bcce163b",
-      "category": "finance",
-      "title": "中國央行連續23個月增持黃金，9月底外匯存底降至3.4兆美元",
-      "summary": "中國人民銀行連續23個月增持黃金，9月底儲備達7747萬盎司。同時，受美元指數上漲及全球金融資產價格下跌影響，中國外匯存底降至約3.4兆美元，較前月減少約1.11%。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261007/3250777.htm",
-      "image_url": "https://cdn2.ettoday.net/images/4766/e4766122.jpg",
-      "published_at": "2026-10-07T16:18:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "740221f5fd2f3eda",
-      "category": "finance",
-      "title": "AI需求推升電子零元件價格，9月電腦裝置漲幅創44年新高",
-      "summary": "主計總處公佈9月CPI年增2.73%，其中受AI需求帶動記憶體等電子零元件價格上揚，電腦及相關裝置價格年增9.75%，創下統計以來最大漲幅。進口物價指數亦創下逾49年半最大漲幅。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3250946",
-      "image_url": "https://cdn2.ettoday.net/images/8479/e8479512.jpg",
-      "published_at": "2026-10-08T00:10:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "cbebb02e65680d90",
-      "category": "china",
-      "title": "中國證監會前主席易會滿涉貪被起訴，傳涉權色交易物件達73人",
-      "summary": "中國證監會前主席易會滿因涉嫌受賄與權色交易，已於9月30日被檢方正式起訴。網傳其涉案女性高達73人，引發輿論熱議，官方則已撤銷其黨籍與公職，並將涉案罪證移送法辦。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261008/3251041.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8959/e8959028.jpg",
-      "published_at": "2026-10-08T06:55:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "bb74c1665d42edee",
-      "category": "china",
-      "title": "陸軍東引上兵遭中共情治單位吸收，翻拍機密情報傳送獲利",
-      "summary": "陸軍東引地區指揮部周姓上兵因缺錢借貸，遭中共情治單位吸收，多次翻拍部隊情報業務資料傳送給中國公安人員，獲利約79萬餘元。高雄地檢署依違背職務收賄等罪起訴，案件將由國民法官審理。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7315/9801621",
-      "image_url": "https://udn.com/static/img/UDN_BABY.png",
-      "published_at": "2026-10-08T00:00:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "76624b3123129fb5",
-      "category": "technology",
-      "title": "微軟推出搭載Nvidia AI晶片的Surface Laptop Ultra，售價2599美元",
-      "summary": "微軟發表新款Surface Laptop Ultra，搭載Nvidia AI晶片，售價2599美元，旨在提升個人裝置的AI運算能力，減少對雲端依賴。該機型具備磁吸式USB-C充電埠，預計10月16日出貨。",
+      "title": "川普承諾期中選舉前不攻擊伊朗 談判進展與軍事部署持續進行",
+      "summary": "美國總統川普表示期中選舉前不會攻擊伊朗，但五角大廈已擬定多項軍事打擊方案，並有航艦部署中東。儘管外交談判持續，但因荷莫茲海峽控制權等議題陷入僵局，美軍仍保持備戰狀態以防政策變動。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108374272-1791394791672-Screenshot-2026-10-07-at-13735_PM.jpg?v=1791394804&w=1920&h=1080",
-      "published_at": "2026-10-08T02:30:52+08:00",
+      "url": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108376463-1791461958286-gettyimages-2298533849-TRUMP_TEXAS.jpeg?v=1791461991&w=1920&h=1080",
+      "published_at": "2026-10-09T00:25:08+08:00",
       "rank": 1
     },
     {
-      "id": "26938d7c1cbfcfb5",
-      "category": "technology",
-      "title": "Google調整Gemini模型許可權，免費版與AI Plus使用者功能縮減",
-      "summary": "Google自9日起調整Gemini模型分級，免費使用者僅能使用Flash-Lite，AI Plus使用者亦無法再使用Pro模型。若需進階推理能力，使用者須升級至AI Pro以上方案，此舉限制了免費使用者處理複雜任務的能力。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://ai.ettoday.net/news/3251048",
-      "image_url": "https://cdn2.ettoday.net/images/8959/e8959037.png",
-      "published_at": "2026-10-08T07:36:00+08:00",
+      "id": "43efa7d05d9530d1",
+      "category": "us",
+      "title": "美國政府擴大外籍員工限制 微軟與Adobe遭暫停綠卡勞工計畫",
+      "summary": "美國勞工部宣佈暫停微軟、Adobe等多家企業參與永久勞工認證計畫。副總統範斯批評微軟裁員後以H-1B簽證員工取代，要求企業展現優先聘用美國勞工的決心，否則將持續限制其申請資格。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108377025-17914705752026-10-08t143311z_959347769_rc22znalidnp_rtrmadp_0_usa-vance.jpeg?v=1791473275&w=1920&h=1080",
+      "published_at": "2026-10-08T23:24:25+08:00",
       "rank": 2
     },
     {
-      "id": "4f3f909f68b34bcf",
-      "category": "design",
-      "title": "武漢試推太陽能公共座椅，整合無線充電與Wi-Fi提升便利性",
-      "summary": "武漢龜山公園新增太陽能公共座椅，整合光伏板蓄電，提供USB介面、無線充電區及Wi-Fi服務。座椅具備夜間自動照明功能，既是休息設施也是路燈，提升民眾戶外活動的便利性與安全感。",
+      "id": "1ab3f9b546c1eec8",
+      "category": "stocks",
+      "title": "OpenAI營收資料不如預期引發賣壓 臺指期夜盤大跌逾600點",
+      "summary": "因OpenAI年化營收資料低於市場預期，引發AI泡沫擔憂，美股晶片股重挫，費城半導體指數大跌3.39%。受此影響，臺指期夜盤跳水下跌652點，臺積電ADR亦同步收黑。",
       "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261007/3250714.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8957/e8957421.jpg",
-      "published_at": "2026-10-07T15:14:00+08:00",
+      "url": "https://finance.ettoday.net/news/3251683",
+      "image_url": "https://cdn2.ettoday.net/images/4092/e4092462.jpg",
+      "published_at": "2026-10-09T05:49:00+08:00",
       "rank": 1
     },
     {
-      "id": "6a2ac443a923d62a",
-      "category": "design",
-      "title": "日本LINE測試「滾動預覽」功能，不顯示已讀即可檢視訊息",
-      "summary": "日本LINE測試「滾動預覽」功能，使用者長按聊天室即可在不顯示已讀的情況下檢視訊息內容。該功能目前僅限日本版手機與iPad使用，未來預計改為訂閱會員限定，旨在解決已讀不回的尷尬。",
+      "id": "c23a194f6a417d12",
+      "category": "stocks",
+      "title": "永冠-KY未如期申報財報 證交所公告11月18日終止上市",
+      "summary": "擁有4.3萬名股東的永冠-KY，因未依法令期限公告申報2025年度財務報告，遭停止買賣屆滿6個月。證交所公告，該公司將於11月18日起終止上市並停止公開發行。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3251565",
+      "image_url": "https://cdn2.ettoday.net/images/8308/e8308222.jpg",
+      "published_at": "2026-10-08T18:22:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "2e364040e44c1744",
+      "category": "finance",
+      "title": "OpenAI年化營收估值落差引發疑慮 科技業舉債擴張受檢視",
+      "summary": "OpenAI最新財務檔案顯示年化營收約500億美元，低於先前媒體報導的700億美元。此落差引發投資人對AI需求能否支撐龐大基礎建設支出的疑慮，加上科技業大規模舉債，市場擔憂資本競爭加劇。",
       "source": "聯合新聞網",
-      "url": "https://tech.udn.com/tech/story/123154/9801866",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/21/35249896.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=800&sl=W&fw=800&exp=3600",
-      "published_at": "2026-10-08T08:26:51+08:00",
+      "url": "https://udn.com/news/story/6811/9804359",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/09/35404725.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-10-09T07:24:40+08:00",
+      "rank": 1
+    },
+    {
+      "id": "68d6353f1db00420",
+      "category": "finance",
+      "title": "美國勞動市場現「低僱傭低解僱」現象 失業救濟金申領創新低",
+      "summary": "美國勞動市場出現企業不願裁員也不積極招聘的停滯狀態。首次申請失業救濟金人數連續四週低於20萬，創下數十年紀錄，顯示裁員處於歷史低點，但招聘活動疲軟，聯準會穩定就業職責仍受關注。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B%E5%8B%9E%E5%8B%95%E5%B8%82%E5%A0%B4-%E4%BD%8E%E5%83%B1%E5%82%AD-%E4%BD%8E%E8%A7%A3%E5%83%B1-%E5%A4%B1%E6%A5%AD%E6%95%91%E6%BF%9F%E9%87%91%E7%94%B3%E9%A0%98%E5%89%B5%E6%95%B8%E5%8D%81%E5%B9%B4%E6%96%B0%E4%BD%8E-005257375.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/f869afd77576f4ef7d82ff22184fd3649b1cffaed034ff22db157e1d91acce08/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fsunmedia_664%2F498f354385a2920c365cb402a58f9fb1.jpg",
+      "published_at": "2026-10-09T08:52:57+08:00",
+      "rank": 2
+    },
+    {
+      "id": "1469c43a3c51d75a",
+      "category": "china",
+      "title": "傳中國民兵船現蹤臺灣東部外海 美國務院批北京破壞穩定",
+      "summary": "監控報告指出，中國海上民兵船8月首度出現在臺灣東部海域。美國國務院對此表示關切，批評中國舉措高度破壞穩定，並敦促北京停止對臺施壓，轉而與臺灣民選當局進行對話。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/10930/9804375",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/09/35404737.jpg&M=1&s=Y&x=1&y=0&sw=1080&sh=720&exp=3600",
+      "published_at": "2026-10-09T07:52:04+08:00",
+      "rank": 1
+    },
+    {
+      "id": "e83055939f3a7800",
+      "category": "china",
+      "title": "環球時報社評批蔡英文訪美 稱犧牲產業自主權為政治獻媚",
+      "summary": "針對前總統蔡英文訪美並會晤裴洛西，環球時報發表社評批評其行為是犧牲臺灣產業自主權的「賣臺」行徑，指控民進黨當局將臺灣科技產業捆綁進美國地緣博弈體系，意圖謀求臺獨空間。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/7331/9804419",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/09/35404799.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-10-09T08:53:45+08:00",
+      "rank": 2
+    },
+    {
+      "id": "a054fc97a980ae01",
+      "category": "technology",
+      "title": "川普頒發國家科學獎章 盛讚馬斯克與科技領袖開創黃金時代",
+      "summary": "美國總統川普頒發國家科學獎章，表揚馬斯克、黃仁勳、蘇姿豐等科技領袖。川普強調這些領袖在半導體與AI領域的貢獻，為美國奠定超級智慧時代基礎，並承諾提供AI運算額度支援科學研究。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261009/3251706.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8960/e8960456.jpg",
+      "published_at": "2026-10-09T08:18:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "5ca18fa8ac17a2ea",
+      "category": "technology",
+      "title": "蘋果傳10月連辦兩場發表會 預計推出9大智慧家居與Mac新品",
+      "summary": "蘋果宣佈10月13日舉辦智慧家居新品發表會，傳聞10月27日將再舉辦活動，推出搭載M5晶片的MacBook Pro及新款iPad mini等共9項新品，顯示蘋果有意加快產品更新節奏。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261009/3251723.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8928/e8928085.jpg",
+      "published_at": "2026-10-09T09:00:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "557c942bc56cb2f0",
+      "category": "design",
+      "title": "曾敬驊挑戰全日語演出電影 詮釋跨國療癒旅程展現反差演技",
+      "summary": "新生代演員曾敬驊在臺日跨國電影《鼠一般的你》中，首度挑戰全日語演出，飾演熱情奔放的混血男孩。他需克服語言隔閡並詮釋直球撩妹臺詞，展現與私下性格截然不同的反差演技。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://star.ettoday.net/news/3251621",
+      "image_url": "https://cdn2.ettoday.net/images/8960/e8960423.jpg",
+      "published_at": "2026-10-09T08:15:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "764b96d49dcee99a",
+      "category": "design",
+      "title": "安海瑟薇懷孕嗅覺敏銳 幽默自嘲能聞到時間流動與季節氣味",
+      "summary": "好萊塢女星安海瑟薇懷第三胎期間，分享嗅覺變得異常敏銳，甚至自嘲能聞到不同年份夏天的氣味。她因孕期不適與醫師建議，放棄挑戰知名節目《Hot Ones》的辣雞翅環節。",
+      "source": "聯合新聞網",
+      "url": "https://stars.udn.com/star/story/10089/9794906",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/05/35390258.png&M=1&s=Y&x=121&y=0&sw=1078&sh=719&sl=W&fw=800&exp=3600",
+      "published_at": "2026-10-09T08:53:54+08:00",
       "rank": 2
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 7
+      "verified_candidates": 10
     },
     {
       "source": "聯合新聞網",
-      "verified_candidates": 13
+      "verified_candidates": 12
     },
     {
       "source": "ETtoday 新聞雲",
-      "verified_candidates": 20
+      "verified_candidates": 15
     },
     {
       "source": "中時新聞網",
-      "verified_candidates": 7
+      "verified_candidates": 8
     },
     {
       "source": "CNN",
@@ -204,7 +204,7 @@
     },
     {
       "source": "CNBC",
-      "verified_candidates": 12
+      "verified_candidates": 14
     }
   ]
 }
