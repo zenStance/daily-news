@@ -1,147 +1,191 @@
 {
-  "edition": "2026-10-11",
-  "updated_at": "2026-10-11T08:09:36.430516+08:00",
-  "window_start": "2026-10-10T08:09:20.861333+08:00",
-  "window_end": "2026-10-11T08:09:20.861333+08:00",
+  "edition": "2026-10-12",
+  "updated_at": "2026-10-12T08:18:00.372752+08:00",
+  "window_start": "2026-10-11T08:17:41.670717+08:00",
+  "window_end": "2026-10-12T08:17:41.670717+08:00",
   "articles": [
     {
-      "id": "6e5e0e95330f8afe",
+      "id": "3ea3e95aed32fda8",
       "category": "international",
-      "title": "沙烏地首都機場遇襲釀12死309傷 川普考慮介入打擊",
-      "summary": "沙烏地阿拉伯利雅德機場10日遭飛彈襲擊，造成12死309傷，為該機場一週內第三度遇襲。葉門叛軍青年運動被指為幕後主使，美國總統川普表示正評估是否加入沙國軍事打擊行動。",
+      "title": "日本最新民調：近8成民眾反對為「臺灣有事」出兵參戰",
+      "summary": "日本新聞通訊調查會民調顯示，儘管近7成民眾支援自衛隊入憲，但高達8成受訪者反對日本為「臺灣有事」直接參戰。此外，逾8成民眾認為川普對世界有負面影響，美國被視為威脅和平的比例亦顯著上升。",
       "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261011000641-260408?ctrack=pc_main_alert_p02",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-11/656/20261011000647.jpg",
-      "published_at": "2026-10-11T07:23:40+08:00",
+      "url": "https://www.chinatimes.com/newspapers/20261012000399-260120?ctrack=pc_main_alert_p03",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-12/656/B01A00_P_01_02.jpg",
+      "published_at": "2026-10-12T04:10:00+08:00",
       "rank": 1
     },
     {
-      "id": "187e5d2bf5ae16e9",
+      "id": "12625cd3b62087e5",
       "category": "international",
-      "title": "諾貝爾和平獎頒給ICC前法官 美國政府宣佈制裁該法院",
-      "summary": "諾貝爾委員會將2026年和平獎頒給曾任國際刑事法院（ICC）法官的皮萊。川普政府隨即宣佈對ICC實施嚴厲金融制裁，指控該法院侵犯美國主權，並禁止企業與其進行業務往來。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6813/9805936",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35407077.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-10-10T09:23:48+08:00",
+      "title": "刺胳針研究：核戰與惡意使用AI恐在75年內導致人類滅絕",
+      "summary": "國際期刊《刺胳針》研究指出，核武衝突與惡意使用AI是唯二具「滅絕性」的威脅。若能有效防範，至2100年可避免數十億年的健康生命損失。報告同時列出氣候變遷、貧富差距等17項重大全球風險。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/newspapers/20261012000404-260120?ctrack=pc_main_alert_p05",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-12/656/B01A00_P_03_02.jpg",
+      "published_at": "2026-10-12T04:10:00+08:00",
       "rank": 2
     },
     {
-      "id": "4886025147f87868",
+      "id": "7a0db47a95dad4d2",
       "category": "taiwan",
-      "title": "韓國瑜國慶致詞批「假民主真獨裁」 引發朝野激烈論戰",
-      "summary": "立法院長韓國瑜於國慶大會致詞時，批評執政團隊政治獵殺，並稱臺灣民主恐被誤解為「假民主、真獨裁」。民進黨團批評其言論失格，國民黨團則呼籲賴清德應謙卑面對朝野對立。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261010003035-260407?ctrack=pc_main_donate_p03",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-10/656/20261010003061.jpg",
-      "published_at": "2026-10-10T23:08:53+08:00",
-      "rank": 1
-    },
-    {
-      "id": "cadf2d635adc7912",
-      "category": "taiwan",
-      "title": "海鯤軍艦預計本月進行深水潛航測試 目標年底前交艦",
-      "summary": "臺船承造的海鯤軍艦已完成浮航與淺水測試，預計本月下半月進行深水潛航。臺船董事長陳政宏表示，目標在年底前完成交船，目前建造進度順利，未受外界傳聞影響。",
+      "title": "賴清德強調國防嚇阻非挑釁，中國國防部稱演訓天經地義",
+      "summary": "總統賴清德於國慶演說強調強化國防旨在嚇阻戰爭，而非挑釁。中國國防部隨即回應，批評賴清德「以武謀獨」，並宣稱解放軍在臺周邊常態化演訓是為了震懾臺獨勢力，強調此舉天經地義。",
       "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3252437",
-      "image_url": "https://cdn2.ettoday.net/images/8733/e8733318.jpg",
-      "published_at": "2026-10-10T19:30:00+08:00",
+      "url": "https://www.ettoday.net/news/20261011/3252622.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8789/e8789468.jpg",
+      "published_at": "2026-10-11T11:38:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "69144d50fd378d1f",
+      "category": "taiwan",
+      "title": "國營事業投資預算創新高，立院預算中心示警12項難回本",
+      "summary": "明年度國營事業固定資產投資預算達4843億元，創近10年新高。立法院預算中心指出，其中12項計畫預估報酬為負或難以回收成本，遭立委質疑財務槓桿過高且投資效能低落。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261012000762-260407?ctrack=pc_main_recmd_p13",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-04/656/B02A00_P_04_02.jpg",
+      "published_at": "2026-10-12T07:15:05+08:00",
       "rank": 2
     },
     {
-      "id": "8f8b84a2d5595f48",
+      "id": "40a81b133cf6dd5f",
       "category": "us",
-      "title": "美股創歷史新高 市場聚焦銀行財報與通膨資料考驗",
-      "summary": "美股標普500指數近期創歷史新高，但面臨第三季財報季與通膨資料考驗。市場關注摩根大通等大型銀行財報，以評估企業獲利能否支撐漲勢，並判斷聯準會後續利率決策。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E8%82%A1%E7%8B%82%E6%BC%B2%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-%E4%B8%8B%E9%80%B1%E8%BF%8E2%E5%A4%A7%E8%80%83%E9%A9%97-224508240.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/7ae88c554771b97429464bf5fc5c4165395a9f7996267aaa510e1782f518980b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnownews.com%2Fa139bf431e39e8dff910f5f0558aa79b",
-      "published_at": "2026-10-11T06:45:08+08:00",
-      "rank": 1
-    },
-    {
-      "id": "cbc42cc77e6769dd",
-      "category": "finance",
-      "title": "中歐貿易磋商達成16項共識 避免貿易摩擦進一步升級",
-      "summary": "中歐貿易投資磋商機制第二次例會達成16項共識，雙方同意在WTO規則下處理電動車等貿易分歧，並針對出口管制與市場准入展開對話，旨在維持經貿關係穩定並避免摩擦升級。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6809/9807078",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/11/35408930.jpg&M=1&s=Y&x=0&y=0&sw=1233&sh=822&exp=3600",
-      "published_at": "2026-10-11T03:46:50+08:00",
-      "rank": 1
-    },
-    {
-      "id": "c277921225bc28ed",
-      "category": "finance",
-      "title": "成本壓力轉向需求端 明年筆電市場面臨出貨衰退風險",
-      "summary": "TrendForce研究指出，2027年筆電市場風險由供應轉向成本衝擊。若零元件價格維持高檔導致終端售價上漲，恐延長換機週期，預估全年出貨量可能面臨低至高個位數的衰退。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3252499",
-      "image_url": "https://cdn2.ettoday.net/images/8791/e8791456.jpg",
-      "published_at": "2026-10-11T05:42:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "b4b6aeef9b18d21b",
-      "category": "technology",
-      "title": "微軟執行長納德拉呼籲 為AI系統建立人類控制緊急煞車",
-      "summary": "微軟執行長納德拉呼籲為先進AI系統建立「緊急煞車」機制，由人類進行獨立控制與監督。此舉反映科技界對AI發展速度過快及安全協議不足的擔憂，強調應建立產業標準。",
+      "title": "川普宣稱俄烏達成能源停火，烏克蘭回應未獲細節且遭轟炸",
+      "summary": "川普於社群平臺宣稱俄烏達成能源停火，但烏克蘭表示事前不知情，且俄軍隨後仍對烏國發電廠發動攻擊。白宮官員解釋，此為仍在討論中的提案，旨在停止攻擊煉油廠以緩解美國油價壓力。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108374357-1791402676921-gettyimages-2298479109-MICROSOFT_NVIDIA.jpeg?v=1791402727&w=1920&h=1080",
-      "published_at": "2026-10-11T04:59:28+08:00",
+      "url": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108373667-1791324173258-gettyimages-2298357073-TRUMP_ARRIVE_WH.jpeg?v=1791324219&w=1920&h=1080",
+      "published_at": "2026-10-12T03:32:40+08:00",
       "rank": 1
     },
     {
-      "id": "91cb14029ca3b7f4",
-      "category": "technology",
-      "title": "ASIC概念股成AI焦點 法人建議從研發與獲利挑選標的",
-      "summary": "雲端大廠加速自研AI ASIC晶片，帶動供應鏈商機。法人建議投資人應檢視研發投入、獲利品質與訂單量產進度，避免僅憑大盤點位追高，並關注IC設計服務與先進封裝領域。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3252115",
-      "image_url": "https://cdn2.ettoday.net/images/8961/e8961326.jpg",
-      "published_at": "2026-10-10T08:43:00+08:00",
+      "id": "42a380e3934e07c4",
+      "category": "us",
+      "title": "沙國機場遇襲造成死傷，川普考慮加入打擊胡塞武裝",
+      "summary": "沙烏地阿拉伯利雅德機場遭胡塞武裝攻擊，造成12死309傷。沙國請求美國緊急防衛支援，川普表示正考慮是否加入打擊行動，此舉恐使美國進一步捲入中東衝突。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108392742-1791712321720-gettyimages-2299544800-dsc03459_6p5ylog3.jpeg?v=1791716599&w=1920&h=1080",
+      "published_at": "2026-10-11T19:45:10+08:00",
       "rank": 2
     },
     {
-      "id": "2b75d243ce51b956",
-      "category": "design",
-      "title": "摺疊機拿掉外螢幕可行嗎？網友點出使用致命傷",
-      "summary": "針對摺疊機是否應取消外螢幕以降低成本的討論，網友指出外螢幕對於即時檢視通知與自拍至關重要。且摺疊機核心成本在於鉸鏈與柔性內螢幕，取消外螢幕無法帶來顯著降價。",
+      "id": "a53ec8216acf188f",
+      "category": "stocks",
+      "title": "臺股面臨補跌壓力，專家建議聚焦AI零元件與低位階族群",
+      "summary": "受美股震盪及臺積電ADR下跌影響，臺股本週開盤面臨補跌考驗。專家建議第四季投資應回歸基本面，聚焦AI零元件、CPO光通訊及半導體測試介面等族群，並留意臺積電法說會動向。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3252708",
+      "image_url": "https://cdn2.ettoday.net/images/8962/e8962760.jpg",
+      "published_at": "2026-10-11T14:29:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "3c42a9d2b62367b7",
+      "category": "stocks",
+      "title": "美啟動337調查AI伺服器專利，鴻海臺達電廣達回應應對",
+      "summary": "美國國際貿易委員會對AI伺服器供電系統啟動337專利侵權調查，鴻海、臺達電、廣達等臺廠遭點名。鴻海表示已組專業團隊應對，目前營運未受重大影響，臺達電與廣達亦強調將積極維護權益。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3252794",
+      "image_url": "https://cdn2.ettoday.net/images/4958/e4958408.jpg",
+      "published_at": "2026-10-11T17:22:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "e22fca20ec98c9e7",
+      "category": "finance",
+      "title": "防範美債「疊券」高槓桿風險，金管會擬強化授信控管",
+      "summary": "針對投資人透過反覆質押美債放大槓桿的「疊券」操作，金管會指示銀行公會研訂強化管理措施，預計年底上路。重點包括總額度控管及嚴禁銀行勸誘疊券，以防範市場波動引發連鎖斷頭賣壓。",
       "source": "聯合新聞網",
-      "url": "https://tech.udn.com/tech/story/123151/9780627",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/21/35348405.jpg&M=1&s=Y&x=0&y=0&sw=828&sh=552&sl=W&fw=800&exp=3600",
-      "published_at": "2026-10-11T07:50:00+08:00",
+      "url": "https://udn.com/news/story/7251/9808281",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/02/35385057.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+      "published_at": "2026-10-12T02:22:09+08:00",
       "rank": 1
     },
     {
-      "id": "3975372d97c8b3eb",
-      "category": "design",
-      "title": "華為尊界V800煞車踏板斷裂 陸媒揭露缺乏強制安全標準",
-      "summary": "華為與江淮合作的尊界V800發生煞車踏板斷裂爭議。陸媒報導指出，中國現行強制標準未規定踏板斷裂強度，相關安全要求多由車廠自行訂定，引發外界對車輛安全設計的質疑。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261010/3252186.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8961/e8961543.jpg",
-      "published_at": "2026-10-10T10:45:00+08:00",
+      "id": "ee66e0589b6dd12a",
+      "category": "finance",
+      "title": "德國對中出口失速，經濟面臨「中國衝擊2.0」挑戰",
+      "summary": "歐盟警示「中國衝擊2.0」導致中歐貿易逆差擴大，德國首當其衝。資料顯示德國對中出口佔GDP比重逐年下滑，相關就業機會流失，福斯汽車等企業面臨裁員與罷工壓力，經濟發展顯著失速。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/6842/9803505",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/08/35403529.jpg&M=1&s=Y&x=0&y=0&sw=792&sh=528&exp=3600",
+      "published_at": "2026-10-11T13:25:56+08:00",
       "rank": 2
+    },
+    {
+      "id": "c910495be19d87c5",
+      "category": "china",
+      "title": "俄羅斯疑爆肺鼠疫，中國內蒙古與湖南釋出防疫提醒",
+      "summary": "俄羅斯伊爾庫茨克州傳出員工因不明肺炎死亡，引發肺鼠疫擔憂。儘管俄方否認，中國內蒙古滿洲裡、呼倫貝爾及湖南省疾控中心仍釋出防疫提醒，加強邊境監測與衛教宣導。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261011/3252818.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8955/e8955536.jpg",
+      "published_at": "2026-10-11T18:12:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "8d0dcea144809bb4",
+      "category": "china",
+      "title": "中國路邊攤驚傳「假榴槤」，剖開竟是馬鈴薯泥",
+      "summary": "浙江一名女子在路邊攤購買榴槤，剖開後發現果肉黏稠且藏有馬鈴薯，引發網路熱議。另有網友分享類似經歷，指買到內部填充馬鈴薯泥的假榴槤，相關部門已介入瞭解，提醒消費者謹慎購買。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261011/3252785.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8962/e8962972.jpg",
+      "published_at": "2026-10-11T17:08:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "73253ebb24cdab58",
+      "category": "technology",
+      "title": "輝達傳洽購AI新創Reflection AI，川普長子創投亦入股",
+      "summary": "輝達傳正洽談收購美國AI新創Reflection AI，該公司主攻開放權重模型，估值達250億美元。此交易獲輝達及川普長子小唐納．川普合夥的創投公司支援，旨在降低對中國AI模型的依賴。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3252666",
+      "image_url": "https://cdn2.ettoday.net/images/8767/e8767922.jpg",
+      "published_at": "2026-10-11T12:40:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "511790cd6f29761d",
+      "category": "technology",
+      "title": "AI工具滲透零售業，專家警告動態定價恐影響消費者",
+      "summary": "速食與超市業者正廣泛匯入AI定價工具，引發市場對動態定價的擔憂。專家指出，透過資料驅動的定價策略可能導致價格頻繁波動，甚至出現針對個人化定價的爭議，影響消費者權益。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108369883-1790716626733-gettyimages-2297775464-mcdonaldsusesartificialintelligencetorecommendmenuprices008.jpeg?v=1791542053&w=1920&h=1080",
+      "published_at": "2026-10-11T13:00:01+08:00",
+      "rank": 2
+    },
+    {
+      "id": "83bb3fa442f39856",
+      "category": "design",
+      "title": "2026臺灣設計展落幕，張善政：設計已成桃園城市基因",
+      "summary": "2026臺灣設計展於桃園閉幕，市長張善政表示，展覽將設計思維融入老城活化與城市建設，設計已成為桃園發展的重要基因。市府未來將持續串聯文化建設，提升桃園美學發展能量。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261012/3252885.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8963/e8963258.jpg",
+      "published_at": "2026-10-12T00:01:00+08:00",
+      "rank": 1
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 5
+      "verified_candidates": 10
     },
     {
       "source": "聯合新聞網",
-      "verified_candidates": 13
+      "verified_candidates": 12
     },
     {
       "source": "ETtoday 新聞雲",
-      "verified_candidates": 18
+      "verified_candidates": 16
     },
     {
       "source": "中時新聞網",
-      "verified_candidates": 5
+      "verified_candidates": 10
     },
     {
       "source": "CNN",
@@ -149,7 +193,7 @@
     },
     {
       "source": "CNBC",
-      "verified_candidates": 8
+      "verified_candidates": 4
     }
   ]
 }
