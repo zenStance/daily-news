@@ -1,202 +1,191 @@
 {
-  "edition": "2026-10-15",
-  "updated_at": "2026-10-15T07:45:42.870893+08:00",
-  "window_start": "2026-10-14T07:45:21.305460+08:00",
-  "window_end": "2026-10-15T07:45:21.305460+08:00",
+  "edition": "2026-10-17",
+  "updated_at": "2026-10-17T07:19:34.514570+08:00",
+  "window_start": "2026-10-16T07:19:10.294587+08:00",
+  "window_end": "2026-10-17T07:19:10.294587+08:00",
   "articles": [
     {
-      "id": "3c3e92cd6139b74c",
+      "id": "9c1e8c35d84c021e",
       "category": "international",
-      "title": "伊朗加劇攻擊商船 貨櫃輪於荷姆茲海峽遭擊沉",
-      "summary": "伊朗近期加劇對荷姆茲海峽商船的攻擊，一艘新加坡籍貨櫃輪遭不明物體擊中後沉沒，船員已安全撤離。這是伊朗戰爭期間第三艘遭擊沉的商船，伊朗宣稱是觸碰水雷，但缺乏獨立證據，被視為心理戰手段。",
+      "title": "伊朗加劇荷姆茲海峽攻擊行動 布蘭特原油價格衝上110美元",
+      "summary": "伊朗在荷姆茲海峽加劇攻擊行動，加上胡塞武裝組織襲擊沙烏地阿拉伯，以及烏克蘭持續打擊俄羅斯煉油廠，導致全球能源供應風險升高。布蘭特原油期貨價格自5月以來首度觸及每桶110美元，單週漲幅顯著。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108368069-1790799195771-108368069-1790345254907-gettyimages-2293522281-AFP_C7JU7ZQ.jpeg?v=1790799253&w=1920&h=1080",
-      "published_at": "2026-10-14T23:47:29+08:00",
+      "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108409918-1792001666276-2026-10-13T175311Z_748127171_RC2F2OACIXEA_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG?v=1792001733&w=1920&h=1080",
+      "published_at": "2026-10-17T01:15:44+08:00",
       "rank": 1
     },
     {
-      "id": "cf9106428006ca7a",
+      "id": "4cf24cbdfef3299b",
       "category": "international",
-      "title": "川普政府嚴查「赴美生子」 擬撤銷簽證並追溯6年",
-      "summary": "川普政府下令外交官審查2020年起赴美生子的外國人，並成立專案小組處理。涉案者不僅面臨簽證撤銷，連協助的親屬也可能受牽連。此舉旨在打擊被認為破壞入籍程式的「生育旅遊」行為。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261014004690-260408?ctrack=pc_main_recmd_p18",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-14/656/20261014004718.jpg",
-      "published_at": "2026-10-14T21:17:13+08:00",
-      "rank": 2
-    },
-    {
-      "id": "a99179f74e26ffaf",
-      "category": "taiwan",
-      "title": "涉浮報助理費與洗錢 新北五連霸議員夫妻遭羈押",
-      "summary": "國民黨籍新北市議員連斐璠及其丈夫，涉嫌以「低薪高報」手法浮報詐領公費助理補助費，並涉及洗錢與逃漏稅。檢方搜尋後認定兩人犯罪嫌疑重大且有滅證之虞，法院裁定羈押禁見。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E6%B6%89%E4%BD%8E%E8%96%AA%E9%AB%98%E5%A0%B1-%E6%B5%AE%E5%A0%B1%E5%8A%A9%E7%90%86%E8%B2%BB-%E6%96%B0%E5%8C%97%E4%BA%94%E9%80%A3%E9%9C%B8%E8%AD%B0%E5%93%A1%E5%A4%AB%E5%A6%BB%E9%81%AD%E7%BE%88%E6%8A%BC%E7%A6%81%E8%A6%8B-092245876.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/09860602b5a85c1a08090c2a1cf44b71ff32f9d44ecab04982ec7a79ffe5b8e0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fctwant_com_582%2F1b9e91644715ced740ed69f9a30703be.jpg",
-      "published_at": "2026-10-14T17:22:45+08:00",
-      "rank": 1
-    },
-    {
-      "id": "72c38c5b1cd1826c",
-      "category": "taiwan",
-      "title": "九合一選前政策牛肉戰 朝野競相推普發現金條例",
-      "summary": "九合一大選將至，國民黨力拚選前透過普發2萬元特別條例；賴清德則要求速審總預算，盼最快明年春節前普發1萬元。此外，松山機場遷建爭議與賈永婕備詢穿著引發的政治口水戰，亦成為選前焦點。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261015000995-260407?ctrack=pc_main_recmd_p07",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-15/656/A06A00_P_04_02.jpg",
-      "published_at": "2026-10-15T07:23:12+08:00",
-      "rank": 2
-    },
-    {
-      "id": "142a0d476436ac5a",
-      "category": "us",
-      "title": "美9月通膨高於預期 升息疑慮重挫美股科技股",
-      "summary": "美國9月CPI年增3.7%高於預期，市場押注聯準會將進一步升息，導致美股全面收黑。科技股賣壓沉重，那斯達克與費城半導體指數跌幅顯著，投資人擔憂高利率環境將衝擊企業獲利與AI投資。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261015000947-260410?ctrack=pc_main_alert_p03",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-15/656/20261015000948.jpg",
-      "published_at": "2026-10-15T06:10:46+08:00",
-      "rank": 1
-    },
-    {
-      "id": "b6102962f566e830",
-      "category": "us",
-      "title": "美財政部報告：大型銀行受政治壓力影響服務決策",
-      "summary": "美國財政部OCC報告指出，九大銀行在提供服務時，常受政治壓力與聲譽風險影響，缺乏客觀標準，可能導致特定政治或宗教立場的客戶遭歧視。川普政府正研擬新規，防止銀行將政治偏好納入決策。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108408823-1791986922076-gettyimages-2217872224-20250602_dc_fedbuildings_125.jpeg?v=1791986938&w=1920&h=1080",
-      "published_at": "2026-10-14T23:44:54+08:00",
-      "rank": 2
-    },
-    {
-      "id": "7ac0aea12bbf8f3f",
-      "category": "stocks",
-      "title": "萬潤9月每股賺1.98元 累計四季EPS達19.62元",
-      "summary": "半導體裝置廠萬潤公告9月營收11.6億元，年增109%，單月EPS達1.98元。受惠於半導體產業需求，萬潤近四季累計EPS達19.62元，營運表現強勁，股價近期亦達到注意交易資訊標準。",
+      "title": "上任僅5天爭議不斷 美國白宮新聞秘書札卡里亞遭解職",
+      "summary": "美國白宮新聞秘書札卡里亞上任僅5天即遭解職，創下任期最短紀錄。她因首場記者會表現不佳、律師資格造假爭議，以及對中國廁所設施的失當評論引發輿論風暴，總統川普坦言該職位可能不適合她。",
       "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3254747",
-      "image_url": "https://cdn2.ettoday.net/images/8220/e8220522.jpg",
-      "published_at": "2026-10-14T19:39:00+08:00",
-      "rank": 1
+      "url": "https://www.ettoday.net/news/20261017/3256117.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8969/e8969736.jpg",
+      "published_at": "2026-10-17T06:04:00+08:00",
+      "rank": 2
     },
     {
-      "id": "345d6f6559424fb6",
-      "category": "stocks",
-      "title": "AI基礎建設支出遭質疑 戴爾與CoreWeave股價重挫",
-      "summary": "市場擔憂企業AI支出不足以支撐高昂部署成本，導致戴爾、CoreWeave等AI基礎設施股價大跌。巴克萊分析師調降相關企業評等，指出AI硬體需求多受記憶體成本推動，而非企業AI轉型。",
+      "id": "dbbf2940abb42764",
+      "category": "taiwan",
+      "title": "立院三讀透過老人健保補助 卓榮泰批違憲引發朝野爭議",
+      "summary": "立法院三讀修正老人福利法，規定綜所稅率未達20%的長者健保費由中央補助，預估每年增加約390億元支出。行政院長卓榮泰批評此舉違憲且敗壞財政，綠營內部對此態度分歧，在野黨則強調減輕青壯年負擔。",
       "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6811/9815582",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/15/35421480.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-10-15T06:49:49+08:00",
-      "rank": 2
-    },
-    {
-      "id": "c148bfed526767d4",
-      "category": "finance",
-      "title": "川普稱臺灣同意採購阿拉斯加天然氣 總額上看2.5兆",
-      "summary": "川普宣佈臺灣同意採購阿拉斯加LNG計畫30%產能，為期20年，並投入44億美元股權投資。經濟部證實已與美方開發商取得重大進展，旨在確保能源供應多元化，但外媒指出該計畫動工仍有不確定性。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108406326-1791942322841-gettyimages-2300085207-aw1a4353_ezwcntja.jpeg?v=1791942333&w=1920&h=1080",
-      "published_at": "2026-10-14T10:09:00+08:00",
+      "url": "https://udn.com/news/story/6656/9820147",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/16/35428445.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-10-17T00:01:24+08:00",
       "rank": 1
     },
     {
-      "id": "dcb99b95fb8f2796",
-      "category": "finance",
-      "title": "海岬型船運價近月跌逾四成 Q4期貨仍維持高檔",
-      "summary": "海岬型船現貨日租金近期大幅回檔，25個工作天跌幅達43.28%。業者分析主因是鐵礦石需求放緩與美元強勢，但第四季期貨價格仍高於成本價77%以上，中小型散裝船運價則維持穩定。",
+      "id": "ad578998f53cea3a",
+      "category": "taiwan",
+      "title": "臺灣光罩斥資7.5億日圓 併購日本熊本半導體裝置商",
+      "summary": "臺灣光罩宣佈斥資7.5億日圓，全資收購日本半導體裝置技術服務商TCK。此舉旨在深化日本在地裝置技術能量，並就近支援臺日半導體客戶，拓展日本政府「矽島九州」政策下的產業版圖。",
       "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3254812",
-      "image_url": "https://cdn2.ettoday.net/images/8487/e8487692.jpg",
-      "published_at": "2026-10-15T07:00:00+08:00",
+      "url": "https://finance.ettoday.net/news/3256082",
+      "image_url": "https://cdn2.ettoday.net/images/6975/e6975036.jpg",
+      "published_at": "2026-10-16T22:34:00+08:00",
       "rank": 2
     },
     {
-      "id": "5bd8d10a94d1b940",
-      "category": "china",
-      "title": "陸蝕刻機之父尹志堯示警：AI恐泡沫化 裝置商將倒閉9成",
-      "summary": "中微公司董事長尹志堯警告，AI投資熱潮恐出現泡沫。他指出中國半導體裝置商數量過多，未來必然面臨整合，預估最終僅剩數十家能存活，90%的廠商將被淘汰，呼籲企業應轉型為平臺化公司。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261014/3254463.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8966/e8966659.jpg",
-      "published_at": "2026-10-14T13:28:00+08:00",
+      "id": "5b77ef7d3e57d8ff",
+      "category": "us",
+      "title": "黃仁勳力挺移民人才 呼籲美國應持續吸引全球頂尖腦袋",
+      "summary": "輝達執行長黃仁勳在播客節目中表態，美國應持續作為頂尖科技人才的磁吸地，強調全球聰慧腦袋帶來的創新對美國至關重要。此立場與川普政府收緊H-1B簽證及限制移民的政策方向明顯不同。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/6813/9820056",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/16/35428368.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-10-16T23:05:13+08:00",
       "rank": 1
     },
     {
-      "id": "64851bac2c680b9d",
-      "category": "china",
-      "title": "國臺辦回應蔣萬安言論：兩岸一家親是事實",
-      "summary": "針對臺北市長蔣萬安呼籲尊重臺灣自由民主生活方式，國臺辦發言人陳斌華回應稱，兩岸同屬一個中國，「兩岸一家親」是事實，社會制度差異不應成為對抗工具，雙方應多商量以化解分歧。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261015/3254804.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8966/e8966217.jpg",
-      "published_at": "2026-10-15T00:02:00+08:00",
+      "id": "861569330740be67",
+      "category": "us",
+      "title": "川普批澤倫斯基難打交道 稱烏攻擊俄煉油廠做法可恥",
+      "summary": "川普受訪時表示不喜歡烏克蘭總統澤倫斯基，並批評烏軍攻擊俄國煉油廠推高全球能源價格的做法「可恥」。他預測俄烏戰爭很快會結束，並重申不會對伊朗動用核武或派地面部隊。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/6809/9820123",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/16/35428411.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600",
+      "published_at": "2026-10-17T00:00:00+08:00",
       "rank": 2
     },
     {
-      "id": "123f96755a1cbb67",
-      "category": "technology",
-      "title": "全球晶片巨頭組研發聯盟 聯手抗衡中國長鑫儲存",
-      "summary": "臺積電、三星、SK海力士及應用材料等巨頭成立EPIC研發中心，投資50億美元推進先進製程。此舉旨在因應中國長鑫儲存在記憶體領域的快速擴張，並突破北京當局透過政府主導研發帶來的競爭壓力。",
+      "id": "d316f513802bd65e",
+      "category": "stocks",
+      "title": "外資連8賣臺股砍461億 臺積電遭調節居賣超首位",
+      "summary": "臺股雖反彈但外資持續站賣方，單日賣超461.47億元，呈現連8賣。其中臺積電遭外資連8個交易日調節，居賣超個股首位；買超前三名則為中鋼、友達與鴻海。",
       "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261015/3254836.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8967/e8967660.jpg",
-      "published_at": "2026-10-15T07:34:00+08:00",
+      "url": "https://finance.ettoday.net/news/3255971",
+      "image_url": "https://cdn2.ettoday.net/images/4303/e4303669.jpg",
+      "published_at": "2026-10-16T17:48:00+08:00",
       "rank": 1
     },
     {
-      "id": "c1dacf7bf238be95",
-      "category": "technology",
-      "title": "美8州聯合控告OpenAI 指控ChatGPT危害兒童安全",
-      "summary": "美國8州檢察長聯合對OpenAI提告，指控ChatGPT危害兒童安全，甚至教導未成年人自傷或傷害他人。訴訟要求OpenAI調整對未成年人的運作方式，並追繳其從年輕使用者身上獲得的利潤。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261015/3254834.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8907/e8907999.jpg",
-      "published_at": "2026-10-15T07:08:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "fa69d0356e42ec5e",
-      "category": "design",
-      "title": "松南營區地上權案招標 專家：擴大敦北金融商圈",
-      "summary": "松山機場南側原松南營區地上權案正進行招標，底價逾200億元。專家分析，該地容積率高，若順利標出將與周邊案場串聯，擴大敦北金融商圈，並為未來松機遷移後的土地利用提供發展空間。",
+      "id": "8c75646e2548caf8",
+      "category": "stocks",
+      "title": "科技股賣壓沉重 美股收黑費半指數重挫逾3.8%",
+      "summary": "投資人拋售科技與AI相關股票，加上中東戰事推升油價，美股週五普遍收黑。費城半導體指數重挫3.83%，CoreWeave因債務問題股價大跌，特斯拉新車話題未帶動股價，收盤下跌約2%。",
       "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E6%9D%BE%E6%A9%9F%E9%81%B7%E7%A7%BB%E8%AD%B0%E9%A1%8C%E5%86%8D%E8%B5%B7-%E6%9D%BE%E5%8D%97%E7%87%9F%E5%8D%80200%E5%84%84%E5%9C%B0%E4%B8%8A%E6%AC%8A%E6%A1%88%E6%88%90%E7%84%A6%E9%BB%9E-%E6%9B%BE%E5%88%97%E8%BC%9D%E9%81%94%E7%B8%BD%E9%83%A8%E5%82%99%E6%A1%88-060130442.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/c45160fb52959c72f444bb92031496ac5eabbf4b772008553cbee258439c3178/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Ftaisounds_com_380%2Fcb46ee08a38b9177360f6a04b3a6561a.jpg",
-      "published_at": "2026-10-14T14:01:30+08:00",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E8%82%A1%E6%94%B6%E9%BB%91-%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%89roadster%E8%82%A1%E5%83%B9%E4%BB%8D%E8%B7%8C%E7%B4%842-221051485.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/61c1fe99e3d38c4631c83ad6cea6cafec685dfac12ae2165110519d8e1966490/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnownews.com%2F1c591e43d81e017ca6531eeeb9132214",
+      "published_at": "2026-10-17T06:10:51+08:00",
+      "rank": 2
+    },
+    {
+      "id": "80d5829f2c9e3fb6",
+      "category": "finance",
+      "title": "AI需求強勁帶動 中經院上修今年經濟成長至12.16%",
+      "summary": "受AI需求強勁帶動，中經院三度上修今年經濟成長率至12.16%，創39年新高。預估全年出口金額將突破9000億美元，內需與外需景氣暢旺，但明年受全球貨幣政策與地緣政治風險影響，成長將放緩。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/39%E5%B9%B4%E6%96%B0%E9%AB%98-%E4%B8%AD%E7%B6%93%E9%99%A2%E4%B8%8A%E4%BF%AE%E7%B6%93%E6%BF%9F%E6%88%90%E9%95%B7%E8%87%B312-16-224527235.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/b11aa3145dd8d222c37d8ac71f6785f17396bbf8c109ba2e08c1c10f6c357d5e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fudn.com%2Fe6471bdd27cd67800be20420af9a3f6b.jpg",
+      "published_at": "2026-10-17T06:45:27+08:00",
       "rank": 1
     },
     {
-      "id": "6f768085d494605a",
-      "category": "design",
-      "title": "日本星巴克推免費客製化服務 臺灣網友反應兩極",
-      "summary": "日本星巴克推出「My Customize Bar」免費服務，顧客可自行新增香料與風味醬。相較於臺灣星巴克近期調整客製化收費規定，此差異引發臺灣網友熱議，並對兩地服務策略的差異表達關注。",
+      "id": "1142a29b3c951fb8",
+      "category": "finance",
+      "title": "評論：臺灣承諾採購阿拉斯加LNG 恐淪為高昂代價盤子",
+      "summary": "針對臺灣承諾採購阿拉斯加LNG並投資相關計畫，評論指出此舉恐使臺灣淪為美國予取予求的「雙重盤子」。該能源計畫風險高，且美國能源業者未積極參與，臺灣政府此舉被質疑是為彌補韓國拒絕投資後的政治救火。",
       "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E6%98%9F%E5%B7%B4%E5%85%8B%E6%8E%A8%E6%96%B0%E8%AA%BF%E5%91%B3%E5%90%A7%E5%8F%B0-%E7%89%9B%E5%A5%B6%E6%A5%93%E7%B3%96%E5%85%8D%E8%B2%BB%E7%88%BD%E7%88%BD%E5%8A%A0-044947879.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/9336b77a537c2dd1c2c1ca276deb3c459d1e25db50dd2240dd40825f63a4b6ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgotv_ctitv_com_tw_678%2Fc517638761b7a1beb76a493bb4041a55.jpg",
-      "published_at": "2026-10-14T14:04:40+08:00",
+      "url": "https://tw.news.yahoo.com/%E9%A2%A8%E8%A9%95-%E8%B2%B7%E7%BE%8Elng%E5%8F%B0%E7%81%A3%E7%95%B6%E4%BB%A3%E5%83%B9%E9%AB%98%E6%98%82%E7%9A%84-%E9%9B%99%E9%87%8D%E7%9B%A4%E5%AD%90-%E8%B3%B4%E6%B8%85%E5%BE%B7%E4%B8%8D%E5%A6%82%E9%9F%93%E5%9C%8B%E6%9D%8E%E5%9C%A8%E6%98%8E-033913775.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/90581b8f3e051a8ce11147cd835908eda51adf2e7a8eb2ee204c9f1f180188b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fno%2Fstormmediagroup.com%2F029dce42f4c2d51856fdc59d9be77b6e",
+      "published_at": "2026-10-16T11:39:13+08:00",
       "rank": 2
+    },
+    {
+      "id": "2de7bf19f249cbb1",
+      "category": "china",
+      "title": "17歲AI天才陳廣宇傳離職月之暗面 將赴矽谷加入Anthropic",
+      "summary": "年僅17歲、曾參與Kimi核心架構研發的天才少年陳廣宇確認離開月之暗面。傳聞其下一站將前往矽谷加入AI新創公司Anthropic，負責可擴充套件強化學習技術，目前雙方尚未公開證實。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261016/3255836.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8970/e8970039.jpg",
+      "published_at": "2026-10-16T15:14:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "4c318755dc1cc96b",
+      "category": "china",
+      "title": "陸駐菲大使井泉嗆聲：若中國動武可輕易取勝",
+      "summary": "針對菲律賓防長指北京為地區麻煩製造者，中國駐菲大使井泉回應稱該說法無稽，並聲稱若中國動用武力，完全有可能輕易取勝，但中國熱愛和平，希望各國將中國發展視為機遇而非威脅。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261016/3255872.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8970/e8970178.jpg",
+      "published_at": "2026-10-16T15:56:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "6e9ed14b91ea9c6f",
+      "category": "technology",
+      "title": "微軟最佳化Windows 11記憶體管理 8GB筆電反應速度提升20%",
+      "summary": "微軟針對Windows 11進行效能最佳化，透過更有效率的記憶體管理機制，讓8GB記憶體的裝置能多保留2GB活躍資料在RAM中。此更新可提升系統反應速度達20%，並減少背景程式佔用，改善日常操作體驗。",
+      "source": "聯合新聞網",
+      "url": "https://tech.udn.com/tech/story/123152/9818347",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/0/31187983.jpg&s=Y&x=0&y=0&sw=1080&sh=720&sl=W&fw=800&exp=3600",
+      "published_at": "2026-10-16T09:48:23+08:00",
+      "rank": 1
+    },
+    {
+      "id": "d10d624e395d8592",
+      "category": "technology",
+      "title": "散熱新創元鈦科技崛起 專攻液冷系統打入輝達供應鏈",
+      "summary": "成立僅4年的元鈦科技，由散熱老將陳茂欽創辦，專攻冷卻液分配裝置（CDU）及資料中心散熱整合。憑藉一站式液冷基礎建設技術，成功打入輝達與緯創供應鏈，今年上半年獲利表現亮眼，超越去年全年。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/6837/9818179",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/16/35425370.jpg&M=1&s=Y&x=114&y=0&sw=678&sh=452&exp=3600",
+      "published_at": "2026-10-16T08:41:32+08:00",
+      "rank": 2
+    },
+    {
+      "id": "30a7d310c5bb8b98",
+      "category": "design",
+      "title": "GSSI發表NX Control應用程式 統一GPR裝置操作介面",
+      "summary": "美國GSSI公司推出NX Control行動應用程式，基於NEXUS平臺開發，為多種地層穿透雷達（GPR）系統提供統一的使用者介面。該設計簡化了跨系統的工作流程與訓練需求，支援自攜裝置模式，提升工程檢測效率。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/gssi-%E7%99%BC%E8%A1%A8-nx-control-%E8%A1%8C%E5%8B%95%E6%87%89%E7%94%A8-231325716.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/38602a1bb818a04e66ff22a60f52ce8314dfb0c331824f027bd95fe4fb3e100e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fsunmedia_664%2F488da06b5b157e76aa94b58898c65bbf.jpg",
+      "published_at": "2026-10-17T07:13:25+08:00",
+      "rank": 1
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 9
+      "verified_candidates": 11
     },
     {
       "source": "聯合新聞網",
-      "verified_candidates": 8
+      "verified_candidates": 11
     },
     {
       "source": "ETtoday 新聞雲",
-      "verified_candidates": 15
+      "verified_candidates": 19
     },
     {
       "source": "中時新聞網",
-      "verified_candidates": 9
+      "verified_candidates": 6
     },
     {
       "source": "CNN",
@@ -204,7 +193,7 @@
     },
     {
       "source": "CNBC",
-      "verified_candidates": 11
+      "verified_candidates": 10
     }
   ]
 }
