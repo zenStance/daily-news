@@ -1,202 +1,202 @@
 {
-  "edition": "2026-10-20",
-  "updated_at": "2026-10-20T08:08:57.941718+08:00",
-  "window_start": "2026-10-19T08:08:35.245804+08:00",
-  "window_end": "2026-10-20T08:08:35.245804+08:00",
+  "edition": "2026-10-21",
+  "updated_at": "2026-10-21T07:40:59.634013+08:00",
+  "window_start": "2026-10-20T07:40:34.101931+08:00",
+  "window_end": "2026-10-21T07:40:34.101931+08:00",
   "articles": [
     {
-      "id": "99808a144b8d874f",
+      "id": "fd29b84ff2208d92",
       "category": "international",
-      "title": "葉門叛軍「青年運動」飛彈襲擊政府軍營地，釀58死逾200傷",
-      "summary": "葉門叛軍「青年運動」於19日對夏卜瓦省一處政府安全部隊訓練營發射3枚彈道飛彈，造成至少58人死亡、逾200人受傷。該組織承認犯案，並指控營地由沙烏地阿拉伯軍隊運作。此事件凸顯葉門衝突已成為區域對抗伊朗的戰線之一。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261020/3257549.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8975/e8975164.jpg",
-      "published_at": "2026-10-20T07:28:00+08:00",
+      "title": "生活成本壓力引發民怨 法國暴亂蔓延至歐洲多國",
+      "summary": "法國因生活成本上漲及公共服務惡化引發暴力示威，當局實施宵禁並部署軍力。抗議潮已蔓延至義大利、西班牙、比利時等國，民眾對經濟前景焦慮，加上援烏資源排擠民生，加劇了歐洲各國的社會動盪與政治壓力。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/newspapers/20261021000497-260121?ctrack=pc_main_recmd_p19",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-21/656/B02A00_P_01_02.jpg",
+      "published_at": "2026-10-21T04:10:00+08:00",
       "rank": 1
     },
     {
-      "id": "7b7cea142e794446",
+      "id": "ac67e4dfbf387014",
       "category": "international",
-      "title": "法國暴動蔓延歐洲多國，總理勒克努：必要時將宣佈緊急狀態",
-      "summary": "法國連日暴動導致近2400人被捕，損失慘重。總理勒克努要求各省視情況實施宵禁，並表示必要時將宣佈國家進入緊急狀態。不滿浪潮已外溢至義大利、比利時、德國等多個歐洲國家，引發區域社會不安。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6809/9824981",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35435977.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-10-20T00:08:58+08:00",
-      "rank": 2
-    },
-    {
-      "id": "30db61665e114831",
-      "category": "taiwan",
-      "title": "強颱薔琵逼近臺灣，氣象署預估週五至週六影響最劇烈",
-      "summary": "強颱薔琵持續朝臺灣東部海面移動，預計週四北轉，週五至週六上半天最接近臺灣。氣象署表示，北臺灣、宜蘭風雨將較明顯，中部山區亦有豪雨機率。海上颱風警報最快週三晚間發布，陸上警報機率雖低但仍不排除。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261020000963-260405?ctrack=pc_main_alert_p01",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-20/656/20261020000964.png",
-      "published_at": "2026-10-20T07:25:55+08:00",
-      "rank": 1
-    },
-    {
-      "id": "0afc4dc5c6b22003",
-      "category": "taiwan",
-      "title": "日本富士河口湖飯店命案，一名臺籍女子陳屍房內，另一臺女遭逮",
-      "summary": "日本山梨縣富士河口湖町一間飯店發現一名30多歲臺籍女子陳屍客房，身上有明顯外傷。警方隨後逮捕一名隨身攜帶刀械的27歲臺籍女子，目前正調查兩人關係及案發經過。觀光署已要求旅行社協助家屬處理後續事宜。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261019004187-260408?ctrack=pc_main_alert_p02",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-19/656/20261019004191.jpg",
-      "published_at": "2026-10-19T23:09:11+08:00",
-      "rank": 2
-    },
-    {
-      "id": "5d8014746dc753fe",
-      "category": "us",
-      "title": "普丁提議美俄中三方峰會商討俄烏戰，川普尚未正式同意",
-      "summary": "俄羅斯總統普丁提議下月與美國總統川普、中國國家主席習近平舉行三方峰會，商討結束俄烏戰爭。報導指出，若在中國領土舉行，將提升中國外交地位。川普雖表示願為結束戰爭對話，但目前尚未達成共識，此舉引發歐洲盟國與臺灣對未來局勢的擔憂。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/newspapers/20261020000477-260120?ctrack=pc_main_alert_p03",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-20/656/B01A00_P_02_02.jpg",
-      "published_at": "2026-10-20T04:10:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "72ec7d18f67d8d45",
-      "category": "us",
-      "title": "川普政府收緊移民政策，臺灣赴美移民簽證核發量銳減逾6成",
-      "summary": "美國川普政府今年初大幅收緊移民政策，導致合法移民簽證核發量創下1930年代以來最大降幅。資料顯示，今年2月核發給臺灣民眾的移民簽證僅60張，較平均值銳減約67%。此政策旨在加強安全審查，卻阻斷了許多合法申請者的赴美之路。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6813/9823978",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35434538.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-      "published_at": "2026-10-19T14:05:49+08:00",
-      "rank": 2
-    },
-    {
-      "id": "90616d89850b8c14",
-      "category": "stocks",
-      "title": "美股晶片股領漲，臺積電ADR反彈，臺指期夜盤震盪",
-      "summary": "美股週一漲跌互見，科技股在連日重挫後出現抄底買盤，費城半導體指數終止連八黑。臺積電ADR上漲1.84%，帶動臺股ADR表現。臺指期夜盤則小跌78點，市場關注後續科技業財報表現，以判斷反彈是否能延續。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3257536",
-      "image_url": "https://cdn2.ettoday.net/images/7045/e7045652.jpg",
-      "published_at": "2026-10-20T06:08:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "c014f48895f2eb73",
-      "category": "stocks",
-      "title": "當沖槓桿風險高，專家揭露頻繁交易恐賠掉多年資產",
-      "summary": "臺股近期劇烈震盪，當沖與槓桿交易風險引發關注。專家提醒，頻繁交易不僅增加成本，更易因資金壓力被迫在低點砍倉。投資人應避免過度槓桿，並強調財富累積需時間，控管風險才是資本市場的長久勝者。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E7%95%B6%E6%B2%9611%E5%80%8B%E6%9C%88%E6%85%98%E8%B3%A01-8%E5%84%84-%E4%BB%96%E6%9B%BE%E6%8F%A150%E5%BC%B5%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%85%A8%E6%B2%92%E4%BA%86-%E8%82%A1%E4%BA%BA%E9%98%BF%E5%8B%B3%E6%8F%AD%E6%8A%95%E8%B3%873%E8%AD%A6%E8%A8%8A-105100967.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/d089d0a254d563e215645c0dd228f96944aa1cacba5e7ace839ff75965bc6093/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F1961db61b59bdb7b175e5678f8e58269.jpg",
-      "published_at": "2026-10-19T18:51:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "a992737f42ea7253",
-      "category": "finance",
-      "title": "新臺幣匯率波動加劇，央行罕見信心喊話將適時進場穩匯",
-      "summary": "受外資賣超臺股並匯出影響，新臺幣近期測試32.5元關卡。央行罕見發布宣告，強調將視市場供需適時進場調節，以維持匯率動態穩定。央行分析此波貶值主因是市場對AI估值疑慮及外資獲利了結，並表示有充分空間維護匯市穩定。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7238/9824929",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35433247.jpg&M=1&s=Y&x=44&y=0&sw=1165&sh=777&exp=3600",
-      "published_at": "2026-10-20T01:33:20+08:00",
-      "rank": 1
-    },
-    {
-      "id": "a06d13ce206cad67",
-      "category": "finance",
-      "title": "川普擬於APEC峰會期間，與習近平、普丁討論核武與烏克蘭議題",
-      "summary": "美國總統川普表示，不排斥下月訪中期間與習近平、普丁舉行三方會談，並將核武議題納入討論。川普強調，只要有助於結束俄烏戰爭，即使烏克蘭總統澤倫斯基不在場，他也願意參與對話。目前具體日期與議程尚未敲定。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/apec%E5%B3%B0%E6%9C%83%E4%B8%89%E5%B7%A8%E9%A0%AD%E6%9C%89%E6%9C%9B%E5%90%8C%E6%A1%8C-%E5%B7%9D%E6%99%AE-%E9%A1%98%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3-%E6%99%AE%E4%B8%81%E8%AB%87%E6%A0%B8%E6%AD%A6%E5%92%8C%E7%83%8F%E5%85%8B%E8%98%AD-233252848.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/fe01fbf19cdf313b04b5aa70ed38f063f7171daeadc4f8e996f124ac2fae03b3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fctwant_com_582%2Fcfc63260012fe390bcc10302f41b5fa3.jpg",
-      "published_at": "2026-10-20T07:32:52+08:00",
-      "rank": 2
-    },
-    {
-      "id": "a68f4b6863f2e3c1",
-      "category": "china",
-      "title": "中國第三季GDP成長4.6%，彭博分析有望實現全年目標",
-      "summary": "中國國家統計局公佈前三季GDP年增4.6%，第三季成長4.5%。彭博分析指出，經濟增速優於預期，提升了實現全年成長目標的可能性，同時也讓政策制定者在面對財政壓力時，能暫緩推出進一步的寬鬆措施。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261019/3257421.htm",
-      "image_url": "https://cdn2.ettoday.net/images/3845/e3845969.jpg",
-      "published_at": "2026-10-19T17:08:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "c7b4a650cb160fb4",
-      "category": "china",
-      "title": "中國船東互保協會申請加入國際船東保賠協會集團，引發制裁疑慮",
-      "summary": "中國船東互保協會（CPI）正式申請加入國際船東保賠協會集團（IG）。業界擔憂CPI是否會遵守歐美對俄羅斯與伊朗的經濟制裁，而非僅遵循中國法律。IG表示將在未來數月內依客觀標準進行評估，此案引發航運界高度關注。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3257517",
-      "image_url": "https://cdn2.ettoday.net/images/5907/e5907747.jpg",
-      "published_at": "2026-10-20T07:00:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "1830f112e7c2cf63",
-      "category": "technology",
-      "title": "長鑫儲存預期獲利轉虧為盈，股價卻因AI融資疑慮下跌",
-      "summary": "中國晶片商長鑫儲存（CXMT）預測2026年前九個月將轉虧為盈，營收大幅成長。公司歸功於AI運算需求帶動DRAM市場。然而，受市場對AI融資及晶片供應過剩的擔憂影響，其股價仍下跌近8%。",
+      "title": "中東局勢緊張油價波動 交易商關注美伊外交進展",
+      "summary": "儘管中東地區油輪遇襲及針對沙烏地阿拉伯的攻擊升溫，國際油價因市場期待美伊外交進展而回落。伊朗革命衛隊宣稱在荷姆茲海峽擊毀兩艘油輪，美伊雙方緊張關係持續牽動全球能源市場與地緣政治局勢。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108430238-1792369350714-gettyimages-2293594732-vcg111664074027.jpeg?v=1792369398&w=1920&h=1080",
-      "published_at": "2026-10-19T09:56:34+08:00",
-      "rank": 1
-    },
-    {
-      "id": "83d1b266a35f713c",
-      "category": "technology",
-      "title": "中央大學攜手四企業投入6千萬，培育前瞻PCB產業人才",
-      "summary": "桃園市府與中央大學合作，攜手臻鼎科技、臺光電子、大量科技及尖點科技，共同投入6000萬元設立前瞻PCB人才培育講座。此計畫旨在整合產學資源，強化學生實務接軌能力，以因應AI與半導體產業對高階研發人才的迫切需求。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261019/3257496.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8975/e8975032.jpg",
-      "published_at": "2026-10-19T23:14:00+08:00",
+      "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108374101-1791385507503-gettyimages-503850269-bld134034.jpeg?v=1791385521&w=1920&h=1080",
+      "published_at": "2026-10-20T18:48:27+08:00",
       "rank": 2
     },
     {
-      "id": "1f704204eb647d38",
-      "category": "design",
-      "title": "蘋果宣佈10月28日舉行發表會，市場預期推出首款觸控螢幕筆電",
-      "summary": "蘋果將於10月28日在洛杉磯舉行新品發表會，主題為「Pro and tell」。市場預期將推出首款搭載觸控螢幕的MacBook Pro，並採用類似iPhone的「動態島」介面與OLED顯示器，此舉標誌著蘋果產品策略的重大轉變。",
-      "source": "聯合新聞網",
-      "url": "https://tech.udn.com/tech/story/123153/9825176",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/20/35436211.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&sl=W&fw=800&exp=3600",
-      "published_at": "2026-10-20T07:21:37+08:00",
+      "id": "2fe97f56e7c9c83f",
+      "category": "taiwan",
+      "title": "強颱薔琵逼近臺灣 氣象署預計週五至週六上半天風雨最劇",
+      "summary": "強颱薔琵持續朝臺灣東部海面移動，氣象署預計最快今深夜至明晨發布海警，明晚至週五清晨發布陸警。專家指出，週五至週六上半天為風雨最顯著時段，北部、宜蘭及花蓮山區恐有豪雨，暴風圈半徑可能擴大至300公里。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261021000950-260405?ctrack=pc_main_alert_p01",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-21/656/20261021000955.jpg",
+      "published_at": "2026-10-21T07:24:59+08:00",
       "rank": 1
     },
     {
-      "id": "dc53a34a3da792a9",
-      "category": "design",
-      "title": "科學家運用光達遙測技術，成功定位並記錄臺灣東亞最高巨木",
-      "summary": "研究團隊運用空載光達遙測技術，結合公民科學志工篩選，成功在臺中與苗栗交界處找到高84.1公尺的臺灣杉，重新整理東亞樹高紀錄。此研究成果已刊登於國際期刊，並透過巨木地圖勾勒出臺灣珍貴的森林生態資源。",
+      "id": "6d63a455d9b607bd",
+      "category": "taiwan",
+      "title": "臺積電楠梓廠新建工程發生工安意外 鋼構墜落釀3死1命危",
+      "summary": "高雄楠梓臺積電F22廠區P4新建工程，20日下午發生重大工安事故。吊車進行鋼構吊掛時，疑似螺栓斷裂導致4名外包商人員從3樓墜落，造成3死1命危。南科管理局已勒令該工程停工，並將釐清事故原因。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261020004693-260402?ctrack=pc_main_recmd_p15",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-20/656/20261020004694.jpg",
+      "published_at": "2026-10-20T21:02:17+08:00",
+      "rank": 2
+    },
+    {
+      "id": "0a96e5dc76a19b85",
+      "category": "us",
+      "title": "川普政府以國安為由 禁止美國聯邦民事機構使用DeepSeek",
+      "summary": "川普政府基於安全考量，下令美國聯邦民事機構移除DeepSeek相關技術，並禁止採購該公司產品。此舉反映美中在AI領域的競爭加劇，中國外交部對此表示反對，稱不應將科技與貿易問題政治化。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108296670-1777011085478-gettyimages-2272870016-vcg111636967333.jpeg?v=1777011103&w=1920&h=1080",
+      "published_at": "2026-10-20T14:25:26+08:00",
+      "rank": 1
+    },
+    {
+      "id": "8aacfc1452a4b986",
+      "category": "us",
+      "title": "川普政府移民政策緊縮 撤銷簽證數量與速度創歷史紀錄",
+      "summary": "美國國務院資料顯示，川普自2025年1月展開第二任期以來，已撤銷超過30萬份簽證，且速度持續加快。政策影響範圍擴及合法移民，引發人權團體批評其侵犯正當法律程式，並可能涉及種族歧視性盤查。",
       "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6904/9802317",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/08/35402209.jpg&M=1&s=Y&x=0&y=0&sw=1166&sh=777&exp=3600",
-      "published_at": "2026-10-20T08:00:33+08:00",
+      "url": "https://udn.com/news/story/6813/9827581",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/21/35439953.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-10-21T07:36:37+08:00",
+      "rank": 2
+    },
+    {
+      "id": "203ee80a0bf954ab",
+      "category": "stocks",
+      "title": "美股財報利多激勵道瓊大漲 臺指期夜盤強彈逾600點",
+      "summary": "受企業財報優於預期及油價回落激勵，美股道瓊指數上漲529點。臺股ADR漲跌互見，臺積電ADR漲逾1%，帶動臺指期夜盤大漲634點。市場聚焦臺股今日能否在AI泡沫疑慮緩解下止跌回升。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3258161",
+      "image_url": "https://cdn2.ettoday.net/images/4410/e4410604.jpg",
+      "published_at": "2026-10-21T05:55:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "c2bd7e101e3286bb",
+      "category": "stocks",
+      "title": "外資連10賣臺股795億元 買盤轉向仁寶、宏碁等老AI股",
+      "summary": "臺股20日收跌529點，外資持續賣超795.4億元，連10日賣超。外資主要減碼友達、臺積電等個股，買盤則轉向緯創、仁寶、宏碁等老牌AI概念股，顯示法人操作策略出現明顯分歧。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3257999",
+      "image_url": "https://cdn2.ettoday.net/images/8708/e8708057.jpg",
+      "published_at": "2026-10-20T17:04:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "b86c01231683f719",
+      "category": "finance",
+      "title": "臺灣經濟成長亮眼但臺幣走貶 央行阻貶面臨資金外流壓力",
+      "summary": "儘管臺灣今年經濟成長率預估達11%以上，新臺幣卻成為最弱亞幣。市場分析，除外資因匯損疑慮加速匯出外，出口商獲利不匯回、選擇留在美國運用，導致供需失衡，使央行阻貶措施面臨極大挑戰。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/7238/9827378",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/20/35439710.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-10-21T00:00:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "23dd792d7cbf0e34",
+      "category": "finance",
+      "title": "日本高齡就業人口創新高 逾943萬銀髮族因物價壓力續工作",
+      "summary": "日本65歲以上就業人口達943萬人創歷史新高。受物價上漲與年金不足影響，許多高齡者被迫重返職場。有79歲長者為維持生活品質，仍需排班值夜班，反映出日本高齡化社會在經濟壓力下的嚴峻現狀。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261020004913-260408?ctrack=pc_main_recmd_p05",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-20/656/20261020004914.jpg",
+      "published_at": "2026-10-21T07:09:44+08:00",
+      "rank": 2
+    },
+    {
+      "id": "f79c4dca5d67ec38",
+      "category": "china",
+      "title": "中共紀念長徵勝利90週年 習近平將發表講話強調核心地位",
+      "summary": "中共將於22日舉行紀念紅軍長徵勝利90週年大會，總書記習近平將發表講話。官方媒體強調長徵歷史意義，並藉此重申維護習近平核心地位的重要性，要求全黨全軍加強黨的領導，以應對當前複雜的國際與軍事挑戰。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/7331/9827370",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/20/35439677.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-10-21T00:00:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "b58d803231d72db0",
+      "category": "china",
+      "title": "陸委會研判習近平將連任 預警北京強化對臺「未統先治」",
+      "summary": "陸委會主委邱垂正指出，習近平可能在2027年進入第四任期，北京推進統一的使命感將更緊迫。研判中共將強化「未統先治」策略，透過擴大行政司法管轄、打壓國際空間及兩岸融合，企圖在併吞前取得事實治理權。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261020/3258090.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8976/e8976288.jpg",
+      "published_at": "2026-10-20T20:11:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "6afe4a6653e38bd3",
+      "category": "technology",
+      "title": "東元電機搶攻AI資料中心散熱商機 展出高效冷卻解決方案",
+      "summary": "東元電機於冷凍空調綠能科技展中，展示AI資料中心高效冷卻及低GWP冷媒技術。透過模組化熱管理方案與磁懸浮風冷式冷水機組，東元積極轉型，目標將冷卻裝置匯入國際雲端服務供應商的AI基礎建設專案。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3258122",
+      "image_url": "https://cdn2.ettoday.net/images/8976/e8976426.jpg",
+      "published_at": "2026-10-20T22:37:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "dd480298c5a37213",
+      "category": "technology",
+      "title": "英飛凌與Wolfspeed簽署協議 轉向8吋碳化矽晶圓製造",
+      "summary": "英飛凌與Wolfspeed簽訂多年期8吋碳化矽晶圓供應協議，將合作技術由6吋升級至8吋。此舉旨在強化供應鏈韌性，支援電動車、再生能源及AI資料中心電力基礎設施對高品質碳化矽半導體的長期需求。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3258119",
+      "image_url": "https://cdn2.ettoday.net/images/5149/e5149719.jpg",
+      "published_at": "2026-10-20T22:29:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "63ec71fc0eddb55b",
+      "category": "design",
+      "title": "是方電訊虎尾AI資料中心動土 採Tier 4等級與液冷技術",
+      "summary": "是方電訊斥資33億元於中科虎尾建置AI資料中心，預計2028年營運。該中心採國際Tier 4最高等級標準，樓層抗震可承受七級強震，並支援氣冷與水冷散熱方案，旨在打造西部AI算力走廊，滿足高效算力需求。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/7252/9827316",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/20/35439643.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600",
+      "published_at": "2026-10-21T00:02:11+08:00",
+      "rank": 1
+    },
+    {
+      "id": "f533bd35a16ea830",
+      "category": "design",
+      "title": "佳世達集團展示整櫃級AI解決方案 整合高速傳輸與液冷技術",
+      "summary": "佳世達集團於OCP全球高峰會展示整櫃級AI基礎設施，整合高速交換、模組化伺服器及先進液冷技術。透過集團跨領域整合，打造可彈性擴充的AI基礎設施，回應AI運算功率密度攀升帶來的熱管理挑戰。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3258114",
+      "image_url": "https://cdn2.ettoday.net/images/8976/e8976417.jpg",
+      "published_at": "2026-10-20T22:14:00+08:00",
       "rank": 2
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 11
+      "verified_candidates": 12
     },
     {
       "source": "聯合新聞網",
-      "verified_candidates": 11
+      "verified_candidates": 12
     },
     {
       "source": "ETtoday 新聞雲",
-      "verified_candidates": 17
+      "verified_candidates": 15
     },
     {
       "source": "中時新聞網",
-      "verified_candidates": 4
+      "verified_candidates": 9
     },
     {
       "source": "CNN",
@@ -204,7 +204,7 @@
     },
     {
       "source": "CNBC",
-      "verified_candidates": 8
+      "verified_candidates": 14
     }
   ]
 }
