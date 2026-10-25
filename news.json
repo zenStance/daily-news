@@ -1,202 +1,202 @@
 {
-  "edition": "2026-10-25",
-  "updated_at": "2026-10-25T06:59:00.053706+08:00",
-  "window_start": "2026-10-24T06:58:38.869792+08:00",
-  "window_end": "2026-10-25T06:58:38.869792+08:00",
+  "edition": "2026-10-26",
+  "updated_at": "2026-10-26T07:05:43.798270+08:00",
+  "window_start": "2026-10-25T07:04:07.299160+08:00",
+  "window_end": "2026-10-26T07:04:07.299160+08:00",
   "articles": [
     {
-      "id": "f9bab2425403e8e3",
+      "id": "172edbf57b3398b5",
       "category": "international",
-      "title": "伊朗威脅升級 美國駐中東使館加強安全戒備",
-      "summary": "美國情報顯示伊朗正處於攻擊美國人員的「進階階段」，加上伊朗支援的胡塞武裝組織近期發動飛彈攻擊，美國駐中東使館已提高警戒。儘管緊張局勢推升油價，伊朗官方媒體稍早否認了關於重啟談判的報導。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108455865-1792853767350-gettyimages-2263973348-AFP_99PF763.jpeg?v=1792853845&w=1920&h=1080",
-      "published_at": "2026-10-24T23:44:53+08:00",
+      "title": "高雄舉辦首屆港灣郵輪半程馬拉松，吸引逾3千名跑者體驗港市共榮魅力",
+      "summary": "臺灣港務公司於高雄港旅運中心舉辦首屆港灣郵輪半程馬拉松，吸引逾3千名跑者參與。賽事路線串聯高雄流行音樂中心、大港橋等重要地標，結合健康、低碳與永續理念，展現高雄港作為國際郵輪旅運平臺的多元魅力。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3260699",
+      "image_url": "https://cdn2.ettoday.net/images/8982/e8982711.jpg",
+      "published_at": "2026-10-25T16:44:00+08:00",
       "rank": 1
     },
     {
-      "id": "602c827ee78fb13a",
+      "id": "da5a76c49785c117",
       "category": "international",
-      "title": "金正恩快閃訪問丹東 與王滬寧會面破除病逝謠言",
-      "summary": "北韓領導人金正恩突訪中國丹東，由中共政治局常委王滬寧迎接，雙方參觀抗美援朝紀念館。此行不僅破除近期關於金正恩腦出血病逝的健康謠言，亦被視為敦促中方加速履行承諾，並為可能與川普舉行的峰會爭取支援。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261024/3260332.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8981/e8981145.jpg",
-      "published_at": "2026-10-24T20:58:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "f36d2e13c36e32d6",
-      "category": "taiwan",
-      "title": "僑委會惜別晚宴變個人秀 徐佳青遭質疑模糊公私界線",
-      "summary": "僑委會前委員長徐佳青日前出席惜別晚宴，現場安排慶生、獻花及播放政績影片，遭與會人士批評將公務活動變成個人表演。外界質疑僑委會過度凸顯已請辭官員，模糊公私界線，引發輿論對政府官場文化的討論。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261024003203-260407?ctrack=pc_main_headl_p01",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-24/656/20261024003204.jpg",
-      "published_at": "2026-10-24T22:05:15+08:00",
-      "rank": 1
-    },
-    {
-      "id": "8ed91865c0ee0807",
-      "category": "taiwan",
-      "title": "颱風假是否與股市脫鉤？網路投票顯示近八成反對",
-      "summary": "針對颱風假與股市休市脫鉤的提議，行政院長卓榮泰表示可研議，但引發社會爭議。中時新聞網網路投票顯示，高達79%網友反對脫鉤，擔憂證券從業人員安全及颱風天通勤風險，僅15%表示贊成。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261025000037-260407?ctrack=pc_main_recmd_p09",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-24/656/20261024003336.jpg",
-      "published_at": "2026-10-25T00:16:30+08:00",
-      "rank": 2
-    },
-    {
-      "id": "c022fdfc232a1852",
-      "category": "us",
-      "title": "川普臉部出現不明瘀青 健康狀況再引發外界關注",
-      "summary": "美國總統川普近日出席造勢活動時，被發現左臉太陽穴附近有明顯瘀青。白宮發言人駁斥相關陰謀論，川普本人則未說明原因。由於川普近期頻繁奔波且曾出現演講語無倫次等狀況，其健康與認知能力再次成為輿論焦點。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261024003133-260408?ctrack=pc_main_recmd_p05",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-24/656/20261024003165_20261024215647.jpg",
-      "published_at": "2026-10-24T21:58:29+08:00",
-      "rank": 1
-    },
-    {
-      "id": "0dfeec45c0f12860",
-      "category": "us",
-      "title": "川普阻擋阿拉斯加參議員認證 民主黨與民權團體提告",
-      "summary": "川普指示司法部試圖阻止阿拉斯加州認證參議院選舉結果，引發民主黨及民權團體提告，指控行政權幹預州選舉。此舉亦遭共和黨籍參議員穆考斯基公開批評，認為司法部不應介入此類選舉爭議。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108369342-1790688358460-Untitled-7.jpg?v=1792503321&w=1920&h=1080",
-      "published_at": "2026-10-25T03:57:24+08:00",
-      "rank": 2
-    },
-    {
-      "id": "73984b22323c6762",
-      "category": "stocks",
-      "title": "輝達持股CoreWeave債務危機 恐拖累AI產業鏈",
-      "summary": "輝達持股的CoreWeave因債務違約風險飆升，導致股價重挫，引發市場對AI基礎設施融資的擔憂。分析指出，若算力需求不如預期，中小型GPU雲端服務商恐面臨倒閉，AI產業將回歸寡佔格局。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261025000021-260410?ctrack=pc_main_recmd_p15",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-23/656/20261023002031.jpg",
-      "published_at": "2026-10-25T05:00:30+08:00",
-      "rank": 1
-    },
-    {
-      "id": "01fcb799794c1b76",
-      "category": "stocks",
-      "title": "韓股重挫40%臺股僅跌4% 專家分析市場分歧原因",
-      "summary": "全球股市近期震盪，臺股自6月高點以來修正約4%，遠優於韓股的40%跌幅。專家分析，韓股因過度依賴記憶體且槓桿過高導致超跌，臺股則有本土資金支撐，兩者雖產業結構相似，但走勢明顯分歧。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3259660",
-      "image_url": "https://cdn2.ettoday.net/images/6867/e6867870.jpg",
-      "published_at": "2026-10-24T13:08:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "a35625c4b104b407",
-      "category": "finance",
-      "title": "永豐金與凱基金啟動現增 合計募資達441億元",
-      "summary": "永豐金與凱基金為提升子公司業務量能，先後宣佈辦理現金增資。永豐金預計募集約224.96億元，凱基金則預計募集216億元，兩家金控合計募資達441億元，資金將用於強化證券業務及充實資本。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3259992",
-      "image_url": "https://cdn2.ettoday.net/images/7973/e7973648.jpg",
-      "published_at": "2026-10-24T09:19:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "ae07331f6517b537",
-      "category": "finance",
-      "title": "集保推動企業版TISA 員工每月可獲5千元補助",
-      "summary": "集保公司率先向金管會提出企業版TISA方案，獲準後將由F4成員跟進。該方案採員工自提5千元、公司補助5千元模式，每月共1萬元投資TISA，旨在強化國人退休準備，預計明年1月正式上路。",
+      "title": "塞爾維亞國會大選變天，學生運動領先執政黨，總統武契奇承認敗選",
+      "summary": "塞爾維亞提前舉行國會大選，初步結果顯示由學生主導的反貪腐運動聯盟領先。總統武契奇承認執政黨敗選。此次選舉背景源於去年火車站坍塌事件引發的學生抗議，選民投票率創下30年來新高，顯示民眾對現狀的不滿。",
       "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7239/9835593",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35451622.jpg&M=1&s=Y&x=0&y=0&sw=1250&sh=833&exp=3600",
-      "published_at": "2026-10-25T00:37:21+08:00",
+      "url": "https://udn.com/news/story/6809/9837000",
+      "image_url": "https://udn.com/static/img/UDN_BABY.png",
+      "published_at": "2026-10-26T06:10:28+08:00",
       "rank": 2
     },
     {
-      "id": "6dd7c68e5e4f9948",
-      "category": "china",
-      "title": "中國國務院副秘書長王志軍 接任湖南省委書記",
-      "summary": "中共中央宣佈人事異動，由國務院副秘書長王志軍接任湖南省委書記，原任書記沈曉明因年齡原因卸任。王志軍曾任工信部副部長，此次調整被視為中央根據工作需要進行的通盤考量。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261024/3260260.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8980/e8980979.jpg",
-      "published_at": "2026-10-24T15:55:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "250f55c31a34b0a1",
-      "category": "china",
-      "title": "習近平主持政治局會議 強調保持懲治腐敗高壓態勢",
-      "summary": "中共中央政治局召開會議審議巡視報告，習近平強調中央機關仍存在問題，要求落實整改並加強風險防範。會議重申必須持續推進全面從嚴治黨，保持懲治腐敗的高壓態勢，打造風清氣正的政治機關。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261024/3260150.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8811/e8811088.png",
-      "published_at": "2026-10-24T11:48:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "020effe7429efab3",
-      "category": "technology",
-      "title": "AI帶動航空貨運需求 桃機新貨運園區啟用延後",
-      "summary": "受AI伺服器與半導體需求強勁影響，桃園機場航空貨運量大幅成長，現有能量接近滿載。因第三跑道工期延宕，新貨運園區啟用時間推遲至2037年，機場公司正與業者協商擴大排程空間以應對過渡期需求。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3260273",
-      "image_url": "https://cdn2.ettoday.net/images/6068/e6068718.jpg",
-      "published_at": "2026-10-24T16:55:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "fe8c6e06f0f28ace",
-      "category": "technology",
-      "title": "中國首部AI電影上映 製作成本千萬但票房冷淡",
-      "summary": "中國首部AI超寫實電影《三星堆：未來往事》正式上映，製作成本達千萬元等級，但預售票房僅約14萬元。儘管AI技術應用引發資本市場關注，但觀眾對AI電影的接受度與市場反應仍顯冷淡。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261024/3260100.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8980/e8980549.jpg",
-      "published_at": "2026-10-24T10:13:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "bd2e101ad0525b74",
-      "category": "design",
-      "title": "高雄青年設計競賽 號召設計師改造在地老字號品牌",
-      "summary": "高雄市青年局舉辦「大港經典升級提案競賽」，號召青年設計師為在地老字號品牌進行包裝與行銷改造。透過一對一導師輔導，協助傳統產業匯入創新設計，提升品牌識別度並邁向年輕化。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E8%80%81%E5%AD%97%E8%99%9F%E6%B1%82%E5%89%B5%E6%96%B0-%E9%AB%98%E9%9B%84%E8%99%9F%E5%8F%AC%E9%9D%92%E5%B9%B4%E8%A8%AD%E8%A8%88%E5%B8%AB%E6%94%B9%E9%80%A0%E5%9C%A8%E5%9C%B0%E5%93%81%E7%89%8C-154041732.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/b6299fbd828214e52e6169a9ca8d6d462d09277cf89af0d1f67b8cca710a8dc1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.asiaftv.com%2F559ea4aa76cd5cfb127ae6d7c33c4944.jpg",
-      "published_at": "2026-10-24T23:40:41+08:00",
-      "rank": 1
-    },
-    {
-      "id": "becc4e09174536bb",
-      "category": "design",
-      "title": "蘋果首款摺疊機iPhone Duo上市 傳螢幕鉸鏈處易裂",
-      "summary": "蘋果首款摺疊機iPhone Duo上市後，多名使用者在Reddit回報螢幕在開闔時於鉸鏈處碎裂，出現L形裂痕。蘋果門市已提供換機服務，但具體故障原因尚待原廠檢修，引發外界對產品耐用度的質疑。",
+      "id": "5c9177f01369ed31",
+      "category": "taiwan",
+      "title": "體操世錦賽唐嘉鴻單槓摘金，締造臺灣體操隊史首面世錦賽金牌",
+      "summary": "中華隊體操好手唐嘉鴻在荷蘭鹿特丹世界體操錦標賽單槓決賽中，以難度分6.600、執行分8.366、總分14.966分勇奪金牌。此舉不僅是唐嘉鴻個人首座世錦賽冠軍，更締造臺灣體操隊在世錦賽史上的首面金牌紀錄。",
       "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261024002248-260405?ctrack=pc_main_life_p04",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-24/656/20261024002257.jpg",
-      "published_at": "2026-10-24T15:33:19+08:00",
+      "url": "https://www.chinatimes.com/realtimenews/20261026000635-260403?ctrack=pc_main_headl_p01",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-26/656/20261026000637.jpg",
+      "published_at": "2026-10-26T04:15:32+08:00",
+      "rank": 1
+    },
+    {
+      "id": "96f7d46e38bd3cde",
+      "category": "taiwan",
+      "title": "公平會封殺外送平臺併購案，專家示警市場競爭弱化與後續四大危機",
+      "summary": "公平會以限制競爭為由，禁止Grab收購foodpanda臺灣業務。專家駱秉寬示警，禁併後市場仍面臨競爭弱化、投資縮減等四大危機，並建議公平會應釐清Uber對foodpanda的實質控制權，確保市場競爭機制。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3260424",
+      "image_url": "https://cdn2.ettoday.net/images/5713/e5713989.jpg",
+      "published_at": "2026-10-25T10:31:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "d69e03d70e382d68",
+      "category": "us",
+      "title": "Audi宣佈投資40億美元在美設廠，執行長強調為擴大銷售與降低關稅",
+      "summary": "Audi執行長證實將在美國喬治亞州投資40億美元興建首座美國工廠，以擴大在美市佔率並降低進口關稅影響。此決策是在VW集團重組背景下進行，Audi強調此舉不影響德國作為品牌核心的地位。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108189041-1755779851934-gettyimages-2223863691-20090101250711-99-426938.jpeg?v=1755779948&w=1920&h=1080",
+      "published_at": "2026-10-26T00:02:56+08:00",
+      "rank": 1
+    },
+    {
+      "id": "b05a3e955e9007ef",
+      "category": "us",
+      "title": "CNBC民調顯示美選民對兩黨執政充滿恐懼，擔憂政策極端化與權力失衡",
+      "summary": "CNBC最新民調指出，美國選民對兩黨執政各存憂慮。共和黨選民擔心民主黨推行社會主義政策，民主黨選民則憂心川普若勝選將擁有不受制衡的權力。調查反映出美國社會極度兩極化，選民對政府信任度普遍低落。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108421360-1792180731050-gettyimages-2299995240-AFP_D3JJ2HJ.jpeg?v=1792180796&w=1920&h=1080",
+      "published_at": "2026-10-25T20:00:01+08:00",
+      "rank": 2
+    },
+    {
+      "id": "38499ecdee51afb0",
+      "category": "stocks",
+      "title": "高盛擔憂AI交易過度密集，大幅下修韓股Kospi指數目標價25%",
+      "summary": "高盛集團策略師團隊將韓股Kospi指數未來12個月目標價從12,000點下調至9,000點，主因擔憂AI類股交易過於密集。儘管下修目標，高盛仍認為韓股目前估值偏低，具備吸引力的風險報酬比。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/7251/9836789",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35433779.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600",
+      "published_at": "2026-10-26T01:18:34+08:00",
+      "rank": 1
+    },
+    {
+      "id": "23da95a457b1f054",
+      "category": "stocks",
+      "title": "券商推點數與禮品卡買股創新服務，國泰與永豐成功吸引年輕客群",
+      "summary": "為吸引年輕投資人，國泰證券推出小樹點定期定額，累積扣點近5億元；永豐金證券則以股票禮品卡帶動逾6萬新戶開戶。兩者皆打破現金投資框架，成功降低投資門檻並引導小資族建立定期投資習慣。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/%E5%88%B8%E5%95%86-%E6%96%B0%E9%BB%9E%E5%AD%90-%E5%9C%8B%E6%B3%B0%E5%B0%8F%E6%A8%B9%E9%BB%9E%E6%89%A3%E6%AC%BE%E8%BF%915%E5%84%84-%E6%B0%B8%E8%B1%90%E8%82%A1%E7%A5%A8%E7%A6%AE%E5%93%81%E5%8D%A1%E5%82%AC%E5%87%BA6%E8%90%AC%E6%96%B0%E6%88%B6-230000357.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/79b5de7a59aa63f39cfc433de1e36af79c4c3db576b37077258df804c293ea56/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fknews_finance_355%2Fd5c33d95286d18dc270bb21177a3b912",
+      "published_at": "2026-10-26T07:00:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "e020a97eb3735267",
+      "category": "finance",
+      "title": "AI與晶片產業迎關鍵財報週，市場聚焦科技巨頭資本支出與獲利貢獻",
+      "summary": "本週科技業將迎來關鍵財報週，SK海力士、微軟、Alphabet、三星及亞馬遜將陸續公佈財報。市場焦點從資本支出規模轉向AI應用商業化與實質獲利，投資人期待科技巨頭財報能安撫近期AI類股的波動。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/7240/9836750",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/22/35446935.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-10-26T01:50:26+08:00",
+      "rank": 1
+    },
+    {
+      "id": "461f796ed8e1dcb3",
+      "category": "finance",
+      "title": "地緣政治緊張推升油價，布蘭特原油飆至117美元，恐加劇通膨壓力",
+      "summary": "受美國暗示在中東增加軍事活動影響，布蘭特原油價格飆升至每桶117美元。分析指出，高油價環境將對全球經濟造成壓力，可能導致各國央行面臨通膨維持在4%左右的高水準，短期內油價緩解可能性極低。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/%E6%B2%B9%E5%83%B9%E9%A3%86%E5%8D%87%E8%87%B3%E6%AF%8F%E6%A1%B6-117-%E7%BE%8E%E5%85%83-%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9D%B1%E5%A2%9E%E8%BB%8D%E4%BA%8B%E6%B4%BB%E5%8B%95%E5%BC%95%E5%B8%82%E5%A0%B4%E6%86%82-225615181.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/6814592a7904aefbc51b91c8dac494957ea552b5a3cd8971e836a474f13fefe5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fsunmedia_664%2Fb8bffffd172ed85dd19ab4e23f98a40c.jpg",
+      "published_at": "2026-10-26T06:56:15+08:00",
+      "rank": 2
+    },
+    {
+      "id": "e2af05b939be6e57",
+      "category": "china",
+      "title": "中國國考熱潮持續，熱門職缺競爭激烈，出現6000人搶1個名額",
+      "summary": "中國2027年中央機關公務員錄用考試報名截止，因招錄名額縮減，競爭異常激烈。最熱門職缺出現超過6000人爭搶1個名額的情況。分析指出，經濟環境不佳導致「考公」熱潮持續攀升，報考門檻較低的職位競爭尤為嚴重。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261025/3260530.htm",
+      "image_url": "https://cdn2.ettoday.net/images/7585/e7585967.jpg",
+      "published_at": "2026-10-25T13:05:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "7bdde29ef1a476d3",
+      "category": "china",
+      "title": "中共五中全會北京登場，預料將確認人事處分並為廿一大布局鋪路",
+      "summary": "中共廿屆五中全會於北京舉行，會議預料將確認多名落馬幹部的紀律處分，並為2027年廿一大的人事調整鋪路。報導指出，出生於1960年代末至1970年代的「第七代幹部」將在未來領導層佈局中扮演更重要角色。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/7331/9836856",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453748.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-10-26T00:00:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "1d01c59303a02475",
+      "category": "technology",
+      "title": "西門子與輝達深化AI合作，開發代理式AI以解決3D IC散熱與功耗挑戰",
+      "summary": "西門子與NVIDIA擴大合作，將代理式AI技術與加速運算結合，協助工程師應對3D IC設計中的電氣、電源及熱分析挑戰。基準測試顯示，此方法可將工程工作量減少95%，並將設計空間探索範圍擴大至50倍。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3260841",
+      "image_url": "https://cdn2.ettoday.net/images/7778/e7778617.jpg",
+      "published_at": "2026-10-26T06:10:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "66e074a27528110f",
+      "category": "technology",
+      "title": "中國研發電磁彈射火箭技術，目標2028年實現全球首次發射",
+      "summary": "中國正研發電磁彈射火箭系統，利用地面超導磁懸浮與電磁推進為火箭提供初始助推。該技術目標將發射成本降至每公斤500美元以下，並計畫於2028年實現全球首次電磁彈射火箭發射，以提升衛星組網效率。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261026/3257244.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8974/e8974376.jpg",
+      "published_at": "2026-10-26T01:17:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "25c447065b7cb8ef",
+      "category": "design",
+      "title": "蘋果首款摺疊機iPhone Duo上市傳災情，螢幕裂痕與App支援度引發退貨潮",
+      "summary": "蘋果首款摺疊機iPhone Duo上市後傳出災情，多名使用者回報螢幕在摺疊處出現裂痕或黑線。此外，因保護殼選擇稀少及多數App未完整支援，導致部分首批買家選擇轉賣新機，市場對其耐用性與軟體體驗存疑。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261025002452-260405?ctrack=pc_main_recmd_p14",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-25/656/20261025002453.jpg",
+      "published_at": "2026-10-25T18:32:15+08:00",
+      "rank": 1
+    },
+    {
+      "id": "a7cef6cd8f2f3a6e",
+      "category": "design",
+      "title": "金鐘紅毯時尚撞衫，蔡詩芸與千千選穿同款REVOLVE禮服展現不同風格",
+      "summary": "第61屆金鐘獎紅毯上，蔡詩芸與網紅千千意外撞衫，兩人皆選擇美國品牌REVOLVE的設計。該禮服以側邊深V剪裁與後背大面積挖空為特色，蔡詩芸以黑色搭配珠寶展現奢華感，千千則以白色款呈現淡雅風格。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://fashion.ettoday.net/news/3260827",
+      "image_url": "https://cdn2.ettoday.net/images/8983/e8983883.jpg",
+      "published_at": "2026-10-26T00:06:00+08:00",
       "rank": 2
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 10
-    },
-    {
-      "source": "聯合新聞網",
       "verified_candidates": 9
     },
     {
+      "source": "聯合新聞網",
+      "verified_candidates": 14
+    },
+    {
       "source": "ETtoday 新聞雲",
-      "verified_candidates": 20
+      "verified_candidates": 22
     },
     {
       "source": "中時新聞網",
-      "verified_candidates": 6
+      "verified_candidates": 4
     },
     {
       "source": "CNN",
