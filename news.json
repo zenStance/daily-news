@@ -1,183 +1,183 @@
 {
-  "edition": "2026-10-26",
-  "updated_at": "2026-10-26T07:05:43.798270+08:00",
-  "window_start": "2026-10-25T07:04:07.299160+08:00",
-  "window_end": "2026-10-26T07:04:07.299160+08:00",
+  "edition": "2026-10-27",
+  "updated_at": "2026-10-27T08:16:42.421509+08:00",
+  "window_start": "2026-10-26T08:16:23.131118+08:00",
+  "window_end": "2026-10-27T08:16:23.131118+08:00",
   "articles": [
     {
-      "id": "172edbf57b3398b5",
+      "id": "245f4e81f611697f",
       "category": "international",
-      "title": "高雄舉辦首屆港灣郵輪半程馬拉松，吸引逾3千名跑者體驗港市共榮魅力",
-      "summary": "臺灣港務公司於高雄港旅運中心舉辦首屆港灣郵輪半程馬拉松，吸引逾3千名跑者參與。賽事路線串聯高雄流行音樂中心、大港橋等重要地標，結合健康、低碳與永續理念，展現高雄港作為國際郵輪旅運平臺的多元魅力。",
+      "title": "美加協商降低鋼鐵與汽車關稅 最快期中選舉前達成協議",
+      "summary": "美國與加拿大正針對鋼鐵及汽車關稅進行談判，試圖改善雙邊貿易關係。知情人士透露，雙方最快可能在11月3日美國期中選舉前達成協議，但美方仍要求加拿大做出更多讓步，最終協議範圍可能有限。",
       "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3260699",
-      "image_url": "https://cdn2.ettoday.net/images/8982/e8982711.jpg",
-      "published_at": "2026-10-25T16:44:00+08:00",
+      "url": "https://www.ettoday.net/news/20261027/3261309.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8912/e8912868.jpg",
+      "published_at": "2026-10-27T08:11:00+08:00",
       "rank": 1
     },
     {
-      "id": "da5a76c49785c117",
+      "id": "d81211ab7d0e2cfe",
       "category": "international",
-      "title": "塞爾維亞國會大選變天，學生運動領先執政黨，總統武契奇承認敗選",
-      "summary": "塞爾維亞提前舉行國會大選，初步結果顯示由學生主導的反貪腐運動聯盟領先。總統武契奇承認執政黨敗選。此次選舉背景源於去年火車站坍塌事件引發的學生抗議，選民投票率創下30年來新高，顯示民眾對現狀的不滿。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6809/9837000",
-      "image_url": "https://udn.com/static/img/UDN_BABY.png",
-      "published_at": "2026-10-26T06:10:28+08:00",
-      "rank": 2
-    },
-    {
-      "id": "5c9177f01369ed31",
-      "category": "taiwan",
-      "title": "體操世錦賽唐嘉鴻單槓摘金，締造臺灣體操隊史首面世錦賽金牌",
-      "summary": "中華隊體操好手唐嘉鴻在荷蘭鹿特丹世界體操錦標賽單槓決賽中，以難度分6.600、執行分8.366、總分14.966分勇奪金牌。此舉不僅是唐嘉鴻個人首座世錦賽冠軍，更締造臺灣體操隊在世錦賽史上的首面金牌紀錄。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261026000635-260403?ctrack=pc_main_headl_p01",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-26/656/20261026000637.jpg",
-      "published_at": "2026-10-26T04:15:32+08:00",
-      "rank": 1
-    },
-    {
-      "id": "96f7d46e38bd3cde",
-      "category": "taiwan",
-      "title": "公平會封殺外送平臺併購案，專家示警市場競爭弱化與後續四大危機",
-      "summary": "公平會以限制競爭為由，禁止Grab收購foodpanda臺灣業務。專家駱秉寬示警，禁併後市場仍面臨競爭弱化、投資縮減等四大危機，並建議公平會應釐清Uber對foodpanda的實質控制權，確保市場競爭機制。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3260424",
-      "image_url": "https://cdn2.ettoday.net/images/5713/e5713989.jpg",
-      "published_at": "2026-10-25T10:31:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "d69e03d70e382d68",
-      "category": "us",
-      "title": "Audi宣佈投資40億美元在美設廠，執行長強調為擴大銷售與降低關稅",
-      "summary": "Audi執行長證實將在美國喬治亞州投資40億美元興建首座美國工廠，以擴大在美市佔率並降低進口關稅影響。此決策是在VW集團重組背景下進行，Audi強調此舉不影響德國作為品牌核心的地位。",
+      "title": "以色列國會大選競爭激烈 估計8萬僑民返國投票",
+      "summary": "以色列舉行國會大選，選情極度緊繃。由於以色列不開放海外投票，預計有約8萬名僑民專程返國參與投票。此次選舉被視為對總理納坦雅胡安全政策的檢驗，預估投票率可能高達87%。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108189041-1755779851934-gettyimages-2223863691-20090101250711-99-426938.jpeg?v=1755779948&w=1920&h=1080",
-      "published_at": "2026-10-26T00:02:56+08:00",
-      "rank": 1
-    },
-    {
-      "id": "b05a3e955e9007ef",
-      "category": "us",
-      "title": "CNBC民調顯示美選民對兩黨執政充滿恐懼，擔憂政策極端化與權力失衡",
-      "summary": "CNBC最新民調指出，美國選民對兩黨執政各存憂慮。共和黨選民擔心民主黨推行社會主義政策，民主黨選民則憂心川普若勝選將擁有不受制衡的權力。調查反映出美國社會極度兩極化，選民對政府信任度普遍低落。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108421360-1792180731050-gettyimages-2299995240-AFP_D3JJ2HJ.jpeg?v=1792180796&w=1920&h=1080",
-      "published_at": "2026-10-25T20:00:01+08:00",
+      "url": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108273025-1772568161795-gettyimages-2234067223-urbanandsport-diversea250827_np8nV.jpeg?v=1772568196&w=1920&h=1080",
+      "published_at": "2026-10-27T06:46:35+08:00",
       "rank": 2
     },
     {
-      "id": "38499ecdee51afb0",
-      "category": "stocks",
-      "title": "高盛擔憂AI交易過度密集，大幅下修韓股Kospi指數目標價25%",
-      "summary": "高盛集團策略師團隊將韓股Kospi指數未來12個月目標價從12,000點下調至9,000點，主因擔憂AI類股交易過於密集。儘管下修目標，高盛仍認為韓股目前估值偏低，具備吸引力的風險報酬比。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7251/9836789",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35433779.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600",
-      "published_at": "2026-10-26T01:18:34+08:00",
-      "rank": 1
-    },
-    {
-      "id": "23da95a457b1f054",
-      "category": "stocks",
-      "title": "券商推點數與禮品卡買股創新服務，國泰與永豐成功吸引年輕客群",
-      "summary": "為吸引年輕投資人，國泰證券推出小樹點定期定額，累積扣點近5億元；永豐金證券則以股票禮品卡帶動逾6萬新戶開戶。兩者皆打破現金投資框架，成功降低投資門檻並引導小資族建立定期投資習慣。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E5%88%B8%E5%95%86-%E6%96%B0%E9%BB%9E%E5%AD%90-%E5%9C%8B%E6%B3%B0%E5%B0%8F%E6%A8%B9%E9%BB%9E%E6%89%A3%E6%AC%BE%E8%BF%915%E5%84%84-%E6%B0%B8%E8%B1%90%E8%82%A1%E7%A5%A8%E7%A6%AE%E5%93%81%E5%8D%A1%E5%82%AC%E5%87%BA6%E8%90%AC%E6%96%B0%E6%88%B6-230000357.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/79b5de7a59aa63f39cfc433de1e36af79c4c3db576b37077258df804c293ea56/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fknews_finance_355%2Fd5c33d95286d18dc270bb21177a3b912",
-      "published_at": "2026-10-26T07:00:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "e020a97eb3735267",
-      "category": "finance",
-      "title": "AI與晶片產業迎關鍵財報週，市場聚焦科技巨頭資本支出與獲利貢獻",
-      "summary": "本週科技業將迎來關鍵財報週，SK海力士、微軟、Alphabet、三星及亞馬遜將陸續公佈財報。市場焦點從資本支出規模轉向AI應用商業化與實質獲利，投資人期待科技巨頭財報能安撫近期AI類股的波動。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7240/9836750",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/22/35446935.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-10-26T01:50:26+08:00",
-      "rank": 1
-    },
-    {
-      "id": "461f796ed8e1dcb3",
-      "category": "finance",
-      "title": "地緣政治緊張推升油價，布蘭特原油飆至117美元，恐加劇通膨壓力",
-      "summary": "受美國暗示在中東增加軍事活動影響，布蘭特原油價格飆升至每桶117美元。分析指出，高油價環境將對全球經濟造成壓力，可能導致各國央行面臨通膨維持在4%左右的高水準，短期內油價緩解可能性極低。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E6%B2%B9%E5%83%B9%E9%A3%86%E5%8D%87%E8%87%B3%E6%AF%8F%E6%A1%B6-117-%E7%BE%8E%E5%85%83-%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9D%B1%E5%A2%9E%E8%BB%8D%E4%BA%8B%E6%B4%BB%E5%8B%95%E5%BC%95%E5%B8%82%E5%A0%B4%E6%86%82-225615181.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/6814592a7904aefbc51b91c8dac494957ea552b5a3cd8971e836a474f13fefe5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fsunmedia_664%2Fb8bffffd172ed85dd19ab4e23f98a40c.jpg",
-      "published_at": "2026-10-26T06:56:15+08:00",
-      "rank": 2
-    },
-    {
-      "id": "e2af05b939be6e57",
-      "category": "china",
-      "title": "中國國考熱潮持續，熱門職缺競爭激烈，出現6000人搶1個名額",
-      "summary": "中國2027年中央機關公務員錄用考試報名截止，因招錄名額縮減，競爭異常激烈。最熱門職缺出現超過6000人爭搶1個名額的情況。分析指出，經濟環境不佳導致「考公」熱潮持續攀升，報考門檻較低的職位競爭尤為嚴重。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261025/3260530.htm",
-      "image_url": "https://cdn2.ettoday.net/images/7585/e7585967.jpg",
-      "published_at": "2026-10-25T13:05:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "7bdde29ef1a476d3",
-      "category": "china",
-      "title": "中共五中全會北京登場，預料將確認人事處分並為廿一大布局鋪路",
-      "summary": "中共廿屆五中全會於北京舉行，會議預料將確認多名落馬幹部的紀律處分，並為2027年廿一大的人事調整鋪路。報導指出，出生於1960年代末至1970年代的「第七代幹部」將在未來領導層佈局中扮演更重要角色。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7331/9836856",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453748.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-10-26T00:00:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "1d01c59303a02475",
-      "category": "technology",
-      "title": "西門子與輝達深化AI合作，開發代理式AI以解決3D IC散熱與功耗挑戰",
-      "summary": "西門子與NVIDIA擴大合作，將代理式AI技術與加速運算結合，協助工程師應對3D IC設計中的電氣、電源及熱分析挑戰。基準測試顯示，此方法可將工程工作量減少95%，並將設計空間探索範圍擴大至50倍。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3260841",
-      "image_url": "https://cdn2.ettoday.net/images/7778/e7778617.jpg",
-      "published_at": "2026-10-26T06:10:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "66e074a27528110f",
-      "category": "technology",
-      "title": "中國研發電磁彈射火箭技術，目標2028年實現全球首次發射",
-      "summary": "中國正研發電磁彈射火箭系統，利用地面超導磁懸浮與電磁推進為火箭提供初始助推。該技術目標將發射成本降至每公斤500美元以下，並計畫於2028年實現全球首次電磁彈射火箭發射，以提升衛星組網效率。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261026/3257244.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8974/e8974376.jpg",
-      "published_at": "2026-10-26T01:17:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "25c447065b7cb8ef",
-      "category": "design",
-      "title": "蘋果首款摺疊機iPhone Duo上市傳災情，螢幕裂痕與App支援度引發退貨潮",
-      "summary": "蘋果首款摺疊機iPhone Duo上市後傳出災情，多名使用者回報螢幕在摺疊處出現裂痕或黑線。此外，因保護殼選擇稀少及多數App未完整支援，導致部分首批買家選擇轉賣新機，市場對其耐用性與軟體體驗存疑。",
+      "id": "23cf604fb0bcaabd",
+      "category": "taiwan",
+      "title": "高金素梅團隊助理費案 核心帳房張俊傑逃亡遭懸賞",
+      "summary": "立委高金素梅團隊涉詐領助理費及發展共諜組織，核心成員張俊傑棄保潛逃逾50天。國安局、警政署與海巡署祭出合計620萬元懸賞金，並祭出破格升遷獎勵，檢警正全力追緝其下落。",
       "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261025002452-260405?ctrack=pc_main_recmd_p14",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-25/656/20261025002453.jpg",
-      "published_at": "2026-10-25T18:32:15+08:00",
+      "url": "https://www.chinatimes.com/realtimenews/20261027000829-260402?ctrack=pc_main_alert_p02",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-27/656/20261027000831.jpg",
+      "published_at": "2026-10-27T07:45:15+08:00",
       "rank": 1
     },
     {
-      "id": "a7cef6cd8f2f3a6e",
-      "category": "design",
-      "title": "金鐘紅毯時尚撞衫，蔡詩芸與千千選穿同款REVOLVE禮服展現不同風格",
-      "summary": "第61屆金鐘獎紅毯上，蔡詩芸與網紅千千意外撞衫，兩人皆選擇美國品牌REVOLVE的設計。該禮服以側邊深V剪裁與後背大面積挖空為特色，蔡詩芸以黑色搭配珠寶展現奢華感，千千則以白色款呈現淡雅風格。",
+      "id": "92530777929ab1e0",
+      "category": "taiwan",
+      "title": "臺南70年老店江川肉燥飯年底熄燈 控二房東無預警解約",
+      "summary": "臺南老字號「江川肉燥飯」宣佈將於12月底結束營業。業者指控二房東「金得春捲」在未告知情況下，單方面與房東解除租約，導致包含江川在內的多間老店被迫停業，引發網友對其誠信的強烈批評。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/7270/9838462",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35456047.jpg&M=1&s=Y&x=0&y=182&sw=960&sh=640&exp=3600",
+      "published_at": "2026-10-27T06:16:03+08:00",
+      "rank": 2
+    },
+    {
+      "id": "693095de3b83f9f5",
+      "category": "us",
+      "title": "川普執政支援率下滑 民調顯示核心支援群體出現鬆動",
+      "summary": "最新CNBC民調顯示，美國總統川普的淨支援率在第二任期內顯著下降，特別是在拉丁裔、年輕選民及黑人族群中支援度大幅滑落。共和黨內部支援率亦有減弱跡象，恐影響即將到來的期中選舉選情。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108420796-1793036966295-108420796-1792171997073-gettyimages-2299960046-AFP_D3J63LN.jpg?v=1793036980&w=1920&h=1080",
+      "published_at": "2026-10-27T01:36:55+08:00",
+      "rank": 1
+    },
+    {
+      "id": "34194f84859eac3e",
+      "category": "us",
+      "title": "美國司法部第三度起訴前FBI局長柯米 涉嫌洩漏機密",
+      "summary": "美國司法部對前FBI局長柯米提出第三次刑事指控，指控其在2016年任內指示幕僚向媒體洩露敏感政府資訊。柯米否認指控並尋求駁回，此案再度引發外界對於司法部政治化與檢察權界線的爭議。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108204233-1758840400232-gettyimages-693965984-may-dcformer170608_np6Go.jpeg?v=1764021465&w=1920&h=1080",
+      "published_at": "2026-10-27T05:18:55+08:00",
+      "rank": 2
+    },
+    {
+      "id": "fb4d84ae314e55ff",
+      "category": "stocks",
+      "title": "Anthropic上市檔案示警 臺積電供應鏈風險恐衝擊全球",
+      "summary": "AI巨頭Anthropic遞交IPO申請，檔案中明確警告全球先進晶片高度依賴臺積電，若臺灣發生軍事衝突、封鎖或天災，將嚴重幹擾全球晶片供應，影響可能持續數年，對其財務與營運造成不利影響。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/6811/9838749",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35456492.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-10-27T07:51:42+08:00",
+      "rank": 1
+    },
+    {
+      "id": "1a5f82ad8c408509",
+      "category": "stocks",
+      "title": "臺股千點殺盤頻傳 資金轉向非投等債ETF避險",
+      "summary": "臺股2026年已出現12次單日跌逾千點的震盪，投資人避險情緒升溫。財經專家指出，短天期非投資等級債ETF因具備高息收與低利率敏感度，成為資產配置新焦點，相關ETF人氣與規模顯著成長。",
       "source": "ETtoday 新聞雲",
-      "url": "https://fashion.ettoday.net/news/3260827",
-      "image_url": "https://cdn2.ettoday.net/images/8983/e8983883.jpg",
-      "published_at": "2026-10-26T00:06:00+08:00",
+      "url": "https://finance.ettoday.net/news/3261005",
+      "image_url": "https://cdn2.ettoday.net/images/7500/e7500980.jpg",
+      "published_at": "2026-10-27T06:00:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "0ea2c447c7cee9bf",
+      "category": "finance",
+      "title": "日本央行預期維持利率不變 市場關注後續升息訊號",
+      "summary": "市場調查顯示，日本央行預計在本週會議維持1.25%利率不變。儘管通膨與薪資持續成長，但政策委員會對連續升息仍缺乏共識。分析師關注央行是否會調整對通膨目標的措辭，為年底或明年初升息鋪路。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108154240-108154240-1748998400275-gettyimages-2216643487-JAPAN_BOJ.jpeg?v=1748998448&w=1920&h=1080",
+      "published_at": "2026-10-27T07:51:07+08:00",
+      "rank": 1
+    },
+    {
+      "id": "47320e7df5dbcf11",
+      "category": "finance",
+      "title": "中國地方債務危機隱憂 IMF籲北京採取財政刺激",
+      "summary": "IMF指出中國經濟面臨通縮風險，建議北京採取更積極的財政刺激。中國地方政府因土地出讓收入銳減，債務問題日益嚴重，隱性債務規模龐大，已成為拖累經濟成長的關鍵因素。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108462472-1792990298190-gettyimages-2256488877-AFP_937K69G.jpeg?v=1792991381&w=1920&h=1080",
+      "published_at": "2026-10-27T07:10:16+08:00",
+      "rank": 2
+    },
+    {
+      "id": "1e29c428c9e73745",
+      "category": "china",
+      "title": "中共五中全會召開 聚焦從嚴治黨與人事佈局",
+      "summary": "中共二十屆五中全會於北京召開，會議重點討論「全面從嚴治黨」及反腐論述。外界高度關注會中是否會針對明年二十一大進行人事佈局，以及如何填補近期多名高層官員落馬後的職位空缺。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261026/3261208.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8111/e8111540.jpg",
+      "published_at": "2026-10-26T20:41:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "06b56ad7292c9124",
+      "category": "china",
+      "title": "中國多所名校學生聯名呼籲 廢除領導人無限期連任",
+      "summary": "中共五中全會期間，中國十多所重點大學學生發出聯名呼籲書，要求廢除國家領導人無限期連任制，恢復憲法對任期的限制，並呼籲健全民主選舉機制，保障公民討論國事的空間。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/%E5%AD%B8%E7%94%9F%E4%B8%8D%E5%BF%8D%E4%BA%86-%E4%B8%AD%E5%9C%8B%E5%90%8D%E6%A0%A1%E7%88%86%E8%81%AF%E5%90%8D%E4%BF%A1-%E7%B1%B2%E5%BB%A2%E9%99%A4%E9%A0%98%E5%B0%8E%E4%BA%BA%E7%84%A1%E9%99%90%E6%9C%9F%E9%80%A3%E4%BB%BB-203300806.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/bd872a23c80239a772dece73da456db4c7f2d70a6dda31730378555df410e840/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F2f3677e4aca9b7521ae093cc54004d51.jpg",
+      "published_at": "2026-10-27T04:33:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "87f84ebbe0f95cac",
+      "category": "technology",
+      "title": "微軟擴大自願離職方案 6萬員工符合資格以削減成本",
+      "summary": "微軟宣佈擴大自願離職方案，涵蓋美、加、英、印四國約6萬名員工，適用職級延伸至副總裁。此舉旨在削減營運成本，以支應大規模AI基礎設施建設與資料中心投資帶來的財務壓力。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261027/3261287.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8773/e8773143.jpg",
+      "published_at": "2026-10-27T07:05:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "ad5cc986f64f97ad",
+      "category": "technology",
+      "title": "蘋果回應iPhone Duo螢幕災情 承諾提供保固更換",
+      "summary": "蘋果首款摺疊手機iPhone Duo上市後，部分使用者回報螢幕出現水平亮線災情。蘋果證實已知悉問題，並表示將透過AppleCare提供更換服務，維修專家則推測問題可能與鉸鏈設計有關。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108452229-1792771288556-gettyimages-2301112643-APPLE_DUO.jpeg?v=1792771325&w=1920&h=1080",
+      "published_at": "2026-10-27T02:43:25+08:00",
+      "rank": 2
+    },
+    {
+      "id": "5c6c4749ff8b008d",
+      "category": "design",
+      "title": "室內設計師解析間接照明 8大功能修飾樑柱與空間",
+      "summary": "室內設計師指出，間接照明不僅能營造氛圍，還具備修飾天花板與樑柱、放大空間視覺、界定場域及提供夜間動線指引等8大功能。透過藏燈位置與投光角度的精準規劃，可兼顧美感與實用機能。",
+      "source": "聯合新聞網",
+      "url": "https://house.udn.com/house/story/123592/9837415",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35454468.jpg&M=1&x=&y=&sw=&sh=&sl=W&fw=800&exp=3600",
+      "published_at": "2026-10-26T11:49:09+08:00",
+      "rank": 1
+    },
+    {
+      "id": "663c70b8b6c3d6a1",
+      "category": "design",
+      "title": "IKEA木條隔熱墊外型酷似刑具 引發網友熱議",
+      "summary": "IKEA一款松木隔熱墊因外型與古代刑具「夾棍」相似，在社群引發熱議。網友紛紛引用電影臺詞進行趣味互動，設計師則說明該產品利用邊角料製成，可依需求調整大小，具備實用的隔熱功能。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261027/3261294.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8986/e8986255.png",
+      "published_at": "2026-10-27T07:15:00+08:00",
       "rank": 2
     }
   ],
@@ -188,15 +188,15 @@
     },
     {
       "source": "聯合新聞網",
-      "verified_candidates": 14
+      "verified_candidates": 11
     },
     {
       "source": "ETtoday 新聞雲",
-      "verified_candidates": 22
+      "verified_candidates": 18
     },
     {
       "source": "中時新聞網",
-      "verified_candidates": 4
+      "verified_candidates": 7
     },
     {
       "source": "CNN",
@@ -204,7 +204,7 @@
     },
     {
       "source": "CNBC",
-      "verified_candidates": 7
+      "verified_candidates": 11
     }
   ]
 }
