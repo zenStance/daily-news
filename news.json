@@ -1,198 +1,198 @@
 {
-  "edition": "2026-11-01",
-  "updated_at": "2026-11-01T07:58:25.383510+08:00",
-  "window_start": "2026-10-31T07:58:09.057703+08:00",
-  "window_end": "2026-11-01T07:58:09.057703+08:00",
+  "edition": "2026-11-02",
+  "updated_at": "2026-11-02T08:24:49.652179+08:00",
+  "window_start": "2026-11-01T08:24:33.048700+08:00",
+  "window_end": "2026-11-02T08:24:33.048700+08:00",
   "articles": [
     {
-      "id": "c39c8763e096a901",
+      "id": "6cd9af95237e9fac",
       "category": "international",
-      "title": "美駐俄大使館示警莫斯科恐攻威脅 俄方證實已展開因應行動",
-      "summary": "美國駐俄羅斯大使館於10月31日發布安全警告，指莫斯科察裡津諾博物館園區恐發生大規模傷亡攻擊，呼籲民眾避開。俄羅斯聯邦安全域性隨後證實收到情資並展開因應，該景點已暫時關閉。",
+      "title": "烏克蘭空襲警報App遭駭，全國突收核戰與極音速飛彈來襲錯誤警告",
+      "summary": "烏克蘭官方空襲警報App「Air Alert」疑似遭駭客入侵，全國多地民眾收到核子、化學武器威脅及俄軍極音速飛彈來襲的錯誤警報。烏克蘭空軍緊急澄清無輻射威脅，呼籲民眾以官方資訊為準，並保持冷靜。",
       "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261101/3264185.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8545/e8545937.jpg",
-      "published_at": "2026-11-01T05:58:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "86caffb50a166fc2",
-      "category": "international",
-      "title": "G20外長會議聚焦全球經濟挑戰 關鍵安全議題未達共識",
-      "summary": "為期兩天的G20外長會議落幕，因俄烏戰爭與伊朗戰事等陰影，未能就關鍵安全議題達成共識，會後未發布聯合公報。主席國美國發布宣告，表示會議聚焦於能源安全、供應鏈韌性及地緣政治緊張局勢。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6809/9849648",
-      "image_url": "https://udn.com/static/img/UDN_BABY.png",
-      "published_at": "2026-11-01T07:47:24+08:00",
-      "rank": 2
-    },
-    {
-      "id": "9b74ba2f164e1199",
-      "category": "taiwan",
-      "title": "臺北市長辯論後民調差距縮小 謝寒冰分析多數受訪者未看辯論",
-      "summary": "臺北市長候選人蔣萬安與沈伯洋進行電視辯論，會後民調顯示兩人差距縮小至4個百分點。媒體人謝寒冰分析，民調波動原因在於多數受訪者並未觀看辯論，且綠營支持者表態率較高。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261101000044-260407?ctrack=pc_main_alert_p02",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-01/656/20261101000045.jpg",
-      "published_at": "2026-11-01T00:15:30+08:00",
-      "rank": 1
-    },
-    {
-      "id": "66f06f7e1559c9f3",
-      "category": "taiwan",
-      "title": "11月多項新制上路 臺鐵訂票放寬、公費疫苗擴大接種",
-      "summary": "11月起多項新制實施，包括臺鐵開放開車前5分鐘手機購票、公費流感與新冠疫苗擴大至50歲以上接種，以及郵局ATM單筆存款上限調高至10萬元，健保亦納入兩項罕病用藥給付。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261101/3264145.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8948/e8948347.jpg",
-      "published_at": "2026-11-01T06:07:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "2e616cf6047d3415",
-      "category": "us",
-      "title": "美國期中選舉倒數 CNN分析共和黨恐面臨世代清洗級慘敗",
-      "summary": "美國期中選舉將於11月3日舉行，分析指出共和黨選情低迷，民主黨有望在眾議院增加席次。受油價物價飆升及黨內路線分裂影響，川普施政滿意度下滑，選民對川普主義的否定可能引發選後路線大戰。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B%E6%9C%9F%E4%B8%AD%E9%81%B8%E8%88%89-cnn%E5%88%86%E6%9E%90-%E5%85%B1%E5%92%8C%E9%BB%A8%E5%8F%AF%E8%83%BD%E9%9D%A2%E8%87%A8%E4%B8%96%E4%BB%A3%E6%B8%85%E6%B4%97%E7%B4%9A%E7%9A%84%E6%85%98%E6%95%97-233628926.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/e3537b90fe25de396e7236a81b651a4e000455c3e97a6865fd2592493aa01860/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnewtalk.tw%2F5ad03bd0d5929c85b0eef4151f42b772.jpg",
-      "published_at": "2026-11-01T07:36:28+08:00",
-      "rank": 1
-    },
-    {
-      "id": "c35ab1a02974d036",
-      "category": "us",
-      "title": "川普控告梅鐸與華爾街日報誹謗案 聯邦法官裁定駁回",
-      "summary": "美國前總統川普因不滿《華爾街日報》報導其涉及愛普斯坦信件內容，提告媒體大亨梅鐸與該報誹謗。邁阿密聯邦法官裁定駁回訴訟，指川普未能證明被告具備實際惡意，並禁止其再次提出相同訴訟。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108174185-1752873502792-Trump_Murdoch2.jpg?v=1752873942&w=1920&h=1080",
-      "published_at": "2026-11-01T03:46:52+08:00",
-      "rank": 2
-    },
-    {
-      "id": "64bfca4fd0525718",
-      "category": "stocks",
-      "title": "臺股10月外資賣超8800億 法人：臺積電權重調節非看壞",
-      "summary": "臺股10月震盪劇烈，外資賣超逾8800億元，主要集中在臺積電。法人分析，此舉為國際主動型基金控管權重的調節行為，並非看壞臺積電基本面，11月需觀察賣壓是否擴散至其他權值股。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3263863",
+      "url": "https://finance.ettoday.net/news/3264199",
       "image_url": "https://cdn2.ettoday.net/images/3689/e3689010.jpg",
-      "published_at": "2026-10-31T10:55:00+08:00",
+      "published_at": "2026-11-01T08:52:00+08:00",
       "rank": 1
     },
     {
-      "id": "b5647cb12f2a55b4",
-      "category": "stocks",
-      "title": "英特爾財測疲軟引發避險殺機 美股期中選舉前尋求落底",
-      "summary": "英特爾財測疲軟導致費半指數重挫，市場擔憂AI資本支出變現能力。法人建議投資人嚴守紀律，配置具備穩健現金流的績優股，預期美股大盤在期中選舉前夕落底，並有機會重啟漲勢。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3264174",
-      "image_url": "https://cdn2.ettoday.net/images/8991/e8991675.jpg",
-      "published_at": "2026-11-01T06:05:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "5c95a909dd4365bb",
-      "category": "finance",
-      "title": "臺灣科技巨頭掀兆元融資狂潮 AI資本耐力賽比拚現金流",
-      "summary": "臺灣科技龍頭如緯創、廣達、華碩等短期借款半年內暴增，顯示AI產業競爭已轉向資本耐力賽。儘管訂單滿載，但龐大的資本支出導致現金流壓力，企業需透過融資維持營運與研發投入。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261101000014-260410?ctrack=pc_main_recmd_p11",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-30/656/20261030003089.jpg",
-      "published_at": "2026-11-01T07:00:30+08:00",
-      "rank": 1
-    },
-    {
-      "id": "c2e09e462037aa9d",
-      "category": "finance",
-      "title": "香港經濟成長強勁 財長陳茂波預期將上調全年預測",
-      "summary": "香港財政司司長陳茂波表示，受出口與投資帶動，上半年經濟成長達5.1%，預期今年將創5年新高，政府將上調全年成長預測。惟須留意地緣政治與中東戰事可能帶來的通膨壓力。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261031/3263942.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8102/e8102561.jpg",
-      "published_at": "2026-10-31T17:16:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "14797dd83d742cf6",
-      "category": "china",
-      "title": "習近平整肅軍方高層 學者：避免未來領導人接班遭幹預",
-      "summary": "中共二十屆五中全會後，解放軍高層人事異動頻繁。學者馬振坤指出，習近平大規模整肅具陸軍背景的將領，旨在鞏固個人軍權，並為明年二十一大權力佈局鋪路，避免軍方介入政治接班。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261031/3263996.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8993/e8993029.jpg",
-      "published_at": "2026-10-31T18:01:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "d3438db73250c51d",
-      "category": "china",
-      "title": "中國載人登月計畫推進 預計2030年前實現3人登月",
-      "summary": "中國載人航太工程規劃2030年前實現載人登月，將採取「兩次發射、一次登月」模式，利用長徵十號火箭將登月艙與太空船送往月球軌道，預計由3名太空人執行任務，其中2人登陸月表。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261031/3263958.htm",
-      "image_url": "https://cdn2.ettoday.net/images/7263/e7263138.jpg",
-      "published_at": "2026-10-31T16:33:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "8b544c4b1ef1f25b",
-      "category": "technology",
-      "title": "OpenAI下調募資目標至200億美元 投資人關注AI獲利能力",
-      "summary": "OpenAI將新一輪募資目標從300億美元下調至200億美元，估值約1.25兆美元。市場對科技巨頭在AI基礎設施上的巨額支出能否帶來足夠回報產生疑慮，導致近期AI相關股票出現賣壓。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108469835-1793120540409-Screenshot_2026-10-27_at_10008_PM.png?v=1793474850&w=1920&h=1080",
-      "published_at": "2026-11-01T03:56:23+08:00",
-      "rank": 1
-    },
-    {
-      "id": "6713dcec11b3e54d",
-      "category": "technology",
-      "title": "AI代理技術仍有侷限 業者坦言部分任務仍需人工介入",
-      "summary": "儘管AI代理技術受矚目，但目前在處理複雜任務（如撥打電話、預約服務）時仍不穩定。業者指出，AI模型目前僅能提供建議，實際執行仍需人工介入，部分新創公司已開始建立人工承包商機制。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108373383-1791299845415-gettyimages-2296215889-META_CONNECT.jpeg?v=1791299900&w=1920&h=1080",
-      "published_at": "2026-10-31T20:00:01+08:00",
-      "rank": 2
-    },
-    {
-      "id": "6201c192f0ff2d2f",
-      "category": "design",
-      "title": "比爾蓋茲認Ctrl+Alt+Del是錯誤 微軟揭露至今未改原因",
-      "summary": "微軟創辦人比爾蓋茲曾稱「Ctrl+Alt+Del」為歷史錯誤，但Windows 11仍保留此指令。微軟工程師解釋，該指令在開機時由系統底層獨佔，能有效防止惡意軟體偽造登入畫面，具備資安防禦功能。",
+      "id": "294c34064a424cb7",
+      "category": "international",
+      "title": "美佛州驚傳小型噴射機墜毀民宅，機上9人全數罹難",
+      "summary": "美國佛州發生嚴重墜機事故，一架載有9人的小型噴射機在飛行途中急速下降，最終撞進住宅區並引發爆炸，機上人員全數罹難。事發地點距離川普海湖莊園不到11公里，目前聯邦航空總署正與國家運輸安全委員會調查事故原因。",
       "source": "聯合新聞網",
-      "url": "https://tech.udn.com/tech/story/123154/9843324",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/26/35365620.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&sl=W&fw=800&exp=3600",
-      "published_at": "2026-11-01T07:50:00+08:00",
+      "url": "https://udn.com/news/story/6813/9851017",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35475676.jpg&M=1&s=Y&x=641&y=0&sw=639&sh=720&exp=3600",
+      "published_at": "2026-11-02T07:45:51+08:00",
+      "rank": 2
+    },
+    {
+      "id": "ffab00d717f214e1",
+      "category": "taiwan",
+      "title": "高雄市長選戰民調：賴瑞隆40%領先柯志恩33%，中間選民成關鍵",
+      "summary": "最新高雄市長選情民調顯示，民進黨候選人賴瑞隆以40%支援度領先國民黨柯志恩的33%，但仍有26%選民未決定。賴瑞隆在女性與年長選民中具優勢，柯志恩則在民眾黨支持者與中立選民中獲得較多青睞，選戰進入最後衝刺。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261102000834-260407?ctrack=pc_main_alert_p01",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-10-31/656/B03A00_P_05_02.jpg",
+      "published_at": "2026-11-02T07:24:33+08:00",
       "rank": 1
     },
     {
-      "id": "2d1a77cc227c98e0",
-      "category": "design",
-      "title": "經寶精密深耕泰國舉辦自動化競賽 產官學合作培育人才",
-      "summary": "臺商經寶精密與泰國地方政府合辦自動化競賽，參賽隊伍需設計全自動搬運機器人，結合影像辨識與自動導航技術。此活動旨在讓學生在真實任務中驗證設計，並培育符合工業4.0需求的人才。",
+      "id": "179353ae5eee4132",
+      "category": "taiwan",
+      "title": "臺中榮總再傳醫材廠商代刀爭議，院方證實政風單位調查中",
+      "summary": "臺中榮總神經外科部長鄒錫凱遭網友爆料，疑似讓醫材廠商人員參與內視鏡手術操作。院方證實已收到檢舉，目前由政風單位查核事證。中榮先前曾發生醫材廠商代刀案，涉案醫師已遭判刑，此次事件引發社會高度關注。",
       "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3264177",
-      "image_url": "https://cdn2.ettoday.net/images/8993/e8993794.jpg",
-      "published_at": "2026-11-01T06:10:00+08:00",
+      "url": "https://www.ettoday.net/news/20261102/3264579.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8994/e8994841.png",
+      "published_at": "2026-11-02T02:31:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "082890de71f175a7",
+      "category": "us",
+      "title": "防民主黨勝選，白宮傳已擬定不須國會同意的行政施政路徑",
+      "summary": "美國期中選舉將至，白宮團隊傳出已秘密籌劃方案，若民主黨奪回國會控制權，川普政府將透過行政權推動移民、關稅及聯邦支出等政策，並由法律顧問團隊研判法律攻防，以確保在無國會批准下仍能執行主要政見。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261102000032-260408?ctrack=pc_main_recmd_p21",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-01/656/20261101003019.jpg",
+      "published_at": "2026-11-02T07:20:49+08:00",
+      "rank": 1
+    },
+    {
+      "id": "2e8fcbedcdbd73e8",
+      "category": "us",
+      "title": "密西根州參議員選戰，民主黨眾議員史蒂文斯倒戈支援共和黨候選人",
+      "summary": "密西根州民主黨眾議員史蒂文斯在選前兩天，公開表態支援共和黨參議員候選人羅傑斯，而非同黨候選人艾爾薩耶德。此舉源於史蒂文斯與艾爾薩耶德陣營近期因政治廣告引發的緊張關係，該選區結果將影響參議院多數黨地位。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108498719-17935613282026-11-01t183114z_1539042043_rc26foadn026_rtrmadp_0_usa-election-michigan.jpeg?v=1793561369&w=1920&h=1080",
+      "published_at": "2026-11-02T01:50:07+08:00",
+      "rank": 2
+    },
+    {
+      "id": "14ecf54f3972c986",
+      "category": "stocks",
+      "title": "臺股面臨45000點保衛戰，法人建議觀察外資賣壓與AI獲利",
+      "summary": "受美股科技股重挫影響，臺股面臨45000點保衛戰。法人指出，AI產業基本面未變，但市場對資本支出回收疑慮加深，建議投資人控制持股、保留現金，靜待外資賣壓收斂及國際股市回穩，避免急於搶反彈。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3264610",
+      "image_url": "https://cdn2.ettoday.net/images/8994/e8994899.jpg",
+      "published_at": "2026-11-02T08:13:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "1a457372e42f9545",
+      "category": "stocks",
+      "title": "幣安遭駭後恢復提款，單日淨流出36.4億美元",
+      "summary": "加密貨幣交易所幣安在經歷63億美元的駭客攻擊後恢復提款，單日錄得36.4億美元淨流出，約佔總資產的2.1%。幣安創辦人趙長鵬表示提款量已趨於穩定，並強調將自行吸收損失，不會轉嫁給使用者。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108486123-1793363750138-gettyimages-2302145323-Binance.jpeg?v=1793363814&w=1920&h=1080",
+      "published_at": "2026-11-02T08:11:37+08:00",
+      "rank": 2
+    },
+    {
+      "id": "ee4488b2f4133e32",
+      "category": "finance",
+      "title": "中國央行與證監會召集金融業開會，研議力挺股市新措施",
+      "summary": "中國金融監管機關將召集證券商、基金公司及銀行業者開會，討論運用政策工具支援資本市場，包括最佳化股票回購及增持再貸款政策。官方強調將持續加強金融監管，並針對新型隱性貪腐行為加強查處。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261101/3264497.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8388/e8388815.jpg",
+      "published_at": "2026-11-01T18:09:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "b817dee8e289a4ad",
+      "category": "finance",
+      "title": "國泰世華銀首席經濟學家林啟超：供應鏈位移翻轉經濟，警惕資金與電力挑戰",
+      "summary": "國泰世華銀行首席經濟學家林啟超指出，臺灣受惠AI浪潮與供應鏈重組，出口與經濟表現強勁。然而，未來數年全球恐面臨資金吃緊與電力短缺挑戰，AI巨頭雖具籌資優勢，但中小企業借貸難度恐增加，能源供給亦是關鍵。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/7239/9850773",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/01/35475365.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-11-02T02:35:58+08:00",
+      "rank": 2
+    },
+    {
+      "id": "9d8b824b3d09084b",
+      "category": "china",
+      "title": "中國「躺平之都」大理，青年逃離內卷後陷空虛與就業困境",
+      "summary": "雲南大理成為中國青年追求「躺平」的熱門去處，但不少青年在休息後因缺乏職缺與AI衝擊，面臨重返職場的困難。報導指出，青年失業率高企，將現象歸咎於懶惰過於簡化，許多人並非自願長期失業，而是陷入空虛與迷惘。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261102000031-260408?ctrack=pc_main_recmd_p15",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-01/656/20261101002947.jpg",
+      "published_at": "2026-11-02T07:25:54+08:00",
+      "rank": 1
+    },
+    {
+      "id": "8e4f61ca34378bcc",
+      "category": "china",
+      "title": "中石化前董座傅成玉卸任11年後遭查，引發能源界關注",
+      "summary": "中國中石化前董事長傅成玉涉嫌嚴重違紀違法，目前正接受紀律審查。傅成玉曾掌管中海油與中石化，並推動國企混合所有制改革，卸任11年後仍遭調查，且時間點在中共五中全會閉幕後，格外引發外界關注。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261101/3264296.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8994/e8994022.jpg",
+      "published_at": "2026-11-01T11:20:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "4fdcbdd743c4813a",
+      "category": "technology",
+      "title": "AI技術應用分歧，Meta廣告業務成長強勁，Google搜尋受威脅",
+      "summary": "AI技術改變消費者線上行為，Meta透過AI提升廣告精準度，廣告業務成長顯著；反觀Google搜尋因聊天機器人興起，導致點選率下降，廣告營收成長放緩。分析師認為，若搜尋習慣改變，將對Google廣告業務造成重大衝擊。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108497472-1793543323692-gettyimages-2231576298-AA_27082025_2388287.jpeg?v=1793543337&w=1920&h=1080",
+      "published_at": "2026-11-01T20:00:01+08:00",
+      "rank": 1
+    },
+    {
+      "id": "3018013b08ee4926",
+      "category": "technology",
+      "title": "企業AI投資轉向實質回報，銀行業開始連結AI貢獻獲利",
+      "summary": "企業對AI的興趣正從炒作轉向可衡量的回報。西班牙銀行Santander報告指出，AI已為其帶來2.16億美元的業務價值，並協助員工減少低價值任務。隨著財報季進行，更多企業開始量化AI投資帶來的財務貢獻。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108253381-1768531442124-gettyimages-2218925569-_dsc8484.jpeg?v=1793360711&w=1920&h=1080",
+      "published_at": "2026-11-01T14:00:01+08:00",
+      "rank": 2
+    },
+    {
+      "id": "c47a68378248c567",
+      "category": "design",
+      "title": "日本廁所潛規則：女性習慣將衛生棉打包帶走，避免增加清理負擔",
+      "summary": "臺灣女子赴日工作發現辦公室廁所垃圾桶內無衛生棉，經詢問得知日本女性為避免增加同事清理負擔，習慣將使用過的衛生棉打包帶回家丟。此文化差異引發熱議，在臺日人亦證實此為當地常見的貼心習慣。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261102000910-260405?ctrack=pc_main_recmd_p06",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-02/656/20261102000917.png",
+      "published_at": "2026-11-02T08:08:41+08:00",
+      "rank": 1
+    },
+    {
+      "id": "53eccafd3af17e14",
+      "category": "design",
+      "title": "外媒揭平價手機選購關鍵，記憶體、充電速度與安全更新不可妥協",
+      "summary": "科技網站《BGR》建議選購平價Android手機時，應優先考慮記憶體（至少6GB）、充電速度（至少25W）及安全更新年限（至少3年）。單純追求低價可能導致卡頓與壽命縮短，選擇符合需求的規格才能真正省下換機成本。",
+      "source": "聯合新聞網",
+      "url": "https://tech.udn.com/tech/story/123151/9850282",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/01/35474717.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&sl=W&fw=800&exp=3600",
+      "published_at": "2026-11-01T16:14:28+08:00",
       "rank": 2
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 8
+      "verified_candidates": 7
     },
     {
       "source": "聯合新聞網",
-      "verified_candidates": 9
+      "verified_candidates": 10
     },
     {
       "source": "ETtoday 新聞雲",
-      "verified_candidates": 21
+      "verified_candidates": 18
     },
     {
       "source": "中時新聞網",
@@ -204,7 +204,7 @@
     },
     {
       "source": "CNBC",
-      "verified_candidates": 7
+      "verified_candidates": 9
     }
   ]
 }
