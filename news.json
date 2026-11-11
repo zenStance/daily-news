@@ -1,190 +1,157 @@
 {
-  "edition": "2026-11-10",
-  "updated_at": "2026-11-10T11:17:58.083883+08:00",
-  "window_start": "2026-11-09T11:17:38.647541+08:00",
-  "window_end": "2026-11-10T11:17:38.647541+08:00",
+  "edition": "2026-11-11",
+  "updated_at": "2026-11-11T09:06:57.393408+08:00",
+  "window_start": "2026-11-10T09:06:16.670292+08:00",
+  "window_end": "2026-11-11T09:06:16.670292+08:00",
   "articles": [
     {
-      "id": "f03523926c77444f",
+      "id": "0e53aea58b2dc2c5",
       "category": "international",
-      "title": "川普稱伊朗戰爭實質結束，現階段無動武計畫但維持海上封鎖",
-      "summary": "美國總統川普表示，伊朗戰爭已實質結束，目前無恢復攻擊計畫，但將維持海上封鎖。川普強調伊朗不得擁有核武為底線，並稱正與伊朗進行談判，若局勢有變，美方已準備好採取行動。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261110001937-260408?ctrack=pc_main_recmd_p12",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-10/656/20261110001938.jpg",
-      "published_at": "2026-11-10T10:54:12+08:00",
+      "title": "美俄烏阿布達比談判 擬連結戰爭結束與歐洲安全架構",
+      "summary": "美、俄、烏代表於阿布達比進行閉門談判，美方提議將結束戰爭與重建歐洲安全架構連結，以提高協議可能性。俄方對此表示歡迎，但歐洲國家擔憂俄國藉此要求西方讓步，擴大對東歐影響力。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261111/3269943.htm",
+      "image_url": "https://cdn2.ettoday.net/images/9009/e9009794.jpg",
+      "published_at": "2026-11-11T07:13:00+08:00",
       "rank": 1
     },
     {
-      "id": "c7d98dbe896a709a",
+      "id": "82b24ace95df1de0",
       "category": "international",
-      "title": "歐洲面臨安全威脅，超市冷鏈遭駭與炸彈威脅頻傳",
-      "summary": "歐洲近期發生超市冷鏈系統遭駭、血庫裝置受攻擊及多起炸彈威脅事件，擾亂航空與民生基礎設施。專家分析，此類破壞旨在增加歐洲支援烏克蘭的代價，顯示歐洲在應對現代安全威脅的韌性面臨考驗。",
+      "title": "法國超市冷藏裝置遭駭 法國指控伊朗所為並研擬制裁",
+      "summary": "法國指控伊朗革命衛隊附屬單位對法國超市冷藏裝置發動網路攻擊，導致食品腐敗與火災，損失達數千萬美元。伊朗否認指控。法國外交部表示不排除採取凍結資產等制裁手段。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108497068-1793535203811-gettyimages-2302485233-GERMANY_PROTEST.jpeg?v=1793535220&w=1920&h=1080",
-      "published_at": "2026-11-09T13:00:01+08:00",
+      "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108403029-1791894112373-gettyimages-2299339600-AFP_D3247KH.jpeg?v=1794294925&w=1920&h=1080",
+      "published_at": "2026-11-10T17:34:24+08:00",
       "rank": 2
     },
     {
-      "id": "28677024e97f03c7",
+      "id": "7066ca2fc342bc3f",
       "category": "taiwan",
-      "title": "新北八里4連霸裡長涉選罷法，士檢清晨發動約談",
-      "summary": "九合一選舉倒數，新北市八里區大崁裡連任4屆的裡長林秀眞，因涉嫌違反選罷法，遭士林地檢署指揮調查局於10日清晨發動搜尋並約談多人到案，目前案件正由新北市調查處偵辦中。",
+      "title": "周玉蔻誣指張淑娟緋聞案 民事求償恐連帶賠償2000萬",
+      "summary": "媒體人周玉蔻、蔡玉真被控不實爆料張淑娟緋聞，張淑娟提民事求償。法院將於12月31日宣判，張淑娟主張民視與被告應連帶賠償2000萬元，並要求民視連續7天以跑馬燈澄清判決主文。",
       "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261110001948-260402?ctrack=pc_main_alert_p02",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-10/656/20261110002002_20261110110002.png",
-      "published_at": "2026-11-10T11:00:21+08:00",
+      "url": "https://www.chinatimes.com/realtimenews/20261111001124-260402?ctrack=pc_main_alert_p03",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-11/656/20261111001125.jpg",
+      "published_at": "2026-11-11T08:01:56+08:00",
       "rank": 1
     },
     {
-      "id": "f88f80e815193107",
+      "id": "2c3a6c775115f800",
       "category": "taiwan",
-      "title": "觀光署更新旅行社黑名單，12家遭撤照、36家停業",
-      "summary": "交通部觀光署更新旅行業異動名單，共有12家旅行社遭廢止或撤銷執照，另有36家處於停業狀態。觀光署提醒民眾規劃耶誕與跨年旅遊時，務必先確認業者營運狀況，以保障自身消費權益。",
+      "title": "國內首例打瘦瘦針失明 食藥署接獲不良反應通報",
+      "summary": "國內傳出首例施打GLP-1類減重藥物後單眼失明案例。醫師指出美國FDA已要求該類藥物加註失明警語。食藥署今年已接獲63件相關不良反應通報，提醒民眾注意用藥風險。",
       "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261110001576-260405?ctrack=pc_main_alert_p03",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-10/656/20261110001589.jpg",
-      "published_at": "2026-11-10T09:52:04+08:00",
+      "url": "https://www.chinatimes.com/realtimenews/20261111000044-260405?ctrack=pc_main_alert_p04",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-08-18/656/20260818003066.jpg",
+      "published_at": "2026-11-11T07:00:30+08:00",
       "rank": 2
     },
     {
-      "id": "10bfcaf03d34ad4c",
+      "id": "696f232912b2c5e8",
       "category": "us",
-      "title": "共和黨內鬨，川普怒轟眾議員馬西彈劾閣員是失敗者",
-      "summary": "共和黨眾議員馬西推動彈劾戰爭部長赫格塞斯，引發川普不滿，怒斥馬西為「超級大輸家」。川普力挺赫格塞斯，並以委內瑞拉及伊朗軍事行動的成果為其辯護，要求國會議員支援赫格塞斯。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E9%AC%A7%E7%BF%BB-%E5%B7%9D%E6%99%AE%E5%97%861%E5%85%B1%E5%92%8C%E9%BB%A8%E8%AD%B0%E5%93%A1%E6%95%97%E9%81%B8%E6%98%AF-%E8%B6%85%E7%B4%9A%E5%A4%A7%E8%BC%B8%E5%AE%B6-%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89-022700661.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/7ac62dc775b4391826ec584c3e8c270b0bcb456e51499fac454b7f26b704d5dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F204a71eca4c72496e96e777f3f94757e.jpg",
-      "published_at": "2026-11-10T10:27:00+08:00",
+      "title": "眾議院封殺國防部長赫塞斯彈劾案 川普稱其洗刷指控",
+      "summary": "眾議院以211對204票將國防部長赫塞斯的彈劾案交付委員會審查，形同封殺。彈劾理由涉及美伊戰爭濫權等指控。川普對此表示支援，稱赫塞斯在委內瑞拉與伊朗的軍事勝利已洗刷指控。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/6813/9870799",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/11/35505385.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-11-11T08:01:14+08:00",
       "rank": 1
     },
     {
-      "id": "ca6dad7590bcf82c",
+      "id": "436aee0c71cf58c3",
       "category": "us",
-      "title": "參議院推進跨黨派法案，旨在加速美國關鍵基礎建設審批",
-      "summary": "美國參議院以73比25票推進跨黨派法案，旨在改革許可審批流程，加速電力與基礎建設發展。該法案獲川普支援，並要求AI公司與資料中心開發商自行負擔電力與電網升級費用。",
+      "title": "期中選舉後通膨壓力大 白宮仍堅持推動關稅政策",
+      "summary": "儘管期中選舉顯示選民對通膨不滿，白宮仍表示將持續推動關稅政策以重建製造業與確保供應鏈安全。前經濟顧問柯恩則警告，關稅本質是消費稅，正加重美國民眾生活成本。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/09/senate-infrastructure-bill-data-centers.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108109902-1741016219892-gettyimages-2193737956-tdp-l-electrical_grid_2931.jpeg?v=1741016281&w=1920&h=1080",
-      "published_at": "2026-11-10T07:38:58+08:00",
+      "url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108284024-1794344915838-108284024-1774615465426-gettyimages-2267966091-PORT_OF_OAKLAND.jpeg?v=1794344929&w=1920&h=1080",
+      "published_at": "2026-11-11T04:28:02+08:00",
       "rank": 2
     },
     {
-      "id": "563b6c30039f7fe7",
+      "id": "3c356e419749777e",
       "category": "stocks",
-      "title": "臺股強勢反彈勁揚逾1300點，PCB供應鏈14檔漲停",
-      "summary": "受美股收高激勵，臺股10日大漲逾1300點。PCB供應連結串列現強勁，欣興、南電等14檔個股鎖住漲停。儘管AI資料中心建置有雜音，但高階載板需求仍緊俏，帶動相關供應鏈股價走揚。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3269405",
-      "image_url": "https://cdn2.ettoday.net/images/7799/e7799762.jpg",
-      "published_at": "2026-11-10T10:31:00+08:00",
+      "title": "臺積電董事會拍板 季配息拉昇至9元並投資AI企業",
+      "summary": "臺積電董事會核准第3季現金股利提高至每股9元，創歷史新高。同時核准約409億美元資本預算，並規劃以各5億美元額度認購Anthropic與OpenAI股份，持續擴大先進製程與AI生態系佈局。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/7251/9870125",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/10/35504646.jpg&M=1&s=Y&x=43&y=0&sw=1194&sh=796&exp=3600",
+      "published_at": "2026-11-10T19:58:02+08:00",
       "rank": 1
     },
     {
-      "id": "4ba8c6c828d95a36",
+      "id": "4cfbb5a29fdb8a04",
       "category": "stocks",
-      "title": "輝達執行長婚外情風波，遭投資人提集體訴訟市值蒸發",
-      "summary": "輝達執行長黃仁勳捲入婚外情及中國間諜疑雲，遭投資人提出集體訴訟，指控公司未充分揭露相關風險。受此影響，輝達股價單日下跌4.3%，市值蒸發約1900億美元，董事會已啟動獨立調查。",
+      "title": "輝達外遇風暴拖累科技股 美股收黑臺指期夜盤下跌",
+      "summary": "受美國通膨資料高於預期及聯準會升息訊號影響，美股收低。輝達執行長黃仁勳婚外情風波持續發酵，輝達股價重挫5.47%，拖累那斯達克指數。臺指期夜盤受此影響下跌124點。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3269937",
+      "image_url": "https://cdn2.ettoday.net/images/9008/e9008191.jpg",
+      "published_at": "2026-11-11T06:13:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "86978974b6e8c67f",
+      "category": "finance",
+      "title": "外資11月匯出百億美元 央行總裁楊金龍：屬正常配置",
+      "summary": "立委質疑外資對臺股進行「養套殺」，央行總裁楊金龍回應，11月以來外資匯出約100億美元，主要為獲利後的國際市場配置，目前市場運作正常，外匯市場供需由市場決定。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261110002952-260410?ctrack=pc_main_donate_p02",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-10/656/20261110002993.jpg",
+      "published_at": "2026-11-10T14:12:04+08:00",
+      "rank": 1
+    },
+    {
+      "id": "1f1cf094e91aed46",
+      "category": "finance",
+      "title": "陸委會示警中國經濟風險 臺商面臨政經雙重挑戰",
+      "summary": "陸委會主委邱垂正指出，中國大陸面臨內需不足與價格競爭，且將經濟風險納入國安架構，導致臺商經營面臨政治與法律不確定性。呼籲臺商審慎評估投資佈局，並留意人身安全。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261110/3269748.htm",
+      "image_url": "https://cdn2.ettoday.net/images/9009/e9009345.jpg",
+      "published_at": "2026-11-10T17:20:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "76cce9990f148493",
+      "category": "technology",
+      "title": "Anthropic收緊地區限制 人在中國大陸將無法使用Claude",
+      "summary": "Anthropic更新地區使用政策，自11月12日起，無論國籍或帳號註冊地，只要使用者身處中國大陸等未開放地區，即無法使用Claude相關服務。此外，企業股權控制關係亦納入限制範圍。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://ai.ettoday.net/news/3269991",
+      "image_url": "https://cdn2.ettoday.net/images/8805/e8805563.jpg",
+      "published_at": "2026-11-11T09:04:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "46296c6d28610d1d",
+      "category": "technology",
+      "title": "輝達聘請紐約律師事務所 調查黃仁勳婚外情風波",
+      "summary": "輝達執行長黃仁勳承認婚外情，且物件疑涉中國間諜活動。輝達董事會已聘請紐約律師事務所進行獨立調查，釐清是否涉及機密外洩。目前輝達市值受風波影響，已落後蘋果與微軟。",
       "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E9%81%AD%E8%82%A1%E6%9D%B1%E6%8F%90%E5%91%8A-%E8%BC%9D%E9%81%94%E5%96%AE%E6%97%A5%E5%B8%82%E5%80%BC%E8%92%B8%E7%99%BC1900%E5%84%84%E7%BE%8E%E5%85%83-232553597.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/303223777c93fe664a2d295cdf515eb6624f02d42fd44c4c4ef318e1ff2622dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnownews.com%2F22a32bd63ec69ceda0fc158fd970a6f3.jpg",
-      "published_at": "2026-11-10T07:25:53+08:00",
+      "url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E5%87%BA%E6%89%8B%E4%BA%86-%E8%81%98%E8%AB%8B-%E7%B4%90%E7%B4%84%E7%9F%A5%E5%90%8D%E5%BE%8B%E5%B8%AB%E4%BA%8B%E5%8B%99%E6%89%80-%E8%AA%BF%E6%9F%A5%E9%BB%83%E4%BB%81%E5%8B%B3%E5%A9%9A%E5%A4%96%E6%83%85-223900557.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/7ab236d7d712985fd5045e18f2c7bbd45028b1df40a9b665c4eb8f9b60f21fd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2Ff592c893f001e96292f22338c72a8546.jpg",
+      "published_at": "2026-11-11T06:47:00+08:00",
       "rank": 2
     },
     {
-      "id": "d9eb17bbd1d0dd86",
-      "category": "finance",
-      "title": "11月外資匯出逾百億美元，央行總裁楊金龍：情況正常",
-      "summary": "受國際情勢影響，臺股近期震盪，11月外資匯出約100多億美元。央行總裁楊金龍表示，外資獲利了結屬國際市場再配置，目前情況正常，匯率則由市場供需決定，難以預測升貶。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7239/9868548",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/10/35502147.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-      "published_at": "2026-11-10T11:10:12+08:00",
-      "rank": 1
-    },
-    {
-      "id": "e565ff2cc7c0627f",
-      "category": "finance",
-      "title": "AI泡沫疑慮升高，專家：企業經濟利差下降是關鍵警訊",
-      "summary": "市場關注AI投資是否過熱，富邦投顧董事長陳奕光指出，雖然AI科技股獲利能力優於網路泡沫時期，但近期雲端服務商的經濟利差下降，若未來利差轉負，將代表企業創造報酬不足以支應資金成本。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7251/9868433",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/10/35501940.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-11-10T10:28:46+08:00",
-      "rank": 2
-    },
-    {
-      "id": "82d95cfaee6f43de",
-      "category": "china",
-      "title": "前央視記者證實黃樂曾是同事，曝當年就看出她不簡單",
-      "summary": "輝達執行長黃仁勳婚外情物件黃樂遭美方懷疑為中國間諜。前央視記者白潔發文證實兩人曾共用辦公室，並稱當年就看出黃樂不簡單。中國外交部則重申，所謂中國間諜論調純屬捕風捉影。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261110/3269242.htm",
-      "image_url": "https://cdn2.ettoday.net/images/9008/e9008078.jpg",
-      "published_at": "2026-11-10T01:10:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "49b603a5c5b97ada",
-      "category": "china",
-      "title": "華爾街持續佈局中國市場，看好富裕階層財富管理需求",
-      "summary": "儘管市場環境高度監管，華爾街金融機構仍積極佈局中國。花旗銀行在上海召開年度中國會議，看好中國富裕階層的財富管理需求，並受惠於川習會後中國對外資金融機構的開放承諾。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108530821-1793947514055-gettyimages-2254282864-CHINA_ECONOMY.jpeg?v=1793947703&w=1920&h=1080",
-      "published_at": "2026-11-10T07:00:02+08:00",
-      "rank": 2
-    },
-    {
-      "id": "0908b8767bef3fec",
-      "category": "technology",
-      "title": "傳iPhone 18e規格升級，電池與螢幕將追上標準版",
-      "summary": "爆料指出，蘋果預計2027年初推出iPhone 18系列，其中低價機型iPhone 18e將升級搭載4430mAh電池與6.3吋螢幕，並有望改用動態島設計，規格與標準版更加接近。",
-      "source": "聯合新聞網",
-      "url": "https://tech.udn.com/tech/story/123151/9868501",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/18/35341616.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=800&exp=3600",
-      "published_at": "2026-11-10T11:03:57+08:00",
-      "rank": 1
-    },
-    {
-      "id": "e50d32d66b3a4ba0",
-      "category": "technology",
-      "title": "iPhone Duo爆裂痕門，傳供應商材料瑕疵所致",
-      "summary": "iPhone Duo摺疊機傳出內螢幕沿鉸鏈裂痕災情。爆料指問題源於供應商原材料瑕疵，而非鉸鏈設計缺陷。蘋果目前尚未公佈召回計畫，僅表示受影響使用者可聯絡AppleCare申請更換。",
-      "source": "聯合新聞網",
-      "url": "https://tech.udn.com/tech/story/123151/9868249",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35456550.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&sl=W&fw=800&exp=3600",
-      "published_at": "2026-11-10T09:39:23+08:00",
-      "rank": 2
-    },
-    {
-      "id": "2df7b7875466b580",
+      "id": "86daedebe1a00a22",
       "category": "design",
-      "title": "LINE推「通行金鑰」功能，生物辨識取代密碼登入",
-      "summary": "LINE推出「通行金鑰」功能，使用者可透過指紋、臉部辨識或螢幕鎖定方式登入帳號，無需再記憶密碼。此舉旨在提升登入便利性，並降低帳號因密碼外流或釣魚詐騙而被盜用的風險。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261110001940-260405?ctrack=pc_main_recmd_p13",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-10/656/20261110001946.jpg",
-      "published_at": "2026-11-10T10:57:34+08:00",
+      "title": "室內設計AI造假風險增 專家提醒屋主查證作品真實性",
+      "summary": "室內設計總監提醒，AI技術普及導致網路作品照、履歷可能經修飾或生成。屋主挑選設計公司時，不應僅依賴網路推薦，應查證公司合法性、財務狀況及過往糾紛，避免資訊失真。",
+      "source": "聯合新聞網",
+      "url": "https://house.udn.com/house/story/123592/9870804",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/11/35505388.jpg&M=1&s=Y&x=118&y=0&sw=1097&sh=731&sl=W&fw=800&exp=3600",
+      "published_at": "2026-11-11T08:17:03+08:00",
       "rank": 1
-    },
-    {
-      "id": "49cb48634468398b",
-      "category": "design",
-      "title": "iPhone Duo摺疊機實測，雙視窗多工與L型立架設計受關注",
-      "summary": "iPhone Duo摺疊機具備7.6吋大螢幕與雙視窗多工處理功能，提升閱讀與工作效率。此外，手機可摺成L型作為追劇操控面板或電子相框，展現摺疊機在介面與使用情境上的創新設計。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261110001983-260412?ctrack=pc_main_recmd_p05",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-10/656/20261110001984.jpg",
-      "published_at": "2026-11-10T11:14:12+08:00",
-      "rank": 2
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 6
+      "verified_candidates": 10
     },
     {
       "source": "聯合新聞網",
@@ -192,11 +159,11 @@
     },
     {
       "source": "ETtoday 新聞雲",
-      "verified_candidates": 14
+      "verified_candidates": 11
     },
     {
       "source": "中時新聞網",
-      "verified_candidates": 9
+      "verified_candidates": 7
     },
     {
       "source": "CNN",
@@ -204,7 +171,7 @@
     },
     {
       "source": "CNBC",
-      "verified_candidates": 11
+      "verified_candidates": 10
     }
   ]
 }
