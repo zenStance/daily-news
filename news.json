@@ -1,194 +1,194 @@
 {
-  "edition": "2026-11-12",
-  "updated_at": "2026-11-12T10:09:32.453085+08:00",
-  "window_start": "2026-11-11T10:09:12.353548+08:00",
-  "window_end": "2026-11-12T10:09:12.353548+08:00",
+  "edition": "2026-11-13",
+  "updated_at": "2026-11-13T09:43:22.557451+08:00",
+  "window_start": "2026-11-12T09:43:02.491429+08:00",
+  "window_end": "2026-11-13T09:43:02.491429+08:00",
   "articles": [
     {
-      "id": "b477997f75c31a1c",
+      "id": "7852f1308830e126",
       "category": "international",
-      "title": "輝達執行長黃仁勳陷婚外情與共諜疑雲 美國會議員要求辭職並作證",
-      "summary": "輝達執行長黃仁勳因婚外情及疑似與中國間諜往來，引發美國國會高度關注。多名議員要求其辭職並出席國會作證，否則不排除發出傳票。此事件恐導致輝達面臨更嚴格的AI晶片出口管制，並衝擊公司與華府的關係。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261112001760-260408?ctrack=pc_main_alert_p01",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-12/656/20261112001771.jpg",
-      "published_at": "2026-11-12T10:01:31+08:00",
+      "title": "烏克蘭指控SpaceX星盾服務遭幹擾 影響前線無人機攔截能力",
+      "summary": "烏克蘭總統澤倫斯基表示，SpaceX的「星盾」（Starshield）衛星網路在烏克蘭前線出現系統性速度限制，導致攔截俄軍無人機的系統無法及時運作，烏方正與美方調查此異常狀況。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108438882-1792528110848-gettyimages-2300578306-UK_20261020_ukr006JPG.jpeg?v=1792528209&w=1920&h=1080",
+      "published_at": "2026-11-12T18:15:02+08:00",
       "rank": 1
     },
     {
-      "id": "d52e3eb86ea94834",
+      "id": "e7ed2c373d82b4b9",
       "category": "international",
-      "title": "NBA國王隊戰績低迷 簽下資深中鋒普拉里補強禁區戰力",
-      "summary": "NBA國王隊本季開局僅1勝10敗，因替補中鋒雷諾膝傷及阿丘瓦小腿挫傷，禁區戰力告急。球團決定簽下36歲資深中鋒普拉里救火，期望藉其豐富經驗與策應能力，穩定球隊內線並改善休息室氛圍。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7002/9873443",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35509475.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-11-12T10:05:50+08:00",
-      "rank": 2
-    },
-    {
-      "id": "5c8ae51559385f95",
-      "category": "taiwan",
-      "title": "寶林茶室邦克列酸中毒案釀6死27傷 一審判決負責人與廚師輕判",
-      "summary": "臺北市寶林茶室發生國內首起邦克列酸中毒案，造成6死27傷。臺北地院一審判決負責人黎仿軒1年10月，廚師週日豪6月、胡清富8月、阮姓實習生4月，店長王順德則獲判無罪。檢方先前曾對負責人與廚師求處重刑。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261112001746-260402?ctrack=pc_main_alert_p02",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-12/656/20261112001750.jpg",
-      "published_at": "2026-11-12T09:51:30+08:00",
-      "rank": 1
-    },
-    {
-      "id": "38aa0c89525a9e6c",
-      "category": "taiwan",
-      "title": "國發基金投資曠世智慧惹議 李四川質疑利益迴避標準不一",
-      "summary": "蘇巧純曾任職的曠世智慧獲國發基金投資引發爭議。國發會主委葉俊顯稱投資非利衝法範圍，國民黨新北市長候選人李四川對此表示不滿，質疑若投資無利衝問題，應請法務部宣佈讓所有公務員比照辦理，並要求公開相關資料。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261112001576-260407?ctrack=pc_main_recmd_p11",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-12/656/20261112001594.jpg",
-      "published_at": "2026-11-12T09:38:04+08:00",
-      "rank": 2
-    },
-    {
-      "id": "0845d7edb0275b00",
-      "category": "us",
-      "title": "輝達董事會擬撤換黃仁勳 盤後股價重挫逾8%",
-      "summary": "輝達執行長黃仁勳因婚外情及疑似共諜風波，遭美媒披露董事會正準備將其撤換，並考慮任命臨時執行長。訊息傳出後，輝達盤後股價應聲下跌逾8%。黃仁勳已承認對妻子不忠，董事會正進行獨立調查。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108157882-1794436807252-108157882-17496552882025-06-11t100608z_371100481_rc2a0fa4l6n4_rtrmadp_0_france-tech.jpeg?v=1794436853&w=1920&h=1080",
-      "published_at": "2026-11-12T06:06:48+08:00",
-      "rank": 1
-    },
-    {
-      "id": "546e5117796355e1",
-      "category": "us",
-      "title": "面臨伊朗威脅升級 美國財政部長貝森特遷往軍事基地避難",
-      "summary": "美國財政部長貝森特因伊朗威脅日益嚴重，已從華盛頓住處遷往軍事基地以確保安全。貝森特主導對伊朗的經濟制裁行動，使其成為伊朗目標。此前媒體曾因報導其住處位置引發安全疑慮。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108487950-1793387874122-gettyimages-2302201596-lnb02366.jpeg?v=1793387920&w=1920&h=1080",
-      "published_at": "2026-11-11T12:06:47+08:00",
-      "rank": 2
-    },
-    {
-      "id": "d603eba6b05140f4",
-      "category": "stocks",
-      "title": "黃仁勳去留牽動市場 臺股開高後震盪下跌逾330點",
-      "summary": "受輝達執行長黃仁勳可能下臺的訊息影響，臺股開高後賣壓湧現，盤中下跌逾330點。臺積電股價走低，廣達跌幅逾3%。分析師指出，若黃仁勳遭撤換，輝達市值恐受重創，市場觀望氣氛濃厚，電子權值股表現分歧。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261112001467-260410?ctrack=pc_main_alert_p03",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-09/656/A01A00_P_02_02.jpg",
-      "published_at": "2026-11-12T09:03:20+08:00",
-      "rank": 1
-    },
-    {
-      "id": "938fe27f718122e6",
-      "category": "stocks",
-      "title": "復華日本龍頭ETF首度除息 專家分析抗跌關鍵與配息表現",
-      "summary": "復華日本龍頭（00949）首度除息預估配發3.02元，殖利率表現亮眼。專家分析，該ETF因產業配置分散且貼近東證指數，在臺股震盪時展現抗跌性。投資人需留意除息後參考價調整，不宜單純為高配息而追價。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3270073",
-      "image_url": "https://cdn2.ettoday.net/images/8708/e8708056.jpg",
-      "published_at": "2026-11-12T08:45:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "68ad052c9a58aa39",
-      "category": "finance",
-      "title": "經濟部預估今年經濟成長率將超越12.7% 創39年新高",
-      "summary": "經濟部長龔明鑫表示，受高科技產業帶動，今年前三季經濟成長率達14.22%，全年成長率可望超越12.7%，創下近39年新高。政府將持續協助中小微企業轉型，並致力於讓AI發展成果普及百工百業。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7238/9872909",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/11/35508758.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-      "published_at": "2026-11-12T02:18:20+08:00",
-      "rank": 1
-    },
-    {
-      "id": "13fe9ca7f9d1018c",
-      "category": "finance",
-      "title": "AI產業發展面臨挑戰 資料中心建設卡關與融資風險浮現",
-      "summary": "市場對AI前景審美觀改變，資料中心建設進度延宕，導致GPU擔保價值受質疑。專家指出，AI融資風險增加，若缺乏低利率環境支撐，AI產業投資迴圈恐受影響，市場對AI企業的檢視標準已趨於嚴格。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6839/9871290",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/11/35506174.jpg&M=1&s=Y&x=95&y=0&sw=705&sh=480&exp=3600",
-      "published_at": "2026-11-11T13:28:32+08:00",
-      "rank": 2
-    },
-    {
-      "id": "b871bc82c74c6d3b",
-      "category": "china",
-      "title": "西北工業大學遭美列黑名單 仍透過供應商採購輝達高階晶片",
-      "summary": "與中國解放軍關係密切的西北工業大學，雖被美國列入出口管制黑名單，但仍透過中國供應商採購輝達H200晶片，並租用搭載高效能處理器的伺服器算力。此舉凸顯美國對中國先進AI技術出口管制仍存在漏洞。",
+      "title": "COP31氣候峰會進度落後 歐洲綠色領導地位遭質疑",
+      "summary": "第31屆聯合國氣候變遷大會（COP31）於土耳其召開，全球減碳進度嚴重落後。歐洲國家雖致力推動減碳，但因自身政策搖擺及大國領袖缺席，其對全球氣候議題的說教資格正逐漸喪失。",
       "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E5%B0%81%E6%AE%BA%E5%A4%B1%E6%95%88-%E4%B8%AD%E5%9C%8B%E9%80%99%E6%89%80%E5%A4%A7%E5%AD%B8-%E8%88%87%E8%A7%A3%E6%94%BE%E8%BB%8D%E9%97%9C%E4%BF%82%E5%AF%86%E5%88%87-%E5%88%97%E9%BB%91%E5%90%8D%E5%96%AE-%E4%BB%8D%E8%B2%B7%E5%88%B0%E8%BC%9D%E9%81%94%E6%99%B6%E7%89%87-013300681.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/e55ddb63e0d1e5900c398658dd8d4ee136fc1d64de02a52d31d5239d33549fcd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fsetn.com.tw%2F5d89fd402609673f4c6db5b6f4f6a973.jpg",
-      "published_at": "2026-11-12T09:33:00+08:00",
+      "url": "https://tw.news.yahoo.com/%E9%A2%A8%E8%A9%95-cop31%E7%99%BB%E5%A0%B4%E6%B8%9B%E7%A2%B3%E9%80%B2%E5%BA%A6%E8%90%BD%E5%BE%8C%E6%82%B2%E8%A7%80-%E9%9B%99%E6%A8%99%E6%AD%90%E6%B4%B2%E5%A4%B1%E5%8E%BB%E8%AA%AA%E6%95%99%E8%B3%87%E6%A0%BC-012000972.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/f287dbae397ebc147a8d6e886a1a4cb28d6d80756e6f8f510170458f8b2cdb4c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fstormmediagroup.com%2F824d421dd7d5449d169d213016946eae",
+      "published_at": "2026-11-13T09:20:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "c0a13a111ed92053",
+      "category": "taiwan",
+      "title": "新北市長公辦電視政見發表會登場 候選人辯論市政願景",
+      "summary": "新北市長公辦電視政見發表會於13日舉行，採辯論式辦理。國民黨李四川、民進黨蘇巧慧及無黨籍蘇輝湟針對市政願景進行申論與提問，內容涵蓋食安、交通、教育及城市治理等議題。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261113001079-260407?ctrack=pc_main_alert_p02",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-13/656/20261113001080.png",
+      "published_at": "2026-11-13T07:57:13+08:00",
       "rank": 1
     },
     {
-      "id": "ed4301ee51d98860",
+      "id": "9af384d7cee1e1ca",
+      "category": "taiwan",
+      "title": "中共紀念孫中山誕辰 陸委會：藉機統戰推促統一",
+      "summary": "中共舉行孫中山誕辰160週年大會，習近平重申統一立場。陸委會回應，中共應正視中華民國存在事實，並強調臺灣未來由2300萬人民決定，拒絕中共藉紀念活動進行統戰。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261112/3271148.htm",
+      "image_url": "https://cdn2.ettoday.net/images/9011/e9011698.jpg",
+      "published_at": "2026-11-12T18:16:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "b31b0737078eaba0",
+      "category": "us",
+      "title": "川普稱美無需與伊朗達成協議 要求副總統聚焦國內犯罪",
+      "summary": "美國總統川普表示不再尋求與伊朗達成協議，並指示副總統範斯將重心轉向國內民主黨執政城市的犯罪與腐敗問題。此舉發生在共和黨期中選舉失利後，顯示政策優先順序調整。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108505564-1793647809750-gettyimages-2303172099-1r1_3097_hdo4pans.jpeg?v=1793727961&w=1920&h=1080",
+      "published_at": "2026-11-12T21:15:38+08:00",
+      "rank": 1
+    },
+    {
+      "id": "47ac57ef95c98307",
+      "category": "us",
+      "title": "聯準會政策調整 2027年10月會議將不進行利率投票",
+      "summary": "聯準會主席沃爾宣佈，2027年10月的FOMC會議將取消利率投票，改為專注於貨幣政策策略討論。此舉旨在減少市場對短期政策變動的過度關注，並提供更多戰略思考空間。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108476204-1793214824844-gettyimages-2301908968-WARSH_FOMC.jpeg?v=1793214844&w=1920&h=1080",
+      "published_at": "2026-11-13T01:48:43+08:00",
+      "rank": 2
+    },
+    {
+      "id": "ad1793f548b6a4ec",
+      "category": "stocks",
+      "title": "黃仁勳辭職利空出盡 臺股強彈千點聯發科領軍漲停",
+      "summary": "輝達執行長黃仁勳辭職引發市場震盪，但臺股以利空出盡解讀，13日開盤大漲逾千點。聯發科等ASIC族群表現強勢，市場資金重新配置，臺積電與供應鏈股價回穩。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261113001405-260410?ctrack=pc_main_alert_p01",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-13/656/20261113001407.jpg",
+      "published_at": "2026-11-13T09:01:49+08:00",
+      "rank": 1
+    },
+    {
+      "id": "66250fb4689d3771",
+      "category": "stocks",
+      "title": "Anthropic將啟動IPO 市場關注AI新創長期獲利能力",
+      "summary": "AI新創Anthropic預計於11月18日定價IPO，估值上看1.4兆美元。分析師吉姆·克瑞默對其長期獲利前景持保留態度，提醒投資人需審慎評估市場風險。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/anthropic-ipo-cramer-pricing-growth-ai-safety.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108463869-17930177542026-10-22t132021z_138782045_rc2b6oa41zev_rtrmadp_0_energy-europe-batteries.jpeg?v=1793017796&w=1920&h=1080",
+      "published_at": "2026-11-13T07:45:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "16d2486ca688e67d",
+      "category": "finance",
+      "title": "長榮海運第三季獲利翻倍 前三季每股盈餘達32.77元",
+      "summary": "長榮海運第三季合併營收年增51.44%，稅後淨利達466.15億元。受惠於旺季需求與港口壅塞，前三季累計每股盈餘達32.77元，展現強勁營運韌性。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3271265",
+      "image_url": "https://cdn2.ettoday.net/images/7483/e7483031.jpg",
+      "published_at": "2026-11-12T22:13:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "e388f41cd6fdac47",
+      "category": "finance",
+      "title": "美國國稅局調升2027年退休帳戶提撥上限",
+      "summary": "美國國稅局宣佈2027年退休帳戶（401k）員工提撥上限調升至25,500美元，50歲以上補繳上限亦提高。此調整旨在因應通膨，並鼓勵民眾增加退休儲蓄。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108210639-1760111060628-gettyimages-1455321435-dsc05644.jpeg?v=1792073809&w=1920&h=1080",
+      "published_at": "2026-11-13T01:23:14+08:00",
+      "rank": 2
+    },
+    {
+      "id": "cd002146729c3f47",
       "category": "china",
-      "title": "抖音網紅直播PK遭要求狂飲20瓶酒 猝死引發家屬追究責任",
-      "summary": "大陸網紅「瘋狂小馬哥」驚傳猝逝，妹妹證實其在直播連線PK時，遭對方要求飲酒，喝下20瓶酒後發生意外。家屬否認網傳遭紅火蟻叮咬致死說法，並表示將追究對方及平臺責任，公安機關已介入處理。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261112/3270580.htm",
-      "image_url": "https://cdn2.ettoday.net/images/9011/e9011288.png",
-      "published_at": "2026-11-12T02:07:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "969da17d9f51a18b",
-      "category": "technology",
-      "title": "Anthropic估值上看1.4兆美元 臺積電宣佈投資認購股份",
-      "summary": "AI新創公司Anthropic啟動IPO法說會，目標估值上看1.4兆美元。臺積電董事會亦核准投資案，將投入最高10億美元認購Anthropic及OpenAI股份，顯示臺積電持續深化在AI領域的佈局。",
+      "title": "黃仁勳辭職衝微博熱搜 中國網友質疑美方政治操作",
+      "summary": "輝達執行長黃仁勳辭職訊息登上微博熱搜第一。中國網友多數認為此事不單純，質疑美國政府藉私德問題奪取輝達控制權，並對在美華人企業家的處境表示擔憂。",
       "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/anthropic-ipo%E4%BC%B0%E5%80%BC%E4%B8%8A%E7%9C%8B1-4%E5%85%86%E7%BE%8E%E5%85%83-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%B9%9F%E5%AE%A3%E5%B8%83%E6%8A%95%E8%B3%87-%E9%8F%A1%E6%96%B0%E8%81%9E-174248360.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/2f940730de580372192dac25b93ac5cab5d65c2b0251104f008588f2807f2923/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmnews_tw_258%2F69e6b6d472a6c701d63590c656564c3b",
-      "published_at": "2026-11-12T01:42:48+08:00",
+      "url": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%A1%9D%E5%BE%AE%E5%8D%9A%E7%86%B1%E6%90%9C%E7%AC%AC1-%E4%B8%AD%E5%9C%8B%E7%B6%B2%E5%8F%8B%E5%8F%8D%E6%87%89%E6%9B%9D%E5%85%89-231012891.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/2ea593b2195daa00566648210b98e1b6519af8dc25a28d195e23eca88afc0a7c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fftvn.com.tw%2F2181d861944e54d5302599e2e8bbf989.jpg",
+      "published_at": "2026-11-13T07:10:12+08:00",
       "rank": 1
     },
     {
-      "id": "e91ecddbf5eb8b0a",
-      "category": "technology",
-      "title": "桃園攜手5大企業簽署MOU 打造無人機產業鏈搶攻低空經濟",
-      "summary": "桃園市府與佳世達、長榮航太等5家企業簽署MOU，整合研發、測試與量產資源，推動智慧無人載具產業發展。市府規劃於楊梅區設定試飛場域，串聯產業鏈上下游，目標搶佔全球低空經濟商機。",
+      "id": "40aa35673df309de",
+      "category": "china",
+      "title": "陸委會駁斥國臺辦 跨境鎮壓具司法證據不容否認",
+      "summary": "國臺辦否認跨境鎮壓指控，陸委會副主委梁文傑駁斥，指出矢板明夫遭攻擊案及假車禍案，經檢方調查均有境外資金指使與組織分工，司法證據明確，非國臺辦單方面否認即可掩蓋。",
       "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3270556",
-      "image_url": "https://cdn2.ettoday.net/images/9011/e9011207.jpg",
-      "published_at": "2026-11-11T23:20:00+08:00",
+      "url": "https://www.ettoday.net/news/20261112/3271135.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8990/e8990577.jpg",
+      "published_at": "2026-11-12T17:10:00+08:00",
       "rank": 2
     },
     {
-      "id": "9aaf470c6ee20600",
-      "category": "design",
-      "title": "黃仁勳婚外情風波延燒 網友製作迷因貼圖與哏圖引熱議",
-      "summary": "輝達執行長黃仁勳婚外情事件引發網路熱議，網友利用iPhone Duo摺疊手機特性製作哏圖，並推出「爸爸與他的好朋友」LINE貼圖，內容暗諷事件細節。此舉雖獲網友稱讚具商業頭腦，亦有人提醒恐有法律風險。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://fashion.ettoday.net/news/3270679",
-      "image_url": "https://cdn2.ettoday.net/images/9011/e9011416.jpg",
-      "published_at": "2026-11-12T09:21:00+08:00",
+      "id": "ed74042acf0de182",
+      "category": "technology",
+      "title": "微軟365全球大當機 初步排除駭客攻擊指向伺服器壓力",
+      "summary": "微軟365服務於13日凌晨發生全球性當機，影響Outlook與Teams等服務。微軟初步調查排除駭客攻擊，指出問題源於部分伺服器未透過健康檢查，導致系統負載過大。",
+      "source": "聯合新聞網",
+      "url": "https://tech.udn.com/tech/story/123154/9876012",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35513472.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&sl=W&fw=800&exp=3600",
+      "published_at": "2026-11-13T09:22:41+08:00",
       "rank": 1
     },
     {
-      "id": "df864252738cea84",
+      "id": "b024c606dc601e01",
+      "category": "technology",
+      "title": "黃樂相關企業投資DeepSeek 傳承諾供應輝達先進晶片",
+      "summary": "報導指出，與黃仁勳婚外情物件黃樂相關的企業，參與了中國AI新創DeepSeek的融資，並傳出承諾供應受出口管制的輝達Blackwell晶片，引發美方對晶片走私的調查。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261113/3271346.htm",
+      "image_url": "https://cdn2.ettoday.net/images/9007/e9007002.jpg",
+      "published_at": "2026-11-13T07:54:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "053d182a8ced4bf4",
       "category": "design",
-      "title": "日本企業退休金制度改革 轉向能力與職位導向設計",
-      "summary": "日本大企業終身僱用制度瓦解，退休金制度設計出現變革。三井住友信託銀行改按能力與職位決定給付，王子控股則取消新進員工一次性退休金，轉而提高月薪。此舉反映企業在搶才與留才策略上的設計轉向。",
-      "source": "聯合新聞網",
-      "url": "https://vip.udn.com/vip/story/121937/9869847",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=/photo/t3/2026/11/10/35504282.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=1280",
-      "published_at": "2026-11-12T08:00:00+08:00",
+      "title": "肥胖診斷新框架 結合腰圍與器官功能評估健康風險",
+      "summary": "最新研究指出，BMI無法單獨判定肥胖風險。建議結合腰圍、腰高比及器官功能評估，將肥胖分為臨床前與臨床肥胖，後者死亡風險高出69%，強調及早醫療介入的重要性。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3271339",
+      "image_url": "https://cdn2.ettoday.net/images/9012/e9012859.jpg",
+      "published_at": "2026-11-13T07:20:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "0341053b16c4d4a5",
+      "category": "design",
+      "title": "福特新年式Territory預告上市 匯入紅色新車色與升級配備",
+      "summary": "福特六和預告新年式Territory將於11月19日上市，新增搶眼紅色烤漆與雙色車頂設計。預計內裝配備將升級，並維持1.5升汽油與渦輪油電兩種動力配置。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://speed.ettoday.net/news/3271401",
+      "image_url": "https://cdn2.ettoday.net/images/9012/e9012914.png",
+      "published_at": "2026-11-13T09:39:00+08:00",
       "rank": 2
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 9
+      "verified_candidates": 10
     },
     {
       "source": "聯合新聞網",
-      "verified_candidates": 13
+      "verified_candidates": 10
     },
     {
       "source": "ETtoday 新聞雲",
@@ -196,7 +196,7 @@
     },
     {
       "source": "中時新聞網",
-      "verified_candidates": 10
+      "verified_candidates": 8
     },
     {
       "source": "CNN",
@@ -204,7 +204,7 @@
     },
     {
       "source": "CNBC",
-      "verified_candidates": 8
+      "verified_candidates": 11
     }
   ]
 }
