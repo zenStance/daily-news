@@ -1,202 +1,191 @@
 {
-  "edition": "2026-11-15",
-  "updated_at": "2026-11-15T08:52:07.947862+08:00",
-  "window_start": "2026-11-14T08:51:44.392669+08:00",
-  "window_end": "2026-11-15T08:51:44.392669+08:00",
+  "edition": "2026-11-16",
+  "updated_at": "2026-11-16T08:51:19.377472+08:00",
+  "window_start": "2026-11-15T08:50:59.119478+08:00",
+  "window_end": "2026-11-16T08:50:59.119478+08:00",
   "articles": [
     {
-      "id": "067510e3d247034f",
+      "id": "2320cfb6ac4c52f2",
       "category": "international",
-      "title": "SpaceX星艦首度以機械手臂成功回收，標誌可重複使用火箭技術重大突破",
-      "summary": "SpaceX星艦太空船於德州時間14日完成軌道飛行後，首度由發射臺的機械「筷子臂」精準捕捉回收。此舉標誌著SpaceX在開發完全可重複使用軌道級火箭邁出關鍵一步，馬斯克表示這將能大幅降低太空任務成本。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261115000818-260408?ctrack=pc_main_alert_p01",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-15/656/20261115000822.jpg",
-      "published_at": "2026-11-15T08:37:52+08:00",
+      "title": "美與多國簽署舊金山宣言 聯手強化AI供應鏈防堵中國",
+      "summary": "美國與日本、英國、以色列等盟友簽署「舊金山永續繁榮安全基礎宣言」，將AI關鍵技術與供應鏈安全視為共同責任，旨在因應中國在AI領域的競爭與經濟脅迫，並強化供應鏈韌性。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B%E5%8F%8A%E7%9B%9F%E5%8F%8B%E7%B0%BD%E7%BD%B2%E8%88%8A%E9%87%91%E5%B1%B1%E5%AE%A3%E8%A8%80-%E8%81%AF%E6%89%8B%E5%BC%B7%E5%8C%96ai%E4%BE%9B%E6%87%89%E9%8F%88%E9%98%B2%E5%A0%B5%E4%B8%AD%E5%9C%8B-002730796.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/150afeec82b96c8edfb05d7e98a23e7e5f1e6917dc328e2c1a7c8ecc4d4736fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
+      "published_at": "2026-11-16T08:27:30+08:00",
       "rank": 1
     },
     {
-      "id": "d879df1ad1a59900",
+      "id": "e0af92e1222c1a5a",
       "category": "international",
-      "title": "美方首度丟擲烏克蘭撤出頓巴斯換取北約資格構想，澤倫斯基回應願交付公投",
-      "summary": "烏克蘭總統澤倫斯基透露，美國談判代表首度提出以烏軍撤出頓巴斯地區換取北約成員國資格的構想。澤倫斯基表示若美方提供具體安全保障與重建資金，願將此提案交付全民公投，但美方尚未證實此提議。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6809/9879437",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/15/35518967.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-11-15T08:48:26+08:00",
-      "rank": 2
-    },
-    {
-      "id": "85164ea5743eeda6",
-      "category": "taiwan",
-      "title": "蔣萬安饒河夜市用餐遭指白吃，自治會長出面澄清並還原結帳經過",
-      "summary": "臺北市長蔣萬安日前赴饒河夜市用餐，遭議員許淑華指控未付錢。對此，夜市自治會長郭洪金鳳與委員出面澄清，表示店家原想請客，後續已安排結帳，並批評許淑華隨意亂說，呼籲勿讓店家受選舉攻防幹擾。",
+      "title": "立陶宛外長揭與陸代表團談判內幕 未證實改名臺灣代表處",
+      "summary": "立陶宛外長佈德里斯證實與中國代表團會晤，討論雙邊關係正常化。針對是否以「更名臺灣代表處」作為恢復關係前提，佈德里斯表示雙方探討多種方案，目前政府尚未做出任何決定。",
       "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261114003381-260407?ctrack=pc_main_alert_p02",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-14/656/20261114003383.jpg",
-      "published_at": "2026-11-14T23:39:47+08:00",
-      "rank": 1
+      "url": "https://www.chinatimes.com/realtimenews/20261116000039-260408?ctrack=pc_main_recmd_p09",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-15/656/20261115002815.jpg",
+      "published_at": "2026-11-16T08:30:45+08:00",
+      "rank": 2
     },
     {
-      "id": "881a252c898df58b",
+      "id": "6a883d77e05ea2f0",
       "category": "taiwan",
-      "title": "高雄區漁會千人辦桌遇大雷雨，現場未搭棚導致活動泡湯取消",
-      "summary": "高雄區漁會於時代大道舉辦千人海鮮辦桌活動，因現場未搭設遮雨棚，傍晚突遇大雷雨導致菜色無法上桌，活動被迫取消。漁會表示將辦理全額退費，並對造成民眾困擾致歉。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7327/9879016",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/14/35518375.jpg&M=1&s=Y&x=85&y=0&sw=1080&sh=720&exp=3600",
-      "published_at": "2026-11-14T19:52:48+08:00",
-      "rank": 2
-    },
-    {
-      "id": "ba4995c85b8efa42",
-      "category": "us",
-      "title": "美國航空系統大規模停飛，疑因承包商升級通訊系統路由器故障所致",
-      "summary": "美國航空系統13日發生近5小時全國大癱瘓，影響逾2萬架次航班。運輸部長達菲指出，承包商L3Harris在升級通訊系統時，新安裝的路由器出現異常連線請求，導致管制中心通訊超載，目前系統已逐步恢復。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6813/9879419",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/15/35518935.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-11-15T08:18:57+08:00",
-      "rank": 1
-    },
-    {
-      "id": "1510924fa9341e0b",
-      "category": "us",
-      "title": "美國麻疹疫情惡化，確診數創數十年新高並失去清零地位",
-      "summary": "美國麻疹疫情急遽升溫，2026年確診病例已逾5400例，並出現死亡案例，導致美國失去維持25年的麻疹清零地位。專家指出疫苗接種率下降是主因，公共衛生體系正面臨嚴峻挑戰。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261115/3272397.htm",
-      "image_url": "https://cdn2.ettoday.net/images/9016/e9016028.jpg",
-      "published_at": "2026-11-15T07:30:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "735726f68056eea2",
-      "category": "stocks",
-      "title": "AI需求強勁帶動，應用材料第四季營收創歷史新高",
-      "summary": "半導體裝置大廠應用材料公佈2026會計年度第四季財報，受惠AI帶動先進晶片與封裝裝置需求，單季營收達104.1億美元，年增53%創歷史新高。公司預估下季營收將進一步增至111億美元。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3272378",
-      "image_url": "https://cdn2.ettoday.net/images/7026/e7026571.jpg",
-      "published_at": "2026-11-15T06:36:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "630164a8ab6c9963",
-      "category": "stocks",
-      "title": "高科技廠搶貸資金需求旺，銀行房貸資金遭排擠且利率攀升",
-      "summary": "受AI發展趨勢帶動，高科技大廠大舉向銀行籌措購料資金，排擠民眾房貸額度。國銀主管指出，房貸利率已普遍升至3%以上，且撥款排隊時間延長，銀行流動性壓力亦隨之增加。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7239/9879247",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/14/35518688.jpg&M=1&s=Y&x=0&y=0&sw=1093&sh=728&exp=3600",
-      "published_at": "2026-11-15T00:00:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "5183935ae5603a7e",
-      "category": "finance",
-      "title": "黃仁勳辭任輝達執行長，新任領導層面臨技術決策與供應鏈管理考驗",
-      "summary": "輝達創辦人黃仁勳辭去執行長職務，由財務長克瑞斯暫代。外界關注輝達在失去長期核心決策者後，新任領導層將面臨技術決策、巨額投資及供應鏈管理等三大考驗，臺灣供應鏈後續影響亦備受市場關注。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261114/3272294.htm",
-      "image_url": "https://cdn2.ettoday.net/images/9012/e9012902.jpg",
-      "published_at": "2026-11-14T18:39:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "375504f7a06a8d1f",
-      "category": "finance",
-      "title": "塞港與減班導致船期混亂，SCFI運價指數準確性受業界質疑",
-      "summary": "業界指出，受塞港與船公司調控運價影響，船期混亂導致上海航運交易所貨櫃運價指數（SCFI）準確性降低。雖然SCFI仍具參考價值，但業者認為其難以作為預測未來運費走向的領先指標。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3272139",
-      "image_url": "https://cdn2.ettoday.net/images/7873/e7873679.jpg",
-      "published_at": "2026-11-14T14:18:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "80e16a9907938199",
-      "category": "china",
-      "title": "共軍四川艦完成無人機彈射測試，具備電磁彈射能力的兩棲攻擊艦",
-      "summary": "共軍076型兩棲攻擊艦首艦「四川艦」完成艦載隱身無人機「攻擊-21」的彈射起飛與攔阻著艦測試。該艦為全球首艘配備電磁彈射裝置的兩棲攻擊艦，標誌共軍具備固定翼隱身無人機在大型海上平臺起降能力。",
+      "title": "新北市長封關民調：李四川37%支援度小幅領先蘇巧慧",
+      "summary": "中國時報新北市長封關民調顯示，國民黨李四川以37%支援度領先民進黨蘇巧慧的33.4%，差距在誤差範圍內。選情呈現膠著，兩位候選人支持者的投票率將成為勝負關鍵。",
       "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261115000033-260409?ctrack=pc_main_recmd_p16",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-14/656/20261114003151.jpg",
-      "published_at": "2026-11-15T07:45:57+08:00",
+      "url": "https://www.chinatimes.com/realtimenews/20261115002960-260407?ctrack=pc_main_alert_p02",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-15/656/20261115002962.jpg",
+      "published_at": "2026-11-15T23:37:43+08:00",
       "rank": 1
     },
     {
-      "id": "a5d0b73be16f1506",
-      "category": "china",
-      "title": "中國東北多地遭濃霧籠罩，能見度不足引發交通管制與航班取消",
-      "summary": "中國東北地區自13日起遭濃霧籠罩，哈爾濱、長春等地能見度極低，宛如末日場景。氣象部門發布大霧橙色預警，導致多處高速公路收費站關閉及航班取消，影響民眾出行。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261114/3272088.htm",
-      "image_url": "https://cdn2.ettoday.net/images/9015/e9015159.jpg",
-      "published_at": "2026-11-14T13:33:00+08:00",
+      "id": "4cf1095d07a0814a",
+      "category": "taiwan",
+      "title": "沈伯洋遭影射上摩鐵案 女網友遭搜尋約談坦承造假",
+      "summary": "民進黨臺北市長候選人沈伯洋遭黃姓女網友影射曾與女性前往汽車旅館，沈團隊提告後，調查局搜尋黃女住處，黃女坦承貼文內容造假，訊後移送臺北地檢署複訊。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261116000871-260402?ctrack=pc_main_alert_p03",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-16/656/20261116000874.jpg",
+      "published_at": "2026-11-16T07:44:04+08:00",
       "rank": 2
     },
     {
-      "id": "2047c4ed85c197a4",
-      "category": "technology",
-      "title": "40歲設計師自學AI短劇製作，低成本作品爆紅獲利數十萬",
-      "summary": "四川一名40歲前3D設計師離職後自學AI短劇製作，僅花費4000元人民幣製作的短劇在平臺上爆紅，累積數億播放量並帶來約30萬元臺幣收入，展現AI工具在內容創作領域的潛力。",
+      "id": "6124f70365a76b49",
+      "category": "us",
+      "title": "防範輝達共諜案重演 美國會擬將晶片禁令納入國防授權法",
+      "summary": "輝達前執行長黃仁勳因婚外情及共諜疑雲辭職，促使美國國會加速推動4項法案，擬將晶片出口管制納入年度《國防授權法案》，以防堵中國透過海外雲端服務取得先進AI晶片。",
       "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261114/3272030.htm",
-      "image_url": "https://cdn2.ettoday.net/images/9015/e9015038.png",
-      "published_at": "2026-11-14T11:22:00+08:00",
+      "url": "https://www.ettoday.net/news/20261116/3272760.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8970/e8970835.jpg",
+      "published_at": "2026-11-16T08:17:00+08:00",
       "rank": 1
     },
     {
-      "id": "648dfae788a1f716",
-      "category": "technology",
-      "title": "筆電遭螞蟻入侵引發網友熱議，專家建議斷電並尋求專業清潔",
-      "summary": "網友筆電遭大量螞蟻入侵求救，引發熱風驅趕或送修等討論。電腦大廠官方提醒，發現螞蟻入侵應立即斷電，避免噴灑殺蟲劑造成電路短路，建議送交專業維修中心拆機清潔，以免損壞電子零件。",
+      "id": "b020bce244c0ddf9",
+      "category": "us",
+      "title": "美國FAA系統癱瘓引發航班大亂 川普抨擊拜登政府管理不當",
+      "summary": "美國聯邦航空總署（FAA）日前發生全國性系統故障，導致航班大亂。川普公開抨擊拜登政府管理不當，導致航空系統老舊且更加惡化，並呼籲國會儘速撥款進行現代化升級。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108545248-1794226594022-108545248-1794152106604-gettyimages-2302269863-AFP_D4YU993.jpg?v=1794226610&w=1920&h=1080",
+      "published_at": "2026-11-16T00:56:40+08:00",
+      "rank": 2
+    },
+    {
+      "id": "895ae9bcc3bc4d3d",
+      "category": "stocks",
+      "title": "美國10月進口貨櫃中國佔比近37% 洗產地貨載多已回籠",
+      "summary": "根據全球海運報告，美國10月進口貨櫃中，來自中國的佔比達36.93%。攬貨業者指出，過去因關稅問題轉往東南亞的貨載，目前多數已迴流中國，顯示供應鏈佈局出現變化。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3272737",
+      "image_url": "https://cdn2.ettoday.net/images/7901/e7901209.jpg",
+      "published_at": "2026-11-16T07:00:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "346eacd222047da7",
+      "category": "stocks",
+      "title": "輝達親兒子CoreWeave擬籌資40億美元 擴大AI基礎建設",
+      "summary": "AI雲端業者CoreWeave計畫透過投資級貸款籌資至少40億美元。儘管市場對AI基礎建設投資回報存疑，該公司仍持續透過晶片與合約擔保，為業務擴張尋求資金。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3272620",
+      "image_url": "https://cdn2.ettoday.net/images/9016/e9016531.png",
+      "published_at": "2026-11-15T16:51:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "a46b776783bfc1ad",
+      "category": "finance",
+      "title": "人民幣連14漲過熱 中國央行調升外匯存準率降溫",
+      "summary": "為抑制人民幣過快升值，中國人民銀行宣佈將外匯存款準備金率由4%調升至6%，預計凍結約240億美元流動性，旨在引導市場預期並防止匯率非理性超調。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261115/3272655.htm",
+      "image_url": "https://cdn2.ettoday.net/images/6221/e6221014.jpg",
+      "published_at": "2026-11-15T18:00:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "b2d2bde053bd7872",
+      "category": "finance",
+      "title": "央行12月理監事會將召開 不排除預防性升息",
+      "summary": "央行將於12月召開理監事會，理事張建一指出，考量美國利率走勢、外資流向及油電價格變數，央行不排除採取預防性升息，但升息幅度預期有限。",
       "source": "聯合新聞網",
-      "url": "https://tech.udn.com/tech/story/123152/9859355",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/05/35488691.jpg&M=1&wm=5_ai_wm1.png&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=800&exp=3600",
-      "published_at": "2026-11-15T08:30:00+08:00",
+      "url": "https://udn.com/news/story/7238/9880553",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34886340.jpg&M=1&s=Y&x=68&y=45&sw=1212&sh=808&exp=3600",
+      "published_at": "2026-11-16T03:06:02+08:00",
       "rank": 2
     },
     {
-      "id": "d5e27410d10a40a6",
-      "category": "design",
-      "title": "《上古卷軸5》星空技能樹設計幕後，主創坦言曾質疑最終大獲好評",
-      "summary": "《上古卷軸5》設計師Bruce Nesmith透露，開發初期曾強烈質疑總監Todd Howard提出的「星座」技能樹視覺構想，認為不實用。然而遊戲上市後該設計大獲好評，成為經典美學，讓他坦言自己當時判斷錯誤。",
+      "id": "e43ca0003e406180",
+      "category": "china",
+      "title": "崔天凱澄清「一勞永逸」說法 指統一後仍有挑戰",
+      "summary": "前駐美大使崔天凱澄清先前關於臺灣問題「一勞永逸」的發言，強調其意指統一後臺灣問題將徹底解決，但並不代表統一後便太平無事，歷史程序仍具挑戰性。",
       "source": "ETtoday 新聞雲",
-      "url": "https://game.ettoday.net/article/3270284.htm",
-      "image_url": "https://cdn2.ettoday.net/images/9010/e9010460.jpg",
-      "published_at": "2026-11-15T01:41:00+08:00",
+      "url": "https://www.ettoday.net/news/20261115/3272592.htm",
+      "image_url": "https://cdn2.ettoday.net/images/7310/e7310588.jpg",
+      "published_at": "2026-11-15T15:32:00+08:00",
       "rank": 1
     },
     {
-      "id": "ca436fd0e76e6e03",
-      "category": "design",
-      "title": "美國名媛珍藏愛馬仕夢幻包將拍賣，鱷魚背脊皮革設計極具立體感",
-      "summary": "美國名媛Susan Casden委託香港佳士得拍賣兩款愛馬仕夢幻逸品，其中「霧面棕色尼羅鱷魚背脊皮革凱莉包」保留背部突起鱗甲，具立體雕塑感，全球僅製作兩件，估價約755萬元起，展現極致工藝設計。",
+      "id": "4d1e473fb468021f",
+      "category": "china",
+      "title": "俄羅斯證實美中俄峰會19日深圳登場 中方尚未正式宣佈",
+      "summary": "俄羅斯證實普丁、習近平與川普將於19日在深圳APEC峰會期間舉行三方會談。目前美俄雙方已確認，中國外交部對此則保持保守態度，尚未正式對外證實。",
       "source": "ETtoday 新聞雲",
-      "url": "https://fashion.ettoday.net/news/3272123",
-      "image_url": "https://cdn2.ettoday.net/images/9015/e9015209.jpg",
-      "published_at": "2026-11-14T23:00:00+08:00",
+      "url": "https://www.ettoday.net/news/20261115/3272511.htm",
+      "image_url": "https://cdn2.ettoday.net/images/7727/e7727789.jpg",
+      "published_at": "2026-11-15T12:07:00+08:00",
       "rank": 2
+    },
+    {
+      "id": "228e52d609384ca8",
+      "category": "technology",
+      "title": "臺積電技術領先難超越 日本Rapidus 2奈米晶圓量產遇阻",
+      "summary": "日本Rapidus試圖以低價生產2奈米晶圓挑戰臺積電，但外媒指出其短期難構成威脅。Rapidus目前尚未產出功能齊全的記憶體單元，且臺積電已在先進製程取得實際營收與市佔優勢。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261116/3272756.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8500/e8500027.jpg",
+      "published_at": "2026-11-16T07:28:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "60c9f1bc4af4ddcf",
+      "category": "technology",
+      "title": "SK海力士攜手韓政府 啟用半導體測試廠助攻供應商",
+      "summary": "SK海力士計畫與韓國政府合作，於龍仁產業園區啟用「Trinity Fab」測試設施，提供中小型供應商進行效能與良率驗證，以解決國內半導體供應鏈長期存在的測試瓶頸。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/6811/9880856",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/16/35521044.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+      "published_at": "2026-11-16T08:43:12+08:00",
+      "rank": 2
+    },
+    {
+      "id": "f27db6143c09157e",
+      "category": "design",
+      "title": "大葉大學帶領國際學生體驗在地文化 製作晶石香氛擴香杯墊",
+      "summary": "大葉大學華語教學中心舉辦文化體驗活動，由藥保系老師帶領國際學生認識臺灣特色植物香氣，並透過手作晶石香氛擴香杯墊，讓學生在語言學習之餘，深入探索臺灣在地美學。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/%E5%A4%A7%E8%91%89%E5%A4%A7%E5%AD%B8%E5%B8%B6%E5%9C%8B%E9%9A%9B%E5%AD%B8%E7%94%9F-%E9%81%87%E8%A6%8B%E8%87%BA%E7%81%A3%E9%A6%99-%E6%99%B6%E7%9F%B3%E9%A6%99%E6%B0%9B%E6%93%B4%E9%A6%99%E6%9D%AF%E5%A2%8Adiy%E9%AB%94%E9%A9%97%E5%9C%A8%E5%9C%B0%E6%96%87%E5%8C%96-002709313.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/4bcb1f7b1ae41f72fa67c0ab190042c6c0fba90d50589f116612fadea9e400ac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fhoomedia_675%2Fe7d2eaaf5653e6f6ed20ae190d309b8b.jpg",
+      "published_at": "2026-11-16T08:27:09+08:00",
+      "rank": 1
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 7
+      "verified_candidates": 9
     },
     {
       "source": "聯合新聞網",
-      "verified_candidates": 12
+      "verified_candidates": 13
     },
     {
       "source": "ETtoday 新聞雲",
-      "verified_candidates": 22
+      "verified_candidates": 17
     },
     {
       "source": "中時新聞網",
-      "verified_candidates": 10
+      "verified_candidates": 7
     },
     {
       "source": "CNN",
@@ -204,7 +193,7 @@
     },
     {
       "source": "CNBC",
-      "verified_candidates": 6
+      "verified_candidates": 5
     }
   ]
 }
