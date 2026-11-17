@@ -1,183 +1,150 @@
 {
-  "edition": "2026-11-16",
-  "updated_at": "2026-11-16T08:51:19.377472+08:00",
-  "window_start": "2026-11-15T08:50:59.119478+08:00",
-  "window_end": "2026-11-16T08:50:59.119478+08:00",
+  "edition": "2026-11-17",
+  "updated_at": "2026-11-17T11:29:33.670204+08:00",
+  "window_start": "2026-11-16T11:29:16.590529+08:00",
+  "window_end": "2026-11-17T11:29:16.590529+08:00",
   "articles": [
     {
-      "id": "2320cfb6ac4c52f2",
+      "id": "10cb7647c8dd92ea",
       "category": "international",
-      "title": "美與多國簽署舊金山宣言 聯手強化AI供應鏈防堵中國",
-      "summary": "美國與日本、英國、以色列等盟友簽署「舊金山永續繁榮安全基礎宣言」，將AI關鍵技術與供應鏈安全視為共同責任，旨在因應中國在AI領域的競爭與經濟脅迫，並強化供應鏈韌性。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B%E5%8F%8A%E7%9B%9F%E5%8F%8B%E7%B0%BD%E7%BD%B2%E8%88%8A%E9%87%91%E5%B1%B1%E5%AE%A3%E8%A8%80-%E8%81%AF%E6%89%8B%E5%BC%B7%E5%8C%96ai%E4%BE%9B%E6%87%89%E9%8F%88%E9%98%B2%E5%A0%B5%E4%B8%AD%E5%9C%8B-002730796.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/150afeec82b96c8edfb05d7e98a23e7e5f1e6917dc328e2c1a7c8ecc4d4736fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
-      "published_at": "2026-11-16T08:27:30+08:00",
+      "title": "俄軍機侵犯日本領空並飛越臺灣東側海域，南韓防空識別區亦遭闖入",
+      "summary": "日本防衛省指控2架俄羅斯軍機於17日清晨侵犯福岡縣領空，並飛越臺灣東側海域，日方已提出強烈抗議。同日凌晨，數架俄軍機亦闖入南韓防空識別區，兩國均緊急出動戰機因應。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261117001863-260408?ctrack=pc_main_alert_p01",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-17/656/20261117001874.jpg",
+      "published_at": "2026-11-17T10:32:46+08:00",
       "rank": 1
     },
     {
-      "id": "e0af92e1222c1a5a",
+      "id": "efdb4b0121cb8dae",
       "category": "international",
-      "title": "立陶宛外長揭與陸代表團談判內幕 未證實改名臺灣代表處",
-      "summary": "立陶宛外長佈德里斯證實與中國代表團會晤，討論雙邊關係正常化。針對是否以「更名臺灣代表處」作為恢復關係前提，佈德里斯表示雙方探討多種方案，目前政府尚未做出任何決定。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261116000039-260408?ctrack=pc_main_recmd_p09",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-15/656/20261115002815.jpg",
-      "published_at": "2026-11-16T08:30:45+08:00",
-      "rank": 2
-    },
-    {
-      "id": "6a883d77e05ea2f0",
-      "category": "taiwan",
-      "title": "新北市長封關民調：李四川37%支援度小幅領先蘇巧慧",
-      "summary": "中國時報新北市長封關民調顯示，國民黨李四川以37%支援度領先民進黨蘇巧慧的33.4%，差距在誤差範圍內。選情呈現膠著，兩位候選人支持者的投票率將成為勝負關鍵。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261115002960-260407?ctrack=pc_main_alert_p02",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-15/656/20261115002962.jpg",
-      "published_at": "2026-11-15T23:37:43+08:00",
-      "rank": 1
-    },
-    {
-      "id": "4cf1095d07a0814a",
-      "category": "taiwan",
-      "title": "沈伯洋遭影射上摩鐵案 女網友遭搜尋約談坦承造假",
-      "summary": "民進黨臺北市長候選人沈伯洋遭黃姓女網友影射曾與女性前往汽車旅館，沈團隊提告後，調查局搜尋黃女住處，黃女坦承貼文內容造假，訊後移送臺北地檢署複訊。",
-      "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261116000871-260402?ctrack=pc_main_alert_p03",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-16/656/20261116000874.jpg",
-      "published_at": "2026-11-16T07:44:04+08:00",
-      "rank": 2
-    },
-    {
-      "id": "6124f70365a76b49",
-      "category": "us",
-      "title": "防範輝達共諜案重演 美國會擬將晶片禁令納入國防授權法",
-      "summary": "輝達前執行長黃仁勳因婚外情及共諜疑雲辭職，促使美國國會加速推動4項法案，擬將晶片出口管制納入年度《國防授權法案》，以防堵中國透過海外雲端服務取得先進AI晶片。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261116/3272760.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8970/e8970835.jpg",
-      "published_at": "2026-11-16T08:17:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "b020bce244c0ddf9",
-      "category": "us",
-      "title": "美國FAA系統癱瘓引發航班大亂 川普抨擊拜登政府管理不當",
-      "summary": "美國聯邦航空總署（FAA）日前發生全國性系統故障，導致航班大亂。川普公開抨擊拜登政府管理不當，導致航空系統老舊且更加惡化，並呼籲國會儘速撥款進行現代化升級。",
+      "title": "APEC深圳峰會登場，習近平、川普與普丁將舉行歷史性三方會談",
+      "summary": "APEC峰會於深圳舉行，中國確認習近平將與美國總統川普、俄羅斯總統普丁進行首次三方會談。議程預計聚焦核武裁減與中東局勢，但各方對烏克蘭議題的討論空間仍存在分歧。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108545248-1794226594022-108545248-1794152106604-gettyimages-2302269863-AFP_D4YU993.jpg?v=1794226610&w=1920&h=1080",
-      "published_at": "2026-11-16T00:56:40+08:00",
+      "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108551686-1794792619751-gettyimages-2304231619-AFP_D79R6QM.jpeg?v=1794844055&w=1920&h=1080",
+      "published_at": "2026-11-16T12:34:00+08:00",
       "rank": 2
     },
     {
-      "id": "895ae9bcc3bc4d3d",
-      "category": "stocks",
-      "title": "美國10月進口貨櫃中國佔比近37% 洗產地貨載多已回籠",
-      "summary": "根據全球海運報告，美國10月進口貨櫃中，來自中國的佔比達36.93%。攬貨業者指出，過去因關稅問題轉往東南亞的貨載，目前多數已迴流中國，顯示供應鏈佈局出現變化。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3272737",
-      "image_url": "https://cdn2.ettoday.net/images/7901/e7901209.jpg",
-      "published_at": "2026-11-16T07:00:00+08:00",
+      "id": "7282124fc0ba0350",
+      "category": "taiwan",
+      "title": "經濟部連三年發函盤點翡翠水庫光電潛力，引發地方與中央爭議",
+      "summary": "經濟部遭質疑連續三年發函要求臺北市盤點翡翠水庫設定光電潛力，引發輿論熱議。經濟部澄清僅為配合能源政策進行潛力調查，並無強制推動，且專業評估後認定該水庫不具設定效益。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261117001414-260405?ctrack=pc_main_life_p02",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-17/656/B03A00_P_03_02.jpg",
+      "published_at": "2026-11-17T09:19:02+08:00",
       "rank": 1
     },
     {
-      "id": "346eacd222047da7",
-      "category": "stocks",
-      "title": "輝達親兒子CoreWeave擬籌資40億美元 擴大AI基礎建設",
-      "summary": "AI雲端業者CoreWeave計畫透過投資級貸款籌資至少40億美元。儘管市場對AI基礎建設投資回報存疑，該公司仍持續透過晶片與合約擔保，為業務擴張尋求資金。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3272620",
-      "image_url": "https://cdn2.ettoday.net/images/9016/e9016531.png",
-      "published_at": "2026-11-15T16:51:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "a46b776783bfc1ad",
-      "category": "finance",
-      "title": "人民幣連14漲過熱 中國央行調升外匯存準率降溫",
-      "summary": "為抑制人民幣過快升值，中國人民銀行宣佈將外匯存款準備金率由4%調升至6%，預計凍結約240億美元流動性，旨在引導市場預期並防止匯率非理性超調。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261115/3272655.htm",
-      "image_url": "https://cdn2.ettoday.net/images/6221/e6221014.jpg",
-      "published_at": "2026-11-15T18:00:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "b2d2bde053bd7872",
-      "category": "finance",
-      "title": "央行12月理監事會將召開 不排除預防性升息",
-      "summary": "央行將於12月召開理監事會，理事張建一指出，考量美國利率走勢、外資流向及油電價格變數，央行不排除採取預防性升息，但升息幅度預期有限。",
+      "id": "f82cb7b0e372d994",
+      "category": "us",
+      "title": "輝達執行長黃仁勳辭職後首場財報說明會，市場聚焦接班與營運展望",
+      "summary": "輝達將於18日清晨公佈財報，這是黃仁勳辭職後首次對外說明。市場關注焦點包括資料中心營收是否突破千億美元、新領導團隊的策略調整，以及對AI供應鏈與融資策略的未來規劃。",
       "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7238/9880553",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34886340.jpg&M=1&s=Y&x=68&y=45&sw=1212&sh=808&exp=3600",
-      "published_at": "2026-11-16T03:06:02+08:00",
-      "rank": 2
-    },
-    {
-      "id": "e43ca0003e406180",
-      "category": "china",
-      "title": "崔天凱澄清「一勞永逸」說法 指統一後仍有挑戰",
-      "summary": "前駐美大使崔天凱澄清先前關於臺灣問題「一勞永逸」的發言，強調其意指統一後臺灣問題將徹底解決，但並不代表統一後便太平無事，歷史程序仍具挑戰性。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261115/3272592.htm",
-      "image_url": "https://cdn2.ettoday.net/images/7310/e7310588.jpg",
-      "published_at": "2026-11-15T15:32:00+08:00",
+      "url": "https://udn.com/news/story/7269/9883487",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/17/35524896.jpg&M=1&s=Y&x=118&y=237&sw=1083&sh=723&exp=3600",
+      "published_at": "2026-11-17T11:16:06+08:00",
       "rank": 1
     },
     {
-      "id": "4d1e473fb468021f",
-      "category": "china",
-      "title": "俄羅斯證實美中俄峰會19日深圳登場 中方尚未正式宣佈",
-      "summary": "俄羅斯證實普丁、習近平與川普將於19日在深圳APEC峰會期間舉行三方會談。目前美俄雙方已確認，中國外交部對此則保持保守態度，尚未正式對外證實。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261115/3272511.htm",
-      "image_url": "https://cdn2.ettoday.net/images/7727/e7727789.jpg",
-      "published_at": "2026-11-15T12:07:00+08:00",
+      "id": "a07ccfa6ea061cc6",
+      "category": "us",
+      "title": "黃仁勳辭職牽動共和黨權力佈局，分析指恐成2028年接班測試",
+      "summary": "分析指出，黃仁勳辭職不僅是企業風波，更涉及美國共和黨內部對中科技政策的角力。國務卿盧比歐代表的國安派影響力上升，黃仁勳事件可能成為共和黨內2028年總統接班競爭的政治測試。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261117000982-260407?ctrack=pc_main_politic_p05",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-16/656/20261116000861.jpg",
+      "published_at": "2026-11-17T07:17:44+08:00",
       "rank": 2
     },
     {
-      "id": "228e52d609384ca8",
-      "category": "technology",
-      "title": "臺積電技術領先難超越 日本Rapidus 2奈米晶圓量產遇阻",
-      "summary": "日本Rapidus試圖以低價生產2奈米晶圓挑戰臺積電，但外媒指出其短期難構成威脅。Rapidus目前尚未產出功能齊全的記憶體單元，且臺積電已在先進製程取得實際營收與市佔優勢。",
+      "id": "a2a71ecf807df885",
+      "category": "stocks",
+      "title": "臺股AI高價股賣壓沉重，股王信驊失守萬元大關",
+      "summary": "受AI族群賣壓影響，臺股股王信驊盤中一度跌停並失守萬元大關，臺股「萬金股」正式歸零。外資調降評價與市場對資料中心建設進度疑慮，加劇了高價AI股的評價修正壓力。",
       "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261116/3272756.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8500/e8500027.jpg",
-      "published_at": "2026-11-16T07:28:00+08:00",
+      "url": "https://finance.ettoday.net/news/3273448",
+      "image_url": "https://cdn2.ettoday.net/images/7041/e7041567.jpg",
+      "published_at": "2026-11-17T10:05:00+08:00",
       "rank": 1
     },
     {
-      "id": "60c9f1bc4af4ddcf",
-      "category": "technology",
-      "title": "SK海力士攜手韓政府 啟用半導體測試廠助攻供應商",
-      "summary": "SK海力士計畫與韓國政府合作，於龍仁產業園區啟用「Trinity Fab」測試設施，提供中小型供應商進行效能與良率驗證，以解決國內半導體供應鏈長期存在的測試瓶頸。",
+      "id": "b438d8f6726a311e",
+      "category": "stocks",
+      "title": "SK海力士韓國設測試廠，臺股封測與裝置族群遭殺盤",
+      "summary": "SK海力士宣佈在韓國設定半導體驗證廠，市場擔憂韓國加速供應鏈國產化，衝擊臺灣相關業者。日月光投控等12檔封測與測試介面個股收跌停，反映市場對供應鏈競爭的擔憂。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3273068",
+      "image_url": "https://cdn2.ettoday.net/images/4675/e4675592.jpg",
+      "published_at": "2026-11-16T14:35:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "172bfe52fc839d04",
+      "category": "finance",
+      "title": "金管會約談37家銀行總座，要求強化放款能力並改善資金排程",
+      "summary": "金管會首度逐一約談國銀總經理，要求銀行強化資本與資金排程，不得以流動性覆蓋比率為由，排擠中小微企業及首購房貸等合理融資需求，以因應AI供應鏈擴廠帶來的資金需求。",
       "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6811/9880856",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/16/35521044.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-      "published_at": "2026-11-16T08:43:12+08:00",
+      "url": "https://udn.com/news/story/7239/9882722",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/17/35524099.jpg&M=1&s=Y&x=0&y=0&sw=1252&sh=834&exp=3600",
+      "published_at": "2026-11-17T07:06:57+08:00",
+      "rank": 1
+    },
+    {
+      "id": "29ef160c5b8e8778",
+      "category": "finance",
+      "title": "歐盟對臺灣等五國冷軋扁鋼課徵反傾銷稅，臺灣稅率最高達27%",
+      "summary": "歐盟認定臺灣、日本等五國冷軋扁鋼產品以不公平低價銷售，17日起課徵反傾銷稅。臺灣業者稅率介於20.7%至27%之間，歐盟並首度認定臺灣存在「特殊市場情況」而進行價格調整。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/6811/9883523",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/17/35524958.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-11-17T11:25:07+08:00",
       "rank": 2
     },
     {
-      "id": "f27db6143c09157e",
-      "category": "design",
-      "title": "大葉大學帶領國際學生體驗在地文化 製作晶石香氛擴香杯墊",
-      "summary": "大葉大學華語教學中心舉辦文化體驗活動，由藥保系老師帶領國際學生認識臺灣特色植物香氣，並透過手作晶石香氛擴香杯墊，讓學生在語言學習之餘，深入探索臺灣在地美學。",
+      "id": "2381ed8becdbbc01",
+      "category": "technology",
+      "title": "《GTA 6》中國直播規範外流，禁止偷車與攻擊路人引發熱議",
+      "summary": "外流的《GTA 6》中國直播行為守則顯示，實況主需模糊血腥畫面，且禁止偷車、攻擊路人或警察。儘管遊戲尚未在中國取得發行授權，相關規範已引發玩家對遊戲審查的廣泛討論。",
       "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E5%A4%A7%E8%91%89%E5%A4%A7%E5%AD%B8%E5%B8%B6%E5%9C%8B%E9%9A%9B%E5%AD%B8%E7%94%9F-%E9%81%87%E8%A6%8B%E8%87%BA%E7%81%A3%E9%A6%99-%E6%99%B6%E7%9F%B3%E9%A6%99%E6%B0%9B%E6%93%B4%E9%A6%99%E6%9D%AF%E5%A2%8Adiy%E9%AB%94%E9%A9%97%E5%9C%A8%E5%9C%B0%E6%96%87%E5%8C%96-002709313.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/4bcb1f7b1ae41f72fa67c0ab190042c6c0fba90d50589f116612fadea9e400ac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fhoomedia_675%2Fe7d2eaaf5653e6f6ed20ae190d309b8b.jpg",
-      "published_at": "2026-11-16T08:27:09+08:00",
+      "url": "https://tw.news.yahoo.com/%E4%B8%8D%E5%8F%AF%E5%81%B7%E8%BB%8A-%E8%A5%B2%E6%93%8A%E8%B7%AF%E4%BA%BA%E6%88%96%E8%AD%A6%E5%AF%9F-gta-6-%E4%B8%AD%E5%9C%8B%E6%8A%96%E9%9F%B3%E5%B9%B3%E5%8F%B0%E7%9B%B4%E6%92%AD%E8%A6%8F%E7%AF%84%E5%A4%96%E6%B5%81%E5%BC%95%E7%86%B1%E8%AD%B0-130000828.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/2c5feaf04279c7a6f2ba725ecd437664b50b21fb7e38598260e53b5b60f2b42c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fupmedia.mg.tw%2F79bf2916372b756bba53937e7b6f3d75.jpg",
+      "published_at": "2026-11-16T21:00:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "04d2fc732be72305",
+      "category": "technology",
+      "title": "日本硫磺島南方海底火山持續噴發，官方證實形成新陸地",
+      "summary": "日本海上保安廳證實，硫磺島南方海底火山噴發物已堆積形成長約2公里的新陸地，並與硫磺島相連。專家研判目前為間歇性小規模爆炸，將持續監測並發布航行警報。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E7%A1%AB%E7%A3%BA%E5%B3%B6%E5%8D%97%E6%96%B9%E6%B5%B7%E5%BA%95%E7%81%AB%E5%B1%B1%E5%99%B4%E7%99%BC-%E5%AE%98%E6%96%B9%E8%AD%89%E5%AF%A6-%E5%BD%A2%E6%88%90%E6%96%B0%E9%99%B8%E5%9C%B0-025500871.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/3539e350d8c3bfee931625af09568e202269f021834b29e2f88e518f10af009d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Febc.net.tw%2F75f84b8e3e6a78f626709dec3674d32c.jpg",
+      "published_at": "2026-11-17T10:55:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "fc6ef99e4fd2b47c",
+      "category": "design",
+      "title": "日系選品店FREAK’S STORE插旗南港，12月25日正式開幕",
+      "summary": "日本人氣選品店FREAK’S STORE宣佈進駐LaLaport南港，預計12月25日開幕。新店將延續美式休閒風格，並規劃臺灣限定商品與贈品，持續擴充套件在臺市場版圖。",
+      "source": "聯合新聞網",
+      "url": "https://travel.udn.com/travel/story/7160/9882173",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/16/35523147.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-11-17T11:00:01+08:00",
       "rank": 1
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 9
+      "verified_candidates": 10
     },
     {
       "source": "聯合新聞網",
-      "verified_candidates": 13
+      "verified_candidates": 16
     },
     {
       "source": "ETtoday 新聞雲",
@@ -185,7 +152,7 @@
     },
     {
       "source": "中時新聞網",
-      "verified_candidates": 7
+      "verified_candidates": 6
     },
     {
       "source": "CNN",
@@ -193,7 +160,7 @@
     },
     {
       "source": "CNBC",
-      "verified_candidates": 5
+      "verified_candidates": 10
     }
   ]
 }
