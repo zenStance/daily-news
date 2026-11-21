@@ -1,202 +1,202 @@
 {
-  "edition": "2026-11-20",
-  "updated_at": "2026-11-20T10:06:11.941561+08:00",
-  "window_start": "2026-11-19T10:05:48.353011+08:00",
-  "window_end": "2026-11-20T10:05:48.353011+08:00",
+  "edition": "2026-11-21",
+  "updated_at": "2026-11-21T10:00:59.763507+08:00",
+  "window_start": "2026-11-20T10:00:41.508892+08:00",
+  "window_end": "2026-11-21T10:00:41.508892+08:00",
   "articles": [
     {
-      "id": "0b6b148fb5c74602",
+      "id": "3f039db0fef5143c",
       "category": "international",
-      "title": "克里米亞大橋連遭轟炸 普丁放話報復並終止停火談判",
-      "summary": "俄羅斯總統普丁於深圳APEC期間表示，針對烏克蘭軍隊連日攻擊克里米亞大橋，俄方將採取比炸橋更慘痛的報復行動。此外，普丁透露原先考慮的區域性停火談判已因橋樑遇襲而宣告破局。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261120/3275339.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8742/e8742730.jpg",
-      "published_at": "2026-11-20T09:57:00+08:00",
+      "title": "法媒節目影射華僑皆為中國間諜 引發反彈後公開道歉",
+      "summary": "法國媒體Franceinfo節目日前討論中國間諜議題時，來賓將華僑華人群體與間諜活動掛鉤，引發種族歧視爭議。該媒體於20日發表道歉宣告，承認未能及時質疑相關言論，並承諾改進。中國駐法使館對此提出抗議，批評該言論充斥冷戰思維。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261121001037-260409?ctrack=pc_main_recmd_p19",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-21/656/20261121001038.jpg",
+      "published_at": "2026-11-21T09:05:01+08:00",
       "rank": 1
     },
     {
-      "id": "58792f97602ea6b3",
+      "id": "a1ab9bc23e410c67",
       "category": "international",
-      "title": "日相高市早苗訪中受冷遇 專家：北京未原諒其臺海言論",
-      "summary": "日本首相高市早苗出席APEC峰會時，遭中方以低規格接待，不僅未獲現任官員接機，大合照亦被安排在後排。分析指出，北京對其先前稱臺海危機為日本「存立危機事態」的言論仍未釋懷。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108554895-1795063172662-gettyimages-2305255397-AFP_D7X963Y.jpeg?v=1795073160&w=1920&h=1080",
-      "published_at": "2026-11-19T14:39:53+08:00",
+      "title": "秘魯安地斯山脈發生規模6.7強震 首都利馬有感",
+      "summary": "秘魯中部安地斯山脈於20日晚間發生規模6.7地震，震源深度108公里。首都利馬震感明顯，民眾驚慌逃至街頭。目前秘魯地球物理研究所表示，尚未接獲人員傷亡或重大災損通報，當地新聞主播在地震期間仍保持冷靜持續播報。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/6809/9892764",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/21/35539090.png&M=1&s=Y&x=0&y=0&sw=918&sh=612&exp=3600",
+      "published_at": "2026-11-21T09:30:06+08:00",
       "rank": 2
     },
     {
-      "id": "aacca1e6af0aa328",
+      "id": "efc590c2f5284a92",
       "category": "taiwan",
-      "title": "俄軍機再現臺灣周邊 國軍F-16全程監控並嚴密掌握",
-      "summary": "國防部偵獲2架俄羅斯Tu-95軍機由臺灣南面進入防空識別區，航經東部空域後脫離。戰略學者憂心俄軍機路線常態化，可能藉此支援中共對臺法律戰訴求，國軍已派遣F-16戰機全程監控。",
+      "title": "蔣萬安發起「臺灣好水聯盟」 籲禁水庫設光電板",
+      "summary": "臺北市長蔣萬安21日宣佈成立「臺灣好水聯盟」，邀請全臺縣市首長簽署公約，主張民生與灌溉用水水庫應禁止設定水面型光電設施，並要求拆除既有設施。蔣萬安強調守護水源不分黨派，北市府將持續堅定把關，確保市民用水安全。",
       "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261120000971-260407?ctrack=pc_main_donate_p04",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-19/656/20261119004955.jpg",
-      "published_at": "2026-11-20T07:15:18+08:00",
+      "url": "https://www.chinatimes.com/realtimenews/20261121001169-260407?ctrack=pc_main_recmd_p10",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-21/656/20261121001170.jpg",
+      "published_at": "2026-11-21T09:39:35+08:00",
       "rank": 1
     },
     {
-      "id": "330dfb241ff88632",
+      "id": "932c8354aad0cca5",
       "category": "taiwan",
-      "title": "義消遭動員參加選舉造勢 基層不滿並引發行政中立爭議",
-      "summary": "高雄市長選舉造勢活動傳出動員義消參加，引發基層反彈。國民黨議員邱於軒爆料賴瑞隆陣營要求各分隊分配名額，並強調消防署曾明令選舉期間應嚴守行政中立，義消應專注於救災救護工作。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/124652/9889342",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35534112.jpg&M=1&s=Y&x=0&y=26&sw=1280&sh=854&exp=3600",
-      "published_at": "2026-11-19T16:26:09+08:00",
-      "rank": 2
-    },
-    {
-      "id": "0f520c9524b2b908",
-      "category": "us",
-      "title": "輝達遭加州檢察長發傳票 調查晶片違規輸中及誤導投資人",
-      "summary": "加州檢察長邦塔對輝達發出調查傳票，釐清其先進晶片是否違規流入中國，以及公司是否在風險揭露上誤導投資人。此舉源於前執行長黃仁勳遭指控與疑似中國間諜有婚外情，引發華府高度關注。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108352165-1787237664975-108352165-1787236932205-gettyimages-2290512238-META_TRIAL.jpeg?v=1787237713&w=1920&h=1080",
-      "published_at": "2026-11-20T06:49:04+08:00",
-      "rank": 1
-    },
-    {
-      "id": "4a2e5bb7d6ae2fe5",
-      "category": "us",
-      "title": "美眾院揭露：川普政府曾核准向中企出口近88萬顆AI晶片",
-      "summary": "美國眾議院外交事務委員會公佈檔案顯示，川普政府於2025年底至2026年中，核准輝達與超微向中國企業出口近88萬顆AI晶片，部分買家更被列入與中國軍方有關聯的企業名單，引發國安審查質疑。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&w=1920&h=1080",
-      "published_at": "2026-11-20T03:55:41+08:00",
-      "rank": 2
-    },
-    {
-      "id": "ff4ccc52a1fa28a2",
-      "category": "stocks",
-      "title": "臺股盤中暴跌逾2千點失守3萬7千點 臺積電重挫逾4%",
-      "summary": "受美股科技股重挫影響，臺股今（20）日湧現恐慌性賣壓，盤中一度下殺逾2,000點，失守37,000點關卡。臺積電下跌逾4%，上市櫃逾250家跌停，市場分析師建議投資人留意年線攻防與融資斷頭風險。",
+      "title": "沈伯洋提公務員四大承諾 北市府批政治攻防",
+      "summary": "民進黨臺北市長候選人沈伯洋提出「公務員四大承諾」，旨在減輕基層壓力。北市府副發言人蔡畹鎣回應，沈過去多次抹黑基層，如今選舉才開支票極為諷刺，並強調蔣萬安市府早已推動AI助理等減壓措施，呼籲沈停止用錯誤資訊傷害公務員。",
       "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261120001365-260410?ctrack=pc_main_alert_p01",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-19/656/20261119003166.jpg",
-      "published_at": "2026-11-20T09:04:24+08:00",
+      "url": "https://www.chinatimes.com/realtimenews/20261121001175-260407?ctrack=pc_main_recmd_p11",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-21/656/20261121001176.jpg",
+      "published_at": "2026-11-21T09:43:17+08:00",
+      "rank": 2
+    },
+    {
+      "id": "bcc831c06d961d99",
+      "category": "us",
+      "title": "川普宣佈美企海外建資料中心將面臨巨額稅負",
+      "summary": "美國總統川普20日表示，將禁止美企在海外興建資料中心，若執意為之將面臨「巨額稅負」。川普稱此舉旨在鼓勵國內建設並抗衡中國在AI領域的發展。目前亞馬遜、微軟等科技巨頭已在海外佈局，川普政府具體執行細節尚不明確。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108556645-1795196053260-gettyimages-2305498959-AFP_D87462K.jpeg?v=1795196073&w=1920&h=1080",
+      "published_at": "2026-11-21T01:45:38+08:00",
       "rank": 1
     },
     {
-      "id": "fb284da734a37d44",
+      "id": "b676abf441248493",
+      "category": "us",
+      "title": "川普力挺商務部長盧特尼克 稱未失去信心",
+      "summary": "針對外界要求撤換商務部長盧特尼克的呼聲，美國總統川普20日於記者會明確表示，他對盧特尼克仍有信心。川普稱讚盧特尼克雖非傳統政治人物，但具備優秀的商業頭腦，並肯定其在推動美國政府入股英特爾等決策上的貢獻。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108102337-17394729562025-02-13t185115z_1423571742_rc2ttcawlb9h_rtrmadp_0_usa-trump-tariffs.jpeg?v=1739473015&w=1920&h=1080",
+      "published_at": "2026-11-21T02:50:39+08:00",
+      "rank": 2
+    },
+    {
+      "id": "52de58a5eeb07554",
       "category": "stocks",
-      "title": "AI熱潮降溫軟銀股價重挫 亞洲科技股集體走跌",
-      "summary": "受AI新創Anthropic上市後市場反應及美股科技股走弱影響，軟銀集團股價單日重挫逾16%。日韓半導體類股同步走低，投資人擔憂AI基礎建設的龐大資本支出能否轉化為實際獲利。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108316517-1780554960547-gettyimages-2230425216-raa-intelsof250820_npZoK.jpeg?v=1780555182&w=1920&h=1080",
-      "published_at": "2026-11-20T09:07:37+08:00",
-      "rank": 2
-    },
-    {
-      "id": "f4277c41ce349075",
-      "category": "finance",
-      "title": "美晶片管制升級 臺積電與三星暫停部分中國客戶出貨",
-      "summary": "美國商務部收緊先進半導體出口管制，要求業者針對部分使用美國技術的晶片申請許可。臺積電與三星已暫停部分中國客戶出貨，管制範圍除AI晶片外，亦可能擴及智慧型手機處理器，供應鏈不確定性增加。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B%E5%87%BA%E6%89%8B-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E4%B8%89%E6%98%9F%E9%83%A8%E5%88%86%E6%99%B6%E7%89%87%E8%BC%B8%E4%B8%AD%E5%96%8A%E5%8D%A1-233407903.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/76511b81cba8b27aedff662b5e74223ed0b94d8033c4028dc5ba6b7841fc916f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnownews.com%2F6ab1f2bf2d9b8332c626c1d939e635d7",
-      "published_at": "2026-11-20T07:34:07+08:00",
-      "rank": 1
-    },
-    {
-      "id": "73967de8d0be3f36",
-      "category": "finance",
-      "title": "日本核心通膨升至2.2% 能源補貼到期推升物價",
-      "summary": "日本10月核心通膨率升至2.2%，主因能源補貼於9月到期，導致電費與燃料價格上漲。資料顯示通膨壓力持續，市場預期日本央行可能於12月採取升息行動，以應對進口能源價格帶來的經濟衝擊。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108555014-1795079642832-gettyimages-2215845730-AFP_47TW9CP.jpeg?v=1795079673&w=1920&h=1080",
-      "published_at": "2026-11-20T07:36:10+08:00",
-      "rank": 2
-    },
-    {
-      "id": "1de639e09a01f3f7",
-      "category": "china",
-      "title": "川習三會聚焦臺灣議題 習近平籲美堅持做正確的事",
-      "summary": "習近平與川普於深圳舉行第三次會晤，雙方確立建設性戰略穩定關係。習近平強調在臺灣問題上，美方應堅持做正確的事以避免關係波折；川普則表示美國不支援臺獨，雙方同意在禁毒與AI安全領域加強合作。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/125069/9889435",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35534216.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-11-19T16:57:33+08:00",
-      "rank": 1
-    },
-    {
-      "id": "dfecdd0aedc09c8b",
-      "category": "china",
-      "title": "法媒稱華僑皆為中國間諜 中國駐法使館斥惡意詆毀",
-      "summary": "針對法媒節目指稱「整個華僑族群都是中國間諜」，中國駐法國大使館發言人回應，該論調毫無根據且充斥冷戰思維，嚴重傷害旅法華僑感情，對此表示強烈不滿與堅決反對，並敦促法媒停止炒作。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7331/9890537",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/20/35535576.jpg&M=1&s=Y&x=0&y=0&sw=483&sh=322&exp=3600",
-      "published_at": "2026-11-20T09:05:05+08:00",
-      "rank": 2
-    },
-    {
-      "id": "6b8539039d09d209",
-      "category": "technology",
-      "title": "馬斯克訪中自稱超級粉絲 脫口「T開頭國家」引發地緣政治擔憂",
-      "summary": "馬斯克隨團訪中期間盛讚中國製造實力，但在談及美中關係時，脫口表示未來恐因「某個以T開頭的國家」出現地緣政治波折。外媒分析此話暗指臺灣，且使用「國家」一詞恐觸動北京敏感神經。",
+      "title": "臺股11月暴跌20% 創36年來最慘單月紀錄",
+      "summary": "臺股近期連續重挫，11月至今跌幅達20%，財經專家遊庭皓指出，此跌幅創下自1990年9月以來最慘烈的單月表現，甚至超越亞洲金融風暴與全球金融海嘯時期。市場分析認為，這已非單純技術性修正，而是足以寫進歷史的極端行情。",
       "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261120/3275320.htm",
-      "image_url": "https://cdn2.ettoday.net/images/9000/e9000264.jpg",
-      "published_at": "2026-11-20T09:54:00+08:00",
+      "url": "https://finance.ettoday.net/news/3275868",
+      "image_url": "https://cdn2.ettoday.net/images/7799/e7799797.jpg",
+      "published_at": "2026-11-21T09:12:00+08:00",
       "rank": 1
     },
     {
-      "id": "346fee20eef4482c",
-      "category": "technology",
-      "title": "北海道六花亭官網遭駭 約8000筆信用卡資料恐外洩",
-      "summary": "日本甜點品牌六花亭發現官網付款系統遭惡意竄改，約8000筆顧客信用卡資料可能外洩。公司已暫停官網營運並尋求外部調查，呼籲消費者檢查交易明細，防範不明釦款與詐騙風險。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E5%8C%97%E6%B5%B7%E9%81%93%E7%9F%A5%E5%90%8D%E7%94%9C%E9%BB%9E%E5%85%AD%E8%8A%B1%E4%BA%AD%E9%81%AD%E9%A7%AD-8000%E7%AD%86%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%B3%87%E6%96%99%E6%81%90%E5%A4%96%E6%B4%A9-130024078.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/c6e3106fc2e972047818a541de959e3487770df37b1642ac4fa4aee006b27acb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fphoto_5161.jpeg",
-      "published_at": "2026-11-19T21:00:24+08:00",
+      "id": "52ab9ad25412f97b",
+      "category": "stocks",
+      "title": "美科技股跌入熊市 那指單周暴跌10%創6年新低",
+      "summary": "美股20日遭遇猛烈拋售，那斯達克100指數較高點回落20%，正式進入熊市。那斯達克綜合指數全周累計下挫10%，創2020年疫情以來最慘單周表現，市值蒸發逾4兆美元。市場擔憂AI投資熱潮放緩，避險情緒高漲，恐慌指數VIX創下新高。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/6811/9892675",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/21/35538957.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+      "published_at": "2026-11-21T08:03:26+08:00",
       "rank": 2
     },
     {
-      "id": "39d529b40f74f186",
-      "category": "design",
-      "title": "新北龍濱路人行道完工 融入宮廟紋樣打造書法公園",
-      "summary": "新北市三重區龍濱路人行環境改善工程完工，設計融入在地宮廟「回回錦」紋樣與「松煙墨」景觀主題。工程排除路障並改善無障礙斜坡，串聯周邊三所學校，提升通行安全與街道美學。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E9%BE%8D%E6%BF%B1%E8%B7%AF%E4%BA%BA%E8%A1%8C%E9%81%93%E6%94%B9%E5%96%84%E5%AE%8C%E5%B7%A5%E4%B8%B2%E8%81%AF3%E6%A0%A1%E5%BC%B7%E5%8C%96%E7%84%A1%E9%9A%9C%E7%A4%99%E9%80%9A%E8%A1%8C-015556831.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/8d0029ded582dd5d22f0fb51262056eb16b43b8fbc526de747edb473b3ba5d98/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fcdns.com.tw%2Fe53083aea171f18af65a2fbd78fadb75.jpg_up.jpg",
-      "published_at": "2026-11-20T09:55:56+08:00",
+      "id": "ec1bc58bb5c38bcc",
+      "category": "finance",
+      "title": "數位至匯25日登入興櫃 跨境匯款規模拚破500億",
+      "summary": "跨境金融科技業者數位至匯將於25日登入興櫃，參考價120元。受惠外籍移工匯款需求，公司今年1至10月營收與獲利均超越去年全年。數位至匯以AI金融科技為核心，目標將業務從消費者端擴充套件至銀行企業端，預估今年跨境匯款規模可望突破500億元。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3275802",
+      "image_url": "https://cdn2.ettoday.net/images/9024/e9024770.jpg",
+      "published_at": "2026-11-20T23:08:00+08:00",
       "rank": 1
     },
     {
-      "id": "88c350b8dc101876",
+      "id": "d7a75d5204646a06",
+      "category": "finance",
+      "title": "全球家族企業接班難 調查：近7成準備不足",
+      "summary": "安永與瑞士寶盛銀行調查顯示，全球超高資產家族面臨接班危機，65.9%受訪者認為下一代尚未做好準備，更有11.6%認為後代無意接班。調查指出，家族成員對出售企業缺乏共識及治理流程薄弱，是影響傳承的主要障礙，建議透過專業經理人制度進行轉型。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3274265",
+      "image_url": "https://cdn2.ettoday.net/images/8737/e8737867.jpg",
+      "published_at": "2026-11-21T06:20:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "649f4f1d471cf02d",
+      "category": "china",
+      "title": "川普與習近平談及黃仁勳 稱願給予第二次機會",
+      "summary": "美國總統川普20日透露，在與中國國家主席習近平會談時曾討論輝達前執行長黃仁勳，習近平亦稱讚其為傑出人才。川普公開呼籲輝達董事會應接受黃仁勳道歉並讓他回鍋，強調美國應保護頂尖人才，並重申美中正就晶片出口協議進行討論。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108550979-1794576417589-bessent3.jpg?v=1795125703&w=1920&h=1080",
+      "published_at": "2026-11-20T23:52:58+08:00",
+      "rank": 1
+    },
+    {
+      "id": "63a1682b200ec119",
+      "category": "china",
+      "title": "俄轟炸機穿越臺日空域 學者示警中俄聯動",
+      "summary": "APEC峰會期間，俄羅斯戰略轟炸機穿越臺日周邊空域。臺灣學者分析，此舉展現中俄在東亞地緣政治的緊密聯動，顯示兩國正逐步建構共同解決臺灣問題的總體方略。學者示警，美中俄大國協調趨勢下，中小型國家角色恐進一步被邊緣化。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261120/3275585.htm",
+      "image_url": "https://cdn2.ettoday.net/images/9023/e9023158.jpg",
+      "published_at": "2026-11-20T15:06:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "66b034d07f0b6349",
+      "category": "technology",
+      "title": "SpaceX子公司Cursor擬淘汰中國AI模型",
+      "summary": "SpaceX旗下AI編碼平臺Cursor向美國國會表示，考量地緣政治風險，正計畫逐步淘汰中國AI模型。Cursor先前曾使用中國Moonshot AI的技術。此舉反映美國科技業在AI競爭中，因國安疑慮正重新評估對中國技術的依賴。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108295661-1776885403878-gettyimages-2271955278-boivin-notitle260422_npyod.jpeg?v=1776885479&w=1920&h=1080",
+      "published_at": "2026-11-20T22:04:17+08:00",
+      "rank": 1
+    },
+    {
+      "id": "87b219a55521b071",
+      "category": "technology",
+      "title": "輝達遭SEC調查會計問題 股價創2008年來最慘紀錄",
+      "summary": "輝達近期利空不斷，除前執行長黃仁勳請辭外，美國證券交易委員會（SEC）已對其會計作業展開調查。受此訊息影響，輝達股價20日暴跌14.01%，周線連7黑，創下2008年金融海嘯以來最長連跌紀錄，市場對其公司治理與AI前景疑慮加深。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261121001140-260410?ctrack=pc_main_alert_p03",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-21/656/20261121001141.jpg",
+      "published_at": "2026-11-21T09:34:56+08:00",
+      "rank": 2
+    },
+    {
+      "id": "a71093b39442c020",
       "category": "design",
-      "title": "香港擬推漢語拼音輸入法 學者：工具本質不影響語言能力",
-      "summary": "香港教育局建議小學推廣漢語拼音輸入法，引發社會對廣東話地位及學童認字能力的討論。學者指出，輸入法僅為工具，學童語言能力的關鍵在於整體語言環境，而非單一輸入法的選擇。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E5%BE%9E%E5%8F%B0%E7%81%A3%E7%9A%84%E5%80%89%E9%A0%A1%E6%8F%9B%E6%88%90%E5%A4%A7%E9%99%B8%E7%9A%84%E6%BC%A2%E8%AA%9E%E6%8B%BC%E9%9F%B3-%E9%9B%BB%E8%85%A6%E8%BC%B8%E5%85%A5%E6%B3%95%E6%9C%83%E5%BD%B1%E9%9F%BF%E4%B8%8B-%E4%BB%A3%E5%AD%B8%E7%BF%92%E4%B8%AD%E6%96%87%E5%97%8E-003342007.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/37cac721b09e10d6596354d555b2ad87ed0d39b17e97320bafb8aa4056b5aeb7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fbbc_trad_chinese_tw_489%2F5ed8b9e4fb4fe2bbf43c9b50196b9b0a.jpg_up.jpg",
-      "published_at": "2026-11-20T09:06:20+08:00",
+      "title": "新航A350商務艙開箱 隱私包覆設計提升長途舒適度",
+      "summary": "新加坡航空新航線採A350-900執飛，其商務艙設計採1-2-1配置，座椅寬達28吋，並具備半圓弧型椅揹包覆設計，提供高度隱私感。機上配置多段式照明與隱藏式收納空間，並提供BYREDO過夜包與睡衣，旨在為長途飛行打造如飯店般的舒適體驗。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://travel.ettoday.net/article/3275689.htm",
+      "image_url": "https://cdn2.ettoday.net/images/9024/e9024440.jpg",
+      "published_at": "2026-11-21T09:00:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "2b198c91e1bbdef7",
+      "category": "design",
+      "title": "BTS柾國高雄旅遊短片 運用在地元素展現城市感性",
+      "summary": "BTS成員柾國發布高雄旅遊短片，以日常視角捕捉高雄輕軌、YouBike及繁體字標語等在地元素，並搭配臺灣吉他詩人董運昌作品作為配樂。影片跳脫傳統觀光宣傳框架，透過獨特的影像剪輯與生活化視角，成功傳遞出港都的懷舊與悠閒氛圍。",
+      "source": "聯合新聞網",
+      "url": "https://stars.udn.com/star/story/10092/9892759",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/21/35539091.jpg&M=1&s=Y&x=80&y=0&sw=1077&sh=718&sl=W&fw=800&exp=3600",
+      "published_at": "2026-11-21T09:32:10+08:00",
       "rank": 2
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 9
+      "verified_candidates": 10
     },
     {
       "source": "聯合新聞網",
-      "verified_candidates": 13
+      "verified_candidates": 14
     },
     {
       "source": "ETtoday 新聞雲",
-      "verified_candidates": 12
+      "verified_candidates": 11
     },
     {
       "source": "中時新聞網",
-      "verified_candidates": 9
+      "verified_candidates": 7
     },
     {
       "source": "CNN",
@@ -204,7 +204,7 @@
     },
     {
       "source": "CNBC",
-      "verified_candidates": 7
+      "verified_candidates": 8
     }
   ]
 }
