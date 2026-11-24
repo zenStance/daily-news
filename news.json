@@ -1,202 +1,202 @@
 {
-  "edition": "2026-11-23",
-  "updated_at": "2026-11-23T09:27:45.695619+08:00",
-  "window_start": "2026-11-22T09:27:25.945077+08:00",
-  "window_end": "2026-11-23T09:27:25.945077+08:00",
+  "edition": "2026-11-24",
+  "updated_at": "2026-11-24T13:10:37.837689+08:00",
+  "window_start": "2026-11-23T13:10:11.881855+08:00",
+  "window_end": "2026-11-24T13:10:11.881855+08:00",
   "articles": [
     {
-      "id": "580b5df05fac0a14",
+      "id": "998f84c11d485fb8",
       "category": "international",
-      "title": "伊朗相關勢力攻擊沙烏地與巴林，伊朗外長稱仍願與美談判",
-      "summary": "沙烏地阿拉伯與巴林週末遭伊朗相關勢力攻擊，沙國攔截無人機與彈道飛彈，巴林則有工業設施遭襲並造成人員受傷。伊朗媒體亦稱攻擊了美軍設施。儘管局勢緊張，伊朗外長表示仍對與美國達成結束戰爭的協議持開放態度。",
+      "title": "伊朗稱三艘油輪在荷姆茲海峽觸雷爆炸，美國擴大制裁力道",
+      "summary": "伊朗革命衛隊指控三艘油輪在荷姆茲海峽觸雷爆炸，儘管有美軍護航仍發生事故。美國財政部隨即宣佈對伊朗多個交易所與空殼公司實施新制裁，試圖切斷其全球影子銀行網路與石油收入。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108355655-1787917072063-108355655-1787912744442-gettyimages-2289641696-IRAN-TEHRAN-FM-HEALTH_NEEDS.jpg?v=1795351744&w=1920&h=1080",
-      "published_at": "2026-11-22T21:25:47+08:00",
+      "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108558016-1795487247597-gettyimages-2305353843-AA_19112026_3054076.jpeg?v=1795490987&w=1920&h=1080",
+      "published_at": "2026-11-24T13:05:08+08:00",
       "rank": 1
     },
     {
-      "id": "cf5274c7efd9141d",
+      "id": "9425e28f39d65d06",
       "category": "international",
-      "title": "外籍遊客吊掛淺草寺雷門燈籠，脫序行為引發日本網友撻伐",
-      "summary": "一名外籍遊客在東京淺草寺將雷門巨型燈籠當作遊樂設施，整個人懸掛在燈籠底部，影片在社群平臺流傳後引發日本網友憤怒，批評其缺乏對當地文化與古蹟的尊重，甚至要求該類遊客不要再來日本。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E6%89%AF-%E5%A4%96%E5%9C%8B%E9%81%8A%E5%AE%A2%E7%AB%9F-%E5%90%8A%E6%8E%9B-%E6%B7%BA%E8%8D%89%E5%AF%BA%E9%9B%B7%E9%96%80%E5%A4%A7%E7%87%88%E7%B1%A0-%E6%97%A5%E7%B6%B2%E5%8F%8B%E7%8B%82%E5%99%B4-014200775.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/f7db6f4a1a0d99d12350ac06d72078c8afff578fb2ef4826d82197a9bf51bb47/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fftnn_com_tw_939%2F1c882f77a830290b49b3a4641f2996bb.png_up.jpg",
-      "published_at": "2026-11-22T09:42:00+08:00",
+      "title": "美智庫報告：中國正積極壓制印度崛起，美方尋求深化合作",
+      "summary": "美國智庫報告指出，中國透過軍事、經濟及出口管制等手段壓制印度發展。儘管中印邊境衝突後關係略有緩和，但信任基礎薄弱，美方認為此局勢為深化與印度在國防及製藥領域合作提供契機。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108558031-1795489293086-gettyimages-2198835438-damawall-china-india.jpeg?v=1795489335&w=1920&h=1080",
+      "published_at": "2026-11-24T12:27:38+08:00",
       "rank": 2
     },
     {
-      "id": "60c00c04dce66634",
+      "id": "23c6f8abdb985c79",
       "category": "taiwan",
-      "title": "徐欣瑩絕食抗議遭搜尋，心跳過慢緊急送醫治療",
-      "summary": "國民黨新竹縣長候選人徐欣瑩因陣營遭檢調搜尋，展開絕食抗議。第4天因脈搏過弱、心跳降至49，且身體虛弱，經評估後已緊急送醫。該搜尋行動引發程序正義爭議，徐陣營對執法時機與規模提出強烈質疑。",
+      "title": "九合一選舉28日登場，中選會主委游盈隆盼開票不遲於午夜",
+      "summary": "九合一選舉將於28日舉行，中選會主委游盈隆視察臺中選務工作時表示，因本次僅合併一項公投案，選務壓力較輕，期許開票作業能於深夜12點前完成，若能提前至11點更佳。",
       "source": "中時新聞網",
-      "url": "https://www.chinatimes.com/realtimenews/20261123001245-260407?ctrack=pc_main_alert_p02",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-23/656/20261123001253.jpg",
-      "published_at": "2026-11-23T08:33:18+08:00",
+      "url": "https://www.chinatimes.com/realtimenews/20261124002773-260407?ctrack=pc_main_alert_p03",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-24/656/20261124002774.jpg",
+      "published_at": "2026-11-24T13:00:13+08:00",
       "rank": 1
     },
     {
-      "id": "9f2d48e36e4c00e9",
+      "id": "3a9915d91b08e547",
       "category": "taiwan",
-      "title": "老農津貼修法加碼至1.5萬元，卓榮泰不予副署引發爭議",
-      "summary": "立法院三讀修正《老年農民福利津貼暫行條例》將津貼調高至1.5萬元，行政院長卓榮泰以侵害行政權為由不予副署。此舉引發朝野對峙，該津貼實施逾30年仍為「暫行」，成為農業部預算沉重負擔，亦被視為選前政治角力。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7338/9895223",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/23/35543367.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-11-23T00:07:47+08:00",
+      "title": "現代婦女基金會借鏡韓國經驗，籲建立影像性暴力整合機制",
+      "summary": "針對數位性暴力犯罪，現代婦女基金會建議臺灣借鏡韓國跨部會協作模式，建立全國性影像證據資料庫與自動化下架系統，並強化警政科技偵查量能，以解決現行服務斷裂問題，保障被害人權益。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261124002644-260402?ctrack=pc_main_recmd_p09",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-24/656/20261124002651.jpg",
+      "published_at": "2026-11-24T12:21:37+08:00",
       "rank": 2
     },
     {
-      "id": "00ef13dcf1e5d3ec",
+      "id": "13f8d897c04d8ef6",
       "category": "us",
-      "title": "美情報總監警告：科技升級過渡期，系統中斷恐成常態",
-      "summary": "美國國家情報總監克萊頓警告，隨著企業與政府為適應AI時代進行系統升級，技術中斷與故障恐難以避免。近期航空與微軟Outlook系統故障雖非網路攻擊，但顯示基礎設施升級過程中的脆弱性，呼籲民眾對此做好心理準備。",
+      "title": "川普親自介入促成輝達董事會，黃仁勳復職執行長職務",
+      "summary": "輝達董事會宣佈黃仁勳復職執行長，人事即刻生效。據悉，美國總統川普親自施壓董事會，並由司法部確認黃仁勳無國安風險，促成這場戲劇性的人事轉折，以穩定市場信心。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108554284-1795017875830-gettyimages-2305725511-_s019615_hvtmmvsn.jpeg?v=1795017895&w=1920&h=1080",
-      "published_at": "2026-11-23T00:17:53+08:00",
+      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108414319-1792072406505-108414319-1792072326279-gettyimages-2297774940-kbd15015_cmzhzqga.jpg?v=1795450515&w=1920&h=1080",
+      "published_at": "2026-11-23T23:08:28+08:00",
       "rank": 1
     },
     {
-      "id": "65669fc5860e6a34",
+      "id": "e7b248e2a411f3b3",
       "category": "us",
-      "title": "美參議員批黃仁勳婚外情代價高，質疑商務部放任晶片走私",
-      "summary": "美參議員甘迺迪批評輝達前執行長黃仁勳的婚外情與共諜疑雲，並將矛頭指向川普政府商務部，質疑其對中國規避出口管制、取得先進AI晶片的行為無能或放任，要求相關官員赴國會宣誓作證。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/125066/9895501",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/23/35543652.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-11-23T07:52:53+08:00",
-      "rank": 2
-    },
-    {
-      "id": "3444b08c081c2ae8",
-      "category": "stocks",
-      "title": "金管會救市措施奏效，臺股盤中急拉翻紅、聯電漲停",
-      "summary": "金管會祭出全面禁止平盤以下放空等5大救市措施，臺股開盤雖一度重挫，隨後買盤進場，指數由黑翻紅。臺積電收復失土，聯電強勢攻上漲停。市場持續關注政府穩定措施對遏止恐慌賣壓的實際效果。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3276751",
-      "image_url": "https://cdn2.ettoday.net/images/8708/e8708058.jpg",
-      "published_at": "2026-11-23T09:08:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "259821720b54e7f8",
-      "category": "stocks",
-      "title": "臺股今年漲幅仍居全球之冠，股民感嘆指數與持股感受落差",
-      "summary": "儘管臺股近期遭遇猛烈賣壓，但截至11月21日，今年以來漲幅仍達24.41%，位居全球主要股市之首。然而，許多投資人因中小型股跌勢慘重，對此資料無感，並擔憂後續仍有修正空間。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3276342",
-      "image_url": "https://cdn2.ettoday.net/images/7799/e7799795.jpg",
-      "published_at": "2026-11-22T10:40:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "386144e91bbc2b9a",
-      "category": "finance",
-      "title": "美財長貝森特示警：97%高階晶片集中臺灣構成戰略脆弱性",
-      "summary": "美國財長貝森特指出，美國過去曾是晶片產業領導者，如今全球97%高階晶片在臺灣製造，已形成戰略脆弱性。川普政府正積極推動半導體製造迴流美國，希望在本屆任期內提升國內產能。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E8%B2%A1%E9%95%B7%E9%BB%9E%E5%90%8D%E5%8F%B0%E7%81%A3-%E5%85%A8%E7%90%8397-%E9%AB%98%E9%9A%8E%E6%99%B6%E7%89%87%E5%9C%A8%E5%8F%B0%E8%A3%BD%E9%80%A0-005408662.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/3545285e4176033bdc2438ee9695f3633f32bc9fee6e4d9cb2b8f3c21027807a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnownews.com%2F9954c1ca0841d650c3b5321910787b7f",
-      "published_at": "2026-11-23T08:54:08+08:00",
-      "rank": 1
-    },
-    {
-      "id": "89508a504ae6ff7f",
-      "category": "finance",
-      "title": "北京10月零售額暴跌12.1%，京滬消費收縮引發關注",
-      "summary": "中國北京10月社會消費品零售總額年減12.1%，創下2025年1月以來最大跌幅；上海則連續7個月負成長。資料顯示汽車、家電與辦公用品消費疲軟，反映京滬兩地消費市場持續收縮。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261122/3276464.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8590/e8590507.jpg",
-      "published_at": "2026-11-22T16:10:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "5ed27b3d090fc472",
-      "category": "china",
-      "title": "陸網瘋傳「唐朝不存在」偽史論，中共黨校刊物發文批評",
-      "summary": "中國網路出現否定唐朝歷史等「偽史論」，中共中央黨校《學習時報》發文批評，指此類言論透過AI與短影音加速傳播，割裂歷史脈絡，削弱民眾文化認同與民族凝聚力，呼籲加強內容查核與歷史知識普及。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261122/3276459.htm",
-      "image_url": "https://cdn2.ettoday.net/images/9026/e9026930.jpg",
-      "published_at": "2026-11-22T15:04:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "809dfbeb084c0a90",
-      "category": "china",
-      "title": "陸籍女富商在菲遭綁架，8名菲警涉案含少校主謀",
-      "summary": "一名中國籍女富商2025年在菲律賓遭綁架，支付近1800萬披索贖金後獲釋。菲國警方調查發現涉案者包含8名刑事偵查警察，其中一名少校被指為主謀，目前已對涉案人員提出刑事指控並進行行政調查。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261122/3276594.htm",
-      "image_url": "https://cdn2.ettoday.net/images/9027/e9027815.jpg",
-      "published_at": "2026-11-22T18:03:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "f695db294bd1faed",
-      "category": "technology",
-      "title": "量子運算應用新突破，能源轉型成首要商業化場域",
-      "summary": "量子運算軟體正被測試應用於能源轉型，包括穩定電網、最佳化太陽能電池材料及氫能生產。相較於藥物研發，能源領域被視為量子技術更具即時商業價值的應用場域，多家新創公司已投入相關研發。",
+      "title": "聯準會官員威廉斯：通膨仍高，需持續採取行動以達標",
+      "summary": "紐約聯準銀行總裁威廉斯表示，儘管經濟持續成長，但通膨仍遠高於2%目標，聯準會仍有工作要做。他認為AI發展對通膨影響有限，預計未來將採取審慎的貨幣政策以確保通膨回落。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108554063-1795006580677-gettyimages-2271702239-futuristic-microchip-glowing-data-connections.jpeg?v=1795006768&w=1920&h=1080",
-      "published_at": "2026-11-22T14:00:01+08:00",
-      "rank": 1
-    },
-    {
-      "id": "30c65b4290ad802e",
-      "category": "technology",
-      "title": "紐時揭露中國國安部秘密推動AI晶片反封鎖行動",
-      "summary": "《紐約時報》報導，中國國安部已秘密推動「反封鎖」行動至少2年，由國安部長陳一新主導工作小組，旨在突破西方科技限制，協助企業取得先進AI晶片並蒐集產業情報，行動涉及走私管道與複雜的企業股權掩飾。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E5%9C%8B%E5%AE%89%E9%83%A8%E7%A7%98%E5%AF%86%E6%8E%A8%E5%8B%95ai%E6%99%B6%E7%89%87-%E7%B4%90%E6%99%82-%E6%8F%AD-%E5%8F%8D%E5%B0%81%E9%8E%96-%E8%A1%8C%E5%8B%95%E5%B7%B2%E9%80%B2%E8%A1%8C%E8%87%B3%E5%B0%912%E5%B9%B4-005400228.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/c3b24940a9e22cf8089d9a23b7116c15c8055d511057332c1f7468281424ac64/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fmnews_tw_258%2F5ad80f756984b3283e0ebbd30ba65a7d.jpg",
-      "published_at": "2026-11-23T08:54:00+08:00",
+      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108229868-1763741665578-108229868-1763730430401-gettyimages-2233025951-WILLIAMS_ECNY.jpeg?v=1772548607&w=1920&h=1080",
+      "published_at": "2026-11-24T05:00:01+08:00",
       "rank": 2
     },
     {
-      "id": "f8d3b04e95544f8f",
-      "category": "design",
-      "title": "BTS成員造訪高雄復古雜貨舖，老宅選物店引發打卡熱潮",
-      "summary": "韓國天團BTS成員造訪高雄鼓山區的復古選物店「碗容奶奶家」，該店由兩位八年級女生創辦，以奶奶名字命名，販售杯碗瓢盆等老物件。BTS成員在IG分享逛店時光，使該店瞬間爆紅，成為粉絲朝聖地。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://fashion.ettoday.net/news/3276643",
-      "image_url": "https://cdn2.ettoday.net/images/9028/e9028642.jpg",
-      "published_at": "2026-11-23T08:57:00+08:00",
+      "id": "05b3401ef091a995",
+      "category": "stocks",
+      "title": "黃仁勳回歸激勵臺股，加權指數跳空大漲逾9％重返4萬點",
+      "summary": "受輝達執行長黃仁勳復職訊息激勵，臺股24日跳空大漲逾9％，加權指數重返4萬點大關，臺指期強勢鎖漲停。市場惜售氣氛濃厚，成交量預估不到5,000億元，顯示投資人信心顯著回溫。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261124002444-260410?ctrack=pc_main_alert_p01",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-24/656/20261124002483_20261124114837.jpg",
+      "published_at": "2026-11-24T11:48:53+08:00",
       "rank": 1
     },
     {
-      "id": "642882d764b52023",
-      "category": "design",
-      "title": "金錢豹老董裝潢糾紛，指控網紅搬空傢俱變賣",
-      "summary": "金錢豹酒店創辦人袁昶平委託網紅威力裝修住家，預付300萬元訂金後，指控工班不僅進度落後，更將屋內高檔傢俱搬空變賣。雙方爆發官司糾紛，袁昶平遞狀還原內幕，並追討訂金與傢俱損失。",
+      "id": "992e39c481e99801",
+      "category": "stocks",
+      "title": "輝達股價單日飆漲逾30％，法人提醒AI產業仍存監管風險",
+      "summary": "黃仁勳復職帶動輝達股價單日飆漲逾30％，創下歷史紀錄。然而分析師提醒，儘管人事不確定性消除，但輝達仍面臨美國出口管制調查及資料中心擴張瓶頸，投資人應保持審慎。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108279135-17737747902026-03-17t190331z_1569419364_rc2i6kamf29y_rtrmadp_0_nvidia-gtc.jpeg?v=1794956662&w=1920&h=1080",
+      "published_at": "2026-11-24T03:52:21+08:00",
+      "rank": 2
+    },
+    {
+      "id": "dcddaa1de1184894",
+      "category": "finance",
+      "title": "國臺辦與中國進出口銀行簽署協議，加強臺商專案融資支援",
+      "summary": "大陸國臺辦與中國進出口銀行簽署金融合作協議，計畫在「十五五」期間提供涉臺專案融資，支援臺商紮根大陸、參與一帶一路及兩岸貿易往來，累計合作金額達160億元人民幣。",
       "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261123/3276721.htm",
-      "image_url": "https://cdn2.ettoday.net/images/9028/e9028865.jpg",
-      "published_at": "2026-11-23T07:51:00+08:00",
+      "url": "https://www.ettoday.net/news/20261123/3277213.htm",
+      "image_url": "https://cdn2.ettoday.net/images/9030/e9030309.jpg",
+      "published_at": "2026-11-23T18:21:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "bb4387f5bffa1c42",
+      "category": "finance",
+      "title": "成本上升壓力，臺灣壽司郎宣佈21項商品調漲價格",
+      "summary": "受原物料、物流及人力成本持續上升影響，臺灣壽司郎宣佈自24日起調整21項商品售價，平均漲幅約19.7％。其中「鐵火卷」漲幅達50%，引發外食族對年末漲價潮的關注。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261124002085-260405?ctrack=pc_main_alert_p02",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-24/656/20261124002086.jpg",
+      "published_at": "2026-11-24T11:20:20+08:00",
+      "rank": 2
+    },
+    {
+      "id": "adf9c4100acf0780",
+      "category": "china",
+      "title": "中國股市科技股領漲，逾5100檔個股上漲呈現普漲格局",
+      "summary": "中國股市24日強勁反彈，科技類股成為領漲主力，超過5100檔個股上漲。其中光通訊、半導體及電子零元件表現亮眼，港股恒生科技指數亦同步走高，市場買氣明顯升溫。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261124/3277599.htm",
+      "image_url": "https://cdn2.ettoday.net/images/4984/e4984091.jpg",
+      "published_at": "2026-11-24T13:00:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "a7ca0013c9f4e71c",
+      "category": "china",
+      "title": "川普稱黃仁勳為美國國寶，憂若未復職恐遭中國挖角",
+      "summary": "川普受訪時表示，促成黃仁勳復職是為了國家利益，擔心若黃仁勳離開輝達，中國可能趁機挖角並邀請其領導華為，藉此取得關鍵AI技術，強調黃仁勳是美國不可或缺的國寶級人才。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/125066/9897935",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/24/35547235.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600",
+      "published_at": "2026-11-24T10:18:47+08:00",
+      "rank": 2
+    },
+    {
+      "id": "2178bf636cc6170f",
+      "category": "technology",
+      "title": "黃仁勳回歸帶動亞股AI派對，法人揭訂單與體質為關鍵",
+      "summary": "黃仁勳復職激勵亞洲科技股強勢反彈，臺股領漲。法人提醒，AI股後續漲勢能否延續，取決於企業的訂單能見度、財務體質及產品定價能力，並非所有概念股皆能同步受惠。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3277592",
+      "image_url": "https://cdn2.ettoday.net/images/7677/e7677024.jpg",
+      "published_at": "2026-11-24T12:35:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "c48dcaf318821941",
+      "category": "technology",
+      "title": "美國將新加坡Megaspeed等七家東南亞企業列入貿易黑名單",
+      "summary": "美國商務部以國安與外交政策為由，將新加坡Megaspeed及馬來西亞、泰國等共七家企業列入貿易黑名單，防範先進運算產品遭轉移至未經授權的終端使用者，此舉與輝達相關調查有關。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108557353-1795441644535-gettyimages-2304535523-Megaspeed.jpeg?v=1795490081&w=1920&h=1080",
+      "published_at": "2026-11-24T09:56:28+08:00",
+      "rank": 2
+    },
+    {
+      "id": "8ae4f64096a5d9db",
+      "category": "design",
+      "title": "高雄大樹冷鏈物流中心計畫中斷，現址淪為荒廢鐵皮廢墟",
+      "summary": "高雄市府原規劃斥資12.5億元打造大樹蔬果冷鏈物流中心，因建材漲價等因素導致補助未果，計畫中斷。現址僅剩鐵皮建物，缺乏冷鏈功能，遭質疑與原規劃圖文不符，淪為荒廢空間。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%A4%A7%E6%A8%B9%E5%86%B7%E9%8F%88%E9%A1%98%E6%99%AF%E6%B3%A1%E6%B9%AF-%E5%89%A9%E9%90%B5%E7%9A%AE%E5%BB%A2%E5%A2%9F-223645467.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/85f5bbbb8f7f7985b9b379abea79fd1714d387b2ad510a9088e870b5a20adb18/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fudn.com%2F5e9950dde25539609d01d4618da22741.jpg",
+      "published_at": "2026-11-24T06:36:45+08:00",
+      "rank": 1
+    },
+    {
+      "id": "a060a69f81d19b74",
+      "category": "design",
+      "title": "臺北101點燈應援黃仁勳復職，賈永婕幽默回應引熱議",
+      "summary": "臺北101日前點燈聲援黃仁勳，遭外界質疑。隨黃仁勳復職，101點燈畫面再受關注，網友戲稱其為「全球最大光明燈」，董事長賈永婕幽默回應「是不是一片光明」，引發網路熱烈討論。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/101%E9%BB%9E%E7%87%88%E6%87%89%E6%8F%B4%E9%BB%83%E4%BB%81%E5%8B%B3%E9%87%8D%E8%BF%94%E8%BC%9D%E9%81%94-%E8%B3%88%E6%B0%B8%E5%A9%95%E7%A5%9E%E5%9B%9E%E6%87%89-%E7%B6%B2%E5%97%A8%E5%96%8A-%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%85%89%E6%98%8E%E7%87%88-031533200.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/f47408465312c5999ca01c18b5e4b3babfa733fcc654b8096e2b8f0a45979fa3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fgotv_ctitv_com_tw_678%2F85cb1402e92bc1666a8587df14c210a6.jpg",
+      "published_at": "2026-11-24T11:15:33+08:00",
       "rank": 2
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 7
-    },
-    {
-      "source": "聯合新聞網",
       "verified_candidates": 11
     },
     {
+      "source": "聯合新聞網",
+      "verified_candidates": 10
+    },
+    {
       "source": "ETtoday 新聞雲",
-      "verified_candidates": 19
+      "verified_candidates": 14
     },
     {
       "source": "中時新聞網",
-      "verified_candidates": 9
+      "verified_candidates": 8
     },
     {
       "source": "CNN",
@@ -204,7 +204,7 @@
     },
     {
       "source": "CNBC",
-      "verified_candidates": 6
+      "verified_candidates": 11
     }
   ]
 }
