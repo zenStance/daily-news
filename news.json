@@ -1,14 +1,14 @@
 {
-  "edition": "2026-11-27",
-  "updated_at": "2026-11-27T11:32:51.179475+08:00",
-  "window_start": "2026-11-26T11:32:31.486898+08:00",
-  "window_end": "2026-11-27T11:32:31.486898+08:00",
+  "edition": "2026-11-28",
+  "updated_at": "2026-11-28T11:09:42.142628+08:00",
+  "window_start": "2026-11-27T11:09:22.691162+08:00",
+  "window_end": "2026-11-28T11:09:22.691162+08:00",
   "articles": [
     {
       "id": "117d0100c5765e41",
       "category": "international",
-      "title": "伊朗遭控攻擊科威特致兩名義大利人死亡 伊朗否認並稱是戰爭陰謀",
-      "summary": "科威特軍方表示，伊朗發動攻擊導致兩名義大利人因飛彈碎片墜落身亡。伊朗軍方否認參與，外交部長阿卜杜拉希揚稱此事件為「可疑的戰爭配方」，並表示願配合調查。以色列則稱已準備好隨時對伊朗發動打擊。",
+      "title": "伊朗無人機攻擊科威特致2名義大利人死亡，伊朗否認涉案並稱是戰爭陰謀",
+      "summary": "科威特軍方表示，伊朗發動無人機攻擊導致2名義大利人死亡、2人受傷。伊朗軍方與外交部否認參與，稱此指控為美以勢力製造不穩定的藉口，並指該事件疑為戰爭陰謀，願配合調查。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108275157-1773000296367-gettyimages-2264890542-AFP_A2EL432.jpeg?v=1773000423&w=1920&h=1080",
@@ -16,187 +16,176 @@
       "rank": 1
     },
     {
-      "id": "0fad8f04033a1e96",
+      "id": "916fa9afd0b0325d",
       "category": "international",
-      "title": "川普表態歡迎普丁出席下月G20峰會 克里姆林宮尚未決定",
-      "summary": "美國總統川普表示，若俄羅斯總統普丁有意願，歡迎其參加下個月在佛州舉行的G20峰會，並稱「若由我決定，我會希望他來」。克里姆林宮回應目前尚未決定，將考量國內情勢後再做評估。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E6%99%AE%E4%B8%81%E8%B5%B4%E7%BE%8E%E5%87%BA%E5%B8%ADg20%E5%B3%B0%E6%9C%83-%E5%B7%9D%E6%99%AE%E8%A1%A8%E6%85%8B-%E4%BB%96%E6%83%B3%E4%BE%86%E7%95%B6%E7%84%B6%E5%8F%AF%E4%BB%A5-021600006.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/1e5cffc9fe093673e030a57987e768d50bf1dbec564d68ac3baff8249db3968b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fmnews_tw_258%2F54a62e9db64f85ffb370136e0d3a9f51.jpg_up.jpg",
-      "published_at": "2026-11-27T10:16:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "e3c71664bb512f40",
-      "category": "taiwan",
-      "title": "九合一選舉明登場 中選會提醒投票日禁止任何競選助選活動",
-      "summary": "2026九合一選舉將於28日舉行，中選會提醒，投票日凌晨0時起全面禁止競選與助選，包括透過LINE、Facebook等社群平臺傳送拉票訊息均屬違法，違者最高可處200萬元罰鍰，民眾亦不得穿戴候選人相關服飾進入投票所。",
-      "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E9%81%B8%E5%89%8D%E4%B9%8B%E5%A4%9C%E9%99%B8%E7%A9%BA%E6%BF%80%E6%88%B0-%E5%8C%97%E5%B8%82%E5%AF%A6%E9%AB%94%E5%B0%8D%E7%B7%9A%E4%B8%8A-%E6%96%B0%E5%8C%97%E8%97%8D%E7%B6%A0%E6%8B%9A%E5%A0%B4-223205432.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/c98ba94a4a16d2e74cddcf1721e937cd5055a83b21d7db08da54e663c54a0f74/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fudn.com%2Fb5d409c70e8344b2d22f532fe0330189.jpg",
-      "published_at": "2026-11-27T06:32:05+08:00",
-      "rank": 1
-    },
-    {
-      "id": "6d8dd9b3a97e99e1",
-      "category": "taiwan",
-      "title": "立院三讀透過普發2萬元條例 諮請總統府公佈並將編列預算",
-      "summary": "立法院三讀透過「全民共享經濟成果及穩定民生特別條例」，明定普發現金2萬元給全民且不排富。法案已送交總統府，行政院須於10天內決定是否副署，並於生效後1個月內將特別預算案送交立法院審議。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/6656/9903895",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/26/35556693.jpg&M=1&s=Y&x=0&y=0&sw=1142&sh=761&exp=3600",
-      "published_at": "2026-11-26T16:12:40+08:00",
-      "rank": 2
-    },
-    {
-      "id": "731d69fc1f806c3d",
-      "category": "us",
-      "title": "川普自豪促成黃仁勳回任輝達 稱其將開啟「第二任期」",
-      "summary": "美國總統川普公開表示，是他親自介入促成黃仁勳回任輝達執行長，並稱黃仁勳將此視為「第二任期」。川普強調此舉對美國與全球皆是好事，但其介入民間企業決策的行為已引發國會兩黨議員質疑，並揚言將展開調查。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/125066/9904956",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/27/35558204.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-11-27T08:07:57+08:00",
-      "rank": 1
-    },
-    {
-      "id": "d5f73ba4b22ba402",
-      "category": "us",
-      "title": "美第三季GDP上修至4.3% 川普質疑資料造假要求調查",
-      "summary": "美國商務部將第三季GDP成長率從3.4%上修至4.3%。川普對此表示不滿，稱其為「紀錄級錯誤」並要求立即調查，暗示資料發布時間可能影響了期中選舉結果。白宮則回應此為正常資料更新，顯示政策成效。",
+      "title": "西班牙舉行國會大選，中間偏右政黨有望勝出並與極右翼組閣",
+      "summary": "西班牙將舉行國會大選，民調顯示中間偏右的「人民黨」領先，可能與極右翼政黨「Vox」結盟執政。選戰焦點集中在住房與生活成本危機，若變天恐改變西班牙對美、中及北約的政策立場。",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108558897-1795558539233-gettyimages-2306217982-TRUMP_TURKEY_PARDON.jpeg?v=1795558966&w=1920&h=1080",
-      "published_at": "2026-11-27T01:57:32+08:00",
+      "url": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108559838-1795691246382-gettyimages-2306177236-AFP_D8HA863.jpeg?v=1795691270&w=1920&h=1080",
+      "published_at": "2026-11-27T21:00:42+08:00",
       "rank": 2
     },
     {
-      "id": "6fc2662a891621a6",
-      "category": "stocks",
-      "title": "臺股震盪走高 臺積電漲5元至2150元",
-      "summary": "美股四大指數跌多漲少，臺股27日開盤後震盪上漲，指數來到39232點。權值股方面，臺積電上漲5元至2150元，鴻海漲0.5元，聯發科與廣達則呈現下跌走勢。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3279216",
-      "image_url": "https://cdn2.ettoday.net/images/5581/e5581187.jpg",
-      "published_at": "2026-11-27T09:13:00+08:00",
+      "id": "19d2cacc7061aa8b",
+      "category": "taiwan",
+      "title": "新北九合一選舉投票狀況多，蘆洲五股發生撕毀選票事件",
+      "summary": "新北市九合一選舉投票日，蘆洲與五股投開票所發生撕票事件。一名78歲老翁因不解公投票作用撕毀選票，一名49歲婦人則因蓋錯章誤以為可重領而撕毀4張選票，警方認定均非蓄意，將移交選委會裁處。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261128001381-260402?ctrack=pc_main_alert_p01",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-28/656/20261128001382.jpg",
+      "published_at": "2026-11-28T10:48:21+08:00",
       "rank": 1
     },
     {
-      "id": "a39a3ac1e600bfba",
-      "category": "stocks",
-      "title": "股王信驊實施庫藏股自救 帶動多檔千金股反彈",
-      "summary": "股王信驊因股價近期大幅修正，宣佈自27日起實施庫藏股，預計買回100張以登出減資，激勵股價反彈站回十日線。此舉亦帶動川湖、健策、奇鋐、穎崴及緯穎等高價股同步走揚，穩住市場信心。",
+      "id": "c7dca552d352c7dd",
+      "category": "taiwan",
+      "title": "臺商返臺機票優惠遭疑介選，海基會：未掌握指令但屬市場幹預",
+      "summary": "針對大陸推出臺商返臺機票優惠方案，引發國安單位示警介選。海基會發言人黎寶文表示，目前未掌握臺商收到投票指令，但強調任何針對選舉時段的機票補貼，本質上就是對市場與民主運作的介入。",
       "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3279249",
-      "image_url": "https://cdn2.ettoday.net/images/8335/e8335124.jpg",
-      "published_at": "2026-11-27T10:00:00+08:00",
+      "url": "https://www.ettoday.net/news/20261127/3279543.htm",
+      "image_url": "https://cdn2.ettoday.net/images/9036/e9036045.jpg",
+      "published_at": "2026-11-27T16:36:00+08:00",
       "rank": 2
     },
     {
-      "id": "698d70aafc89d410",
-      "category": "finance",
-      "title": "中國10月工業利潤成長20.1% 創五個月新高",
-      "summary": "中國國家統計局資料顯示，10月工業利潤年增20.1%，創下5月以來最快增速。成長主要由電子製造業驅動，高科技製造業利潤跳升50.9%，反映AI運算需求帶動記憶體與相關製造業表現強勁。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108363244-1789497965297-gettyimages-2293419464-vcg111663866789.jpeg?v=1789497999&w=1920&h=1080",
-      "published_at": "2026-11-27T09:38:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "acdeb1a69a799b4e",
-      "category": "finance",
-      "title": "勞退金請領月份影響收益 專家建議待績效高檔再申請",
-      "summary": "專家指出，勞退金請領金額受基金收益率影響，且存在2個月時間差。若勞工在基金績效相對高檔時請領，可獲得較多收益。以今年6、7月收益率差異計算，200萬元退休金的請領金額可能相差約7.2萬元。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3279198",
-      "image_url": "https://cdn2.ettoday.net/images/9035/e9035238.jpg",
-      "published_at": "2026-11-27T07:54:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "b565226a86c8b46d",
-      "category": "china",
-      "title": "上海市委書記陳吉寧突遭調查 學者分析恐觸及習近平底線",
-      "summary": "中共政治局委員、上海市委書記陳吉寧突遭調查。學者分析，陳吉寧因年輕、專業且被外媒看好進入政治局常委，可能引發習近平對接班人選與權力穩定的危機感，導致其遭整肅，此舉亦顯示習近平對政權安全的焦慮。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7331/9905261",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/27/35558680.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-      "published_at": "2026-11-27T10:49:18+08:00",
-      "rank": 1
-    },
-    {
-      "id": "adad57b3f4f4b223",
-      "category": "china",
-      "title": "陸國防部：中美兩軍保持常態對話 願推動建設性穩定關係",
-      "summary": "針對川習會後中美軍事交流前景，中國國防部表示兩軍保持常態對話，願共同落實元首共識，推動建設性戰略穩定關係。發言人並重申臺灣問題立場，強調臺獨是絕路，反對外部勢力干涉。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261126/3279095.htm",
-      "image_url": "https://cdn2.ettoday.net/images/9034/e9034614.jpg",
-      "published_at": "2026-11-26T18:22:00+08:00",
-      "rank": 2
-    },
-    {
-      "id": "1fde66fb3c1f0e72",
-      "category": "technology",
-      "title": "穎崴看好AI需求 預期明年營收雙位數成長",
-      "summary": "半導體測試介面廠穎崴表示，AI晶片客戶需求積極，預期2027年營收將達雙位數成長。公司計畫擴充自製探針產能，目標明年底提升至月產2400萬支，並將在美國增設據點以就近服務客戶。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://finance.ettoday.net/news/3279089",
-      "image_url": "https://cdn2.ettoday.net/images/8500/e8500372.jpg",
-      "published_at": "2026-11-26T17:59:00+08:00",
-      "rank": 1
-    },
-    {
-      "id": "1dfe69c584efaa73",
-      "category": "technology",
-      "title": "SpaceX獲準部署百萬顆衛星 打造太空資料中心",
-      "summary": "美國聯邦通訊委員會批准SpaceX部署100萬顆衛星的計畫，旨在打造太空資料中心。SpaceX表示此舉可提升太陽能轉換效率並降低營運成本，美方則認為有助於美國在太空及AI領域取得領先地位。",
+      "id": "524ab54a713a7935",
+      "category": "us",
+      "title": "川普政府擬對14國加徵關稅，將其視為繞過國會的經濟工具",
+      "summary": "川普政府宣佈擬對中國、歐盟等14個貿易夥伴加徵關稅。在民主黨掌控國會的政治現實下，川普將關稅視為無需國會同意即可動用的最強經濟工具，旨在施壓外國、推動製造業迴流並增加政府收入。",
       "source": "Yahoo 奇摩新聞",
-      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E6%96%B9%E5%87%86%E4%BA%86-spacex%E7%94%B3%E8%AB%8B%E9%83%A8%E7%BD%B2100%E8%90%AC%E9%A1%86%E8%A1%9B%E6%98%9F-%E6%89%93%E9%80%A0%E5%A4%AA%E7%A9%BA%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83-234052953.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/83746c64fb0e7e25635cedf2dcf628a44d3b8d62cab7172740afc295209f4155/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnews_ttv_com_tw_433%2F9b927302fa1c697173840dfcb3c0ba08.jpg_up.jpg",
-      "published_at": "2026-11-27T07:40:52+08:00",
-      "rank": 2
-    },
-    {
-      "id": "3f6f6eeb521f33fb",
-      "category": "design",
-      "title": "LINE調整免費貼圖機制 封鎖官方帳號將無法使用",
-      "summary": "LINE宣佈自11月30日起，若使用者封鎖提供免費貼圖的官方帳號，該貼圖與表情貼將失效。官方建議使用者可改用「靜音」功能，以保留貼圖使用許可權並避免廣告訊息幹擾。",
-      "source": "聯合新聞網",
-      "url": "https://tech.udn.com/tech/story/123154/9905050",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/18/35530288.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=800&exp=3600",
-      "published_at": "2026-11-27T09:19:28+08:00",
+      "url": "https://tw.news.yahoo.com/%E5%85%B1%E5%92%8C%E9%BB%A8%E6%85%98%E6%95%97%E5%BE%8C-%E6%9C%9D%E5%B0%8F%E9%87%8E%E5%A4%A7%E6%88%90%E5%AE%9A%E5%B1%80-%E9%97%9C%E7%A8%85%E8%AE%8A%E5%B7%9D%E6%99%AE%E6%9C%80%E5%BC%B7%E7%B6%93%E6%BF%9F%E5%B7%A5%E5%85%B7-213243764.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/906d28ba0213896f40fdb12337e853169a241bf8f0aac9e8c9df0e73191d3815/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
+      "published_at": "2026-11-28T05:32:43+08:00",
       "rank": 1
     },
     {
-      "id": "2b76cc5daf222ebc",
-      "category": "design",
-      "title": "傳蘋果開發20吋摺疊iPad 售價恐突破16萬元",
-      "summary": "蘋果傳出正開發代號「Project J312」的摺疊iPad，螢幕尺寸約20吋，外型類似巨型iPhone Duo。該產品預計最快2029年推出，因成本與面板良率問題，預估售價將落在3000至5000美元之間。",
-      "source": "ETtoday 新聞雲",
-      "url": "https://www.ettoday.net/news/20261127/3279259.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8991/e8991112.jpg",
-      "published_at": "2026-11-27T11:15:00+08:00",
+      "id": "637377960abe6da9",
+      "category": "us",
+      "title": "通膨壓力下美國消費者更看重價值，黑色星期五買氣仍強勁",
+      "summary": "儘管高通膨與經濟不確定性影響信心，美國零售資料顯示假期消費依然強勁。消費者在購物時更強調價值與折扣，Adobe資料顯示11月前22天線上消費額年增9.1%，顯示黑色星期五買氣未受通膨顯著抑制。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108560334-1795816810559-gettyimages-2248285067-emaz-1_em27443.jpeg?v=1795816828&w=1920&h=1080",
+      "published_at": "2026-11-27T19:00:01+08:00",
       "rank": 2
+    },
+    {
+      "id": "6e436d365b1d8e51",
+      "category": "stocks",
+      "title": "美股AI類股領軍反彈收高，臺積電ADR漲逾3%但臺指期夜盤下跌",
+      "summary": "美股27日由AI相關類股帶動反彈，四大指數全數收高，費城半導體指數漲幅達4.69%，臺積電ADR上漲3.21%。然而，臺指期夜盤表現疲軟，反跌197點，市場對AI產業後續節奏仍持觀望態度。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3279722",
+      "image_url": "https://cdn2.ettoday.net/images/9002/e9002506.jpg",
+      "published_at": "2026-11-28T05:33:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "062bd3b00e27abff",
+      "category": "stocks",
+      "title": "臺股強新遭列處置股，11月30日起至12月4日採分盤交易",
+      "summary": "證交所與櫃買中心公告，強新（5013）因近期股價跌幅達標，自11月30日起至12月4日列為處置股，期間改採每2分鐘撮合一次的分盤交易，提醒投資人注意交易風險。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3279603",
+      "image_url": "https://cdn2.ettoday.net/images/8308/e8308224.jpg",
+      "published_at": "2026-11-27T17:55:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "02678b6270f0b701",
+      "category": "finance",
+      "title": "主計總處大幅上修今年經濟成長率至13.28%，創近半世紀新高",
+      "summary": "主計總處大幅上修今年經濟成長率至13.28%，創1979年以來新高，明年預測成長率亦上修至6.51%。今年人均GDP預估突破4萬美元，明年更有望挑戰5萬美元，主要受惠於半導體與AI產業強勁投資。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://finance.ettoday.net/news/3279635",
+      "image_url": "https://cdn2.ettoday.net/images/8562/e8562160.jpg",
+      "published_at": "2026-11-27T21:16:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "182a70b591227e87",
+      "category": "finance",
+      "title": "AI巨頭信用違約交換報價創新高，專家：反映市場重新定價資本支出",
+      "summary": "甲骨文、Alphabet及CoreWeave等AI相關企業的信用違約交換（CDS）報價創歷史新高。專家阮慕驊分析，此現象非企業倒帳風險，而是市場重新檢視AI巨額資本支出能否回收，反映市場對投資報酬率的重新定價。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261128001204-260410?ctrack=pc_main_recmd_p13",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-28/656/20261128001206.jpg",
+      "published_at": "2026-11-28T10:03:24+08:00",
+      "rank": 2
+    },
+    {
+      "id": "d7944e82cdc93086",
+      "category": "china",
+      "title": "北京承諾擴大國家隊資金支援，中國晶片股創單日最大漲幅",
+      "summary": "中國官方承諾擴大國家隊資金以穩定市場，激勵中國股市強勁反彈。CSI半導體指數單日飆漲17.6%，創下歷史紀錄。此舉旨在應對美國對先進AI晶片的出口限制，加速推動半導體產業自主化。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316445-1780531868664-gettyimages-2267522618-Stock_Market.jpeg?v=1780531885&w=1920&h=1080",
+      "published_at": "2026-11-27T18:07:47+08:00",
+      "rank": 1
+    },
+    {
+      "id": "ad43f6c4856ee711",
+      "category": "china",
+      "title": "珠海航展將於12月開幕，殲-20A與運-20B首次公開亮相",
+      "summary": "第16屆珠海航展將於12月7日至13日舉行，中共空軍將展出33型裝備。其中，殲-20A戰機與運-20B大型運輸機將首次對民眾進行飛行展示，海軍也將同步展出殲-15T艦載機等新型裝備。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261127/3279467.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8601/e8601288.jpg",
+      "published_at": "2026-11-27T14:35:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "999c9a82c938e1a6",
+      "category": "technology",
+      "title": "輝達Blackwell晶片現蹤上海資料中心，裝置來源引發關注",
+      "summary": "彭博揭露上海長三角人工智慧超算中心裝設搭載輝達Blackwell晶片的伺服器機櫃，其中一套機櫃經序號比對為技嘉科技製造。由於該晶片受美國出口管制，裝置如何流入中國引發外界對規避管制的調查。",
+      "source": "Yahoo 奇摩新聞",
+      "url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94blackwell%E7%B3%BB%E5%88%97%E5%85%88%E9%80%B2%E6%99%B6%E7%89%87%E7%8F%BE%E8%B9%A4%E4%B8%8A%E6%B5%B7-%E8%BF%BD1-5%E5%99%B8-%E4%BC%BA%E6%9C%8D%E5%99%A8%E6%A9%9F%E6%AB%83-%E5%86%8D%E7%89%BD%E5%87%BA%E9%BB%83%E6%A8%82-015400660.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/37c1a2d2a41786927fab4a312212f503b74003217295cb77393e2d1d987ac411/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F153885751c679246872a0f62ef8b3331.jpg",
+      "published_at": "2026-11-28T09:54:00+08:00",
+      "rank": 1
+    },
+    {
+      "id": "0114c52d215a064b",
+      "category": "technology",
+      "title": "微軟高層回應Windows 12進度，強調當務之急是最佳化Windows 11",
+      "summary": "針對Windows 12發布時間，微軟高層表示目前無具體計畫，當務之急是鞏固Windows 11的品質與效能，並證明AI功能對使用者的實質幫助。微軟目前正致力於最佳化系統以適應低記憶體裝置的執行體驗。",
+      "source": "ETtoday 新聞雲",
+      "url": "https://www.ettoday.net/news/20261128/3279764.htm",
+      "image_url": "https://cdn2.ettoday.net/images/6203/e6203601.jpg",
+      "published_at": "2026-11-28T10:21:00+08:00",
+      "rank": 2
+    },
+    {
+      "id": "d9be37e85277096c",
+      "category": "design",
+      "title": "黃仁勳昔日豪宅內部曝光，設計融合私人酒窖與拱門長廊",
+      "summary": "輝達執行長黃仁勳夫婦昔日住處影像曝光，宅邸設計包含私人泳池、酒窖及撞球室。室內裝潢以米色牆面搭配白色拱門長廊，戶外則設有藤蔓棚架與修剪整齊的綠籬，展現出兼具生活機能與優雅美學的空間設計。",
+      "source": "中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20261128001089-260408?ctrack=pc_main_alert_p02",
+      "image_url": "https://images.chinatimes.com/newsphoto/2026-11-28/656/20261128001090.jpg",
+      "published_at": "2026-11-28T09:36:18+08:00",
+      "rank": 1
     }
   ],
   "source_status": [
     {
       "source": "Yahoo 奇摩新聞",
-      "verified_candidates": 11
+      "verified_candidates": 9
     },
     {
       "source": "聯合新聞網",
-      "verified_candidates": 14
+      "verified_candidates": 8
     },
     {
       "source": "ETtoday 新聞雲",
-      "verified_candidates": 13
+      "verified_candidates": 15
     },
     {
       "source": "中時新聞網",
-      "verified_candidates": 8
+      "verified_candidates": 6
     },
     {
       "source": "CNN",
